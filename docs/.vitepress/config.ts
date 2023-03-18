@@ -28,7 +28,7 @@ export default defineConfig({
         ]
       }
     ],
-    outline: 2, 
+    outline: 'deep', 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/pzm9012' }
     ],
