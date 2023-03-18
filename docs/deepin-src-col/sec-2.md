@@ -314,4 +314,4 @@ title: 二、系统
 1. 浅探 deepin Live 和修复 Linux 引导：[https://www.yuque.com/pzm9012/ct5ume/ihc99w](https://www.yuque.com/pzm9012/ct5ume/ihc99w)
 2. Deepin Community Live CD 1.6.0：[https://bbs.deepin.org/post/247602](https://bbs.deepin.org/post/247602)
 3. Deepin Community Live CD Install 1.7.0：[https://bbs.deepin.org/post/247643](https://bbs.deepin.org/post/247643)
-4. 用ventoy运行deepin不用安装到硬盘的方法：[https://bbs.deepin.org/zh/post/223203](https://bbs.deepin.org/zh/post/223203)
+4. 用ventoy运行deepin不用安装到硬盘的方法：[https://bbs.deepin.org/zh/post/223203](https://bbs.deepin.org/zh/post/223203) 
