@@ -90,3 +90,53 @@ title: 二、系统
 19. birdtray——为ThunderBird邮箱客户端添加托盘区小图标：[https://bbs.deepin.org/post/251789](https://bbs.deepin.org/post/251789)
 20. 魔改suspend.target解决Deepin睡眠休眠问题：[https://bbs.deepin.org/post/253413](https://bbs.deepin.org/post/253413)
 
+## 2.5 系统使用
+
+1. deepin的bilibili个人空间：[https://space.bilibili.com/137324885](https://space.bilibili.com/137324885) （前往查看更多官方教程）
+2. Deepin 自用优化：[https://bbs.deepin.org/zh/post/245085](https://bbs.deepin.org/zh/post/245085)
+
+### 2.5.1 桌面环境
+
+1. 在Linux中创建应用图标：[https://bbs.deepin.org/zh/post/225323](https://bbs.deepin.org/zh/post/225323)
+2. 安装gnome：[https://bbs.deepin.org/zh/post/207834](https://bbs.deepin.org/zh/post/207834)（见回复）
+3. 通过外部应用实现的热区：omd-requ：[https://bbs.deepin.org/zh/post/226623](https://bbs.deepin.org/zh/post/226623)
+4. 在Linux下配置人脸识别：[https://bbs.deepin.org/zh/post/224848](https://bbs.deepin.org/zh/post/224848)
+5. 深度Linux Deepin设置分辨率为1920x1080：[https://www.jianshu.com/p/89a1bf1905d8](https://www.jianshu.com/p/89a1bf1905d8)
+6. 手把手教你用deepin20——多任务视图与窗口技巧：[https://bbs.deepin.org/post/233111](https://bbs.deepin.org/post/233111)
+7. better-dde: 让 DDE 更美好：[https://bbs.deepin.org/zh/post/237746](https://bbs.deepin.org/zh/post/237746)
+8. deepin使用KDE桌面：[https://bbs.deepin.org/zh/post/239596](https://bbs.deepin.org/zh/post/239596)
+9. deepin使用xfce4桌面：[https://bbs.deepin.org/zh/post/239619](https://bbs.deepin.org/zh/post/239619)
+10. 退出桌面后如何再次回到桌面登录模式：[https://bbs.deepin.org/zh/post/248488](https://bbs.deepin.org/zh/post/248488)
+
+### 2.5.2 应用处理
+
+1. 删除卸载残留的应用配置：[https://bbs.deepin.org/zh/post/227702](https://bbs.deepin.org/zh/post/227702)
+2. 在dde File Manager的较上端加入菜单项（类似深度压缩）：[https://bbs.deepin.org/zh/post/229467](https://bbs.deepin.org/zh/post/229467)
+3. deb软件包安装卸载失败修复教程：[https://bbs.deepin.org/zh/post/217421](https://bbs.deepin.org/zh/post/217421)
+4. deepin中Typora无法设置为默认程序的解决办法：[https://blog.csdn.net/Charley_Leo/article/details/107091222](https://blog.csdn.net/Charley_Leo/article/details/107091222)
+5. deepin更新提示缺少release文件：[https://bbs.deepin.org/post/238809](https://bbs.deepin.org/post/238809)
+6. deepin如何搭建本地软件源：[https://bbs.deepin.org/zh/post/239722](https://bbs.deepin.org/zh/post/239722)
+7. 浏览器鼠标滑动太慢？ 一个插件解决所有问题——SmoothScroll：[https://bbs.deepin.org/post/242460](https://bbs.deepin.org/post/242460)
+8. 连续输错密码无法登录？解决办法：[https://bbs.deepin.org/post/243165](https://bbs.deepin.org/post/243165)
+9. 开源的玲珑 deepin20编译版本 先享版本：[https://bbs.deepin.org/post/246491](https://bbs.deepin.org/post/246491)
+10. 求GUI软件包管理器：[https://bbs.deepin.org/post/248099](https://bbs.deepin.org/post/248099)
+11. 使用UOS安装器安装deb包后直接启动界面程序：[https://bbs.deepin.org/zh/post/248400](https://bbs.deepin.org/zh/post/248400)
+12. linux下彻底删除软件及配置文件：[https://blog.csdn.net/weixin_41549393/article/details/118389787](https://blog.csdn.net/weixin_41549393/article/details/118389787)
+13. 希望能有一个更好用得软件包及依赖下载工具：[https://bbs.deepin.org/zh/post/248422](https://bbs.deepin.org/zh/post/248422)  （见19楼）
+
+### 2.5.3 输入法
+
+1. 创作自己的输入法皮肤(**适用于旧版fcitx**)：[https://bbs.deepin.org/zh/post/210018](https://bbs.deepin.org/zh/post/210018)
+2. 安装及使用Rime输入法--中州韵输入法：[https://bbs.deepin.org/zh/post/207410](https://bbs.deepin.org/zh/post/207410)
+3. 手动编绎fcitx5教程：[https://bbs.deepin.org/zh/post/208959](https://bbs.deepin.org/zh/post/208959)
+4. Deepin 20.3上使用Fcitx5的方法：[https://bbs.deepin.org/post/224852](https://bbs.deepin.org/post/224852) （个人推荐）
+5. deepin正式版/uos家庭版安装fcitx5：[https://bbs.deepin.org/zh/post/223758](https://bbs.deepin.org/zh/post/223758)
+6. fcitx5输入法使用技巧&简约皮肤分享：[https://bbs.deepin.org/zh/post/223743](https://bbs.deepin.org/zh/post/223743)
+7. deepin深度简约 fcitx5主题：[https://bbs.deepin.org/zh/post/228832](https://bbs.deepin.org/zh/post/228832)
+8. 中州韵98五笔助手：[https://bbs.deepin.org/zh/post/231400](https://bbs.deepin.org/zh/post/231400)
+9. 输入法不跟随光标：[https://bbs.deepin.org/zh/post/231849](https://bbs.deepin.org/post/231849)
+10. 在deepin上使用fcitx5输入法：[https://bbs.deepin.org/zh/post/243632](https://bbs.deepin.org/zh/post/243632)（个人推荐）
+11. 安装了fcitx5输入法就无法安装其它输入法 的解决方法：[https://bbs.deepin.org/post/246805](https://bbs.deepin.org/post/246805)
+12. 制作 fcitx5 的自定义词库：[https://bbs.deepin.org/post/253191](https://bbs.deepin.org/post/253191)
+13. 输入法用shift 切换中英文：[https://bbs.deepin.org/post/252988](https://bbs.deepin.org/post/252988)
+14. 中州韵98五笔助手：中州韵参数与词库管理的可视化工具：[https://bbs.deepin.org/post/251845](https://bbs.deepin.org/post/251845)
