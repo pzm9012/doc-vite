@@ -1,2 +1,16 @@
-# 说明
-这里集中发布了一些 pzm9012 的文章。从左侧的目录开始阅读吧！（移动端在左上角打开目录）
+---
+layout: home
+
+hero:
+  name: "pzm9012 的文稿"
+  text: "pzm9012 的文章，现由 VitePress 强力驱动"
+  tagline: My great project tagline
+  actions:
+    - theme: brand
+      text: 开始阅读
+      link: /home
+    - theme: alt
+      text: 我的 deepin 论坛主页
+      link: https://bbs.deepin.org/user/217969
+
+---
