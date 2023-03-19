@@ -18,7 +18,7 @@ export default defineConfig({
       {
         text: 'deepin 常用资源整理',
         items: [
-          { text: '说明', link: '/deepin-src-col' },
+          { text: '说明', link: '/deepin-src-col/index' },
           { text: '一、综合', link: '/deepin-src-col/sec-1' },
           { text: '二、系统', link: '/deepin-src-col/sec-2' },
           { text: '三、硬件和设备', link: '/deepin-src-col/sec-3' },
@@ -28,7 +28,7 @@ export default defineConfig({
         ]
       }
     ],
-    outline: 'deep', 
+    outline: [2, 4], 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/pzm9012' }
     ],
