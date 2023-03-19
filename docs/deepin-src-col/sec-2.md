@@ -140,3 +140,78 @@ title: 二、系统
 12. 制作 fcitx5 的自定义词库：[https://bbs.deepin.org/post/253191](https://bbs.deepin.org/post/253191)
 13. 输入法用shift 切换中英文：[https://bbs.deepin.org/post/252988](https://bbs.deepin.org/post/252988)
 14. 中州韵98五笔助手：中州韵参数与词库管理的可视化工具：[https://bbs.deepin.org/post/251845](https://bbs.deepin.org/post/251845)
+
+### 2.5.4 性能
+
+1. 交换空间：[https://wiki.archlinux.org/title/Swap_(简体中文)](https://wiki.archlinux.org/title/Swap_(简体中文)) （适用于deepin，安装系统后可按“交换文件”部分设置swap）
+2. 对小内存用户的使用建议 防卡设置：[https://bbs.deepin.org/zh/post/199563](https://bbs.deepin.org/zh/post/199563) （文件所在位置为/usr/lib/sysctl.d/deepin.conf ，要以管理员身份打开）
+3. 为什么空闲时CPU睿频起飞：[https://bbs.deepin.org/zh/post/222430](https://bbs.deepin.org/zh/post/222430)
+4. 解决Deepin下CPU不能自主降频问题：[https://bbs.deepin.org/zh/post/194744](https://bbs.deepin.org/zh/post/194744)
+5. deepin桌面卡死处理：[https://bbs.deepin.org/zh/post/225151](https://bbs.deepin.org/zh/post/225151)
+6. 启动wine qq时偶发性使桌面崩溃：[https://bbs.deepin.org/zh/post/207380](https://bbs.deepin.org/zh/post/207380)
+7. 性能与功耗之间的权衡与调整第三版：[https://bbs.deepin.org/zh/post/223793](https://bbs.deepin.org/zh/post/223793)
+8. nvidia显卡firefox硬解在线视频：[https://bbs.deepin.org/zh/post/233052](https://bbs.deepin.org/zh/post/233052)
+9. deepin如何给根目录扩容：[https://bbs.deepin.org/zh/post/237402](https://bbs.deepin.org/zh/post/237402)
+10. 替 swap 辩护：常见的误解：[https://bbs.deepin.org/zh/post/242907](https://bbs.deepin.org/zh/post/242907)
+11. 用 ZRAM 替代 SWAP，榨干内存的每一分价值：[https://bbs.deepin.org/post/247916](https://bbs.deepin.org/post/247916)
+12. 改善intel iris xe集显低压轻薄本的核显性能释放技巧：[https://bbs.deepin.org/post/246471](https://bbs.deepin.org/post/246471)
+13. 获取进程处理器及内存占用等信息：[https://bbs.deepin.org/post/247373](https://bbs.deepin.org/post/247373)
+
+### 2.5.5 命令与终端
+
+1. 使用过的一些命令分享：[https://bbs.deepin.org/zh/post/223660](https://bbs.deepin.org/zh/post/223660)
+2. 以root权限运行命令配置无需输入密码（sudo和pkexec）：[https://bbs.deepin.org/zh/post/229374](https://bbs.deepin.org/zh/post/229374)
+3. apt和apt-get的区别：[https://bbs.deepin.org/zh/post/208702](https://bbs.deepin.org/zh/post/208702)
+4. 查看系统安装的日期与时间：[https://bbs.deepin.org/zh/post/229311](https://bbs.deepin.org/zh/post/229311)
+5. 手把手教你装zsh，所有github链接都换成了gitee，包你安装顺利：[https://bbs.deepin.org/zh/post/237774](https://bbs.deepin.org/zh/post/237774)
+6. 使用fish代替bash，真好用：[https://bbs.deepin.org/zh/post/238189](https://bbs.deepin.org/zh/post/238189)
+7. 使用alias简化命令：[https://bbs.deepin.org/zh/post/239361](https://bbs.deepin.org/zh/post/239361)
+8. 一个系统安装包配置脚本 autosetup for Deepin OS：[https://bbs.deepin.org/post/241041](https://bbs.deepin.org/post/241041)
+9. 写了个脚本，让apt-ftparchieve也能增量扫描更新deb仓库：[https://bbs.deepin.org/post/242570](https://bbs.deepin.org/post/242570)
+10.  命令行怎么修改语言：[https://bbs.deepin.org/post/247451](https://bbs.deepin.org/post/247451)
+11. transhell——一个让bash脚本可以国际化的方案：[https://bbs.deepin.org/post/249136](https://bbs.deepin.org/post/249136)
+12. 一些命令：[https://bbs.deepin.org/post/250551](https://bbs.deepin.org/post/250551)（有些解释不太对，请看帖子下大佬们的补充）
+
+### 2.5.6 文件处理
+
+1. 不安装任何软件实现局域网快速共享文件：[https://bbs.deepin.org/zh/post/209250](https://bbs.deepin.org/zh/post/209250)
+2. 如何设置共享文件，windows访问deepin共享文件方法：[https://bbs.deepin.org/zh/post/195192](https://bbs.deepin.org/zh/post/195192)
+3. deepin下如何访问Windows共享资料：[https://bbs.deepin.org/zh/post/208246](https://bbs.deepin.org/zh/post/208246)
+4. Linux桌面环境与Win10之间共享文件夹的互相访问：[https://www.jianshu.com/p/f872fe1d02dc](https://www.jianshu.com/p/f872fe1d02dc)
+5. 回收站无法清空的解决方法：[https://bbs.deepin.org/zh/post/205839](https://bbs.deepin.org/zh/post/205839)
+6. 开机自动挂载webdav：[https://bbs.deepin.org/zh/post/229044](https://bbs.deepin.org/zh/post/229044)
+7. FTP服务搭建（vsftpd配置使用）：[https://blog.csdn.net/babyfengfjx/article/details/122837362](https://blog.csdn.net/babyfengfjx/article/details/122837362)
+8. 使用docker拉取CloudDrive镜像实现把网盘挂载到系统：[https://bbs.deepin.org/zh/post/237552](https://bbs.deepin.org/zh/post/237552)
+9. 格式化硬盘后文件管理器显示62.3G占用：[https://bbs.deepin.org/post/238570](https://bbs.deepin.org/post/238570)
+10. 一篇分权共享 samba 文件夹的水贴：[https://bbs.deepin.org/zh/post/239448](https://bbs.deepin.org/zh/post/239448)
+11. Deepin20访问WINDOWS10共享盘并获取读写权限心路历程：[https://bbs.deepin.org/post/245662](https://bbs.deepin.org/post/245662)
+
+### 2.5.7 其他
+
+1. 在deepin上使用LaTeX：[https://bbs.deepin.org/zh/post/229734](https://bbs.deepin.org/zh/post/229734)
+2. 一句命令行安装live系统 解决手动分区无备份还原系统等问题：[https://bbs.deepin.org/zh/post/215165](https://bbs.deepin.org/zh/post/215165)
+3. Windows ssh 客户端 PuTTY 正向与反向流量转发（转）：[https://bbs.deepin.org/zh/post/230148](https://bbs.deepin.org/zh/post/230148)
+4. deepin下ssh常用网络功能：[https://bbs.deepin.org/zh/post/231835](https://bbs.deepin.org/zh/post/231835)
+5. 桌面固定网络驱动器的教程视频-适用群晖、威联通NAS/共享文件夹：[https://bbs.deepin.org/zh/post/231878](https://bbs.deepin.org/zh/post/231878)
+6. 助力轻松修改你的系统用户名：[https://bbs.deepin.org/zh/post/232575](https://bbs.deepin.org/zh/post/232575)
+7. 深度文件管理器改造小记：[https://bbs.deepin.org/zh/post/237345](https://bbs.deepin.org/zh/post/237345)
+8. 找了很久的 while 无限循环终于解决了输入判断的问题：[https://bbs.deepin.org/zh/post/236712](https://bbs.deepin.org/zh/post/236712)
+9. 自定义控制中心的关于本机：[https://bbs.deepin.org/zh/post/237500](https://bbs.deepin.org/zh/post/237500)
+10. 如何设置锁屏时间为3min?：[https://bbs.deepin.org/zh/post/237606](https://bbs.deepin.org/zh/post/237606)
+11. 控制中心 VPN 网关只能输入 IP 地址很反人类？试试这个：[https://bbs.deepin.org/zh/post/238342](https://bbs.deepin.org/zh/post/238342)
+12. 当linux杀毒软件遇到windows病毒——几款linux杀毒软件测试：[https://bbs.deepin.org/zh/post/239285](https://bbs.deepin.org/zh/post/239285)
+13. gocron定时任务：[https://bbs.deepin.org/zh/post/239475](https://bbs.deepin.org/zh/post/239475)
+14. deepin使用再生龙Clonezilla做备份还原：[https://bbs.deepin.org/zh/post/239899](https://bbs.deepin.org/zh/post/239899)
+15. 浅谈Deepin备份恢复：[https://bbs.deepin.org/post/241469](https://bbs.deepin.org/post/241469)
+16. 一次完整的系统盘恢复经历：[https://bbs.deepin.org/post/242956](https://bbs.deepin.org/post/242956)
+17. 想问下应用商店是怎么只获取用户安装的应用的：[https://bbs.deepin.org/zh/post/227355](https://bbs.deepin.org/zh/post/227355)
+18. 深度商店巨量垃圾图标缓存位置：[https://bbs.deepin.org/zh/post/244113](https://bbs.deepin.org/zh/post/244113)
+19. 如何删除文件管理器内多出来的百度网盘、抖音等图标：[https://bbs.deepin.org/post/245100](https://bbs.deepin.org/post/245100)
+20. btrfs文件系统的创建、挂载、调整：[https://bbs.deepin.org/post/246616](https://bbs.deepin.org/post/246616)
+21. 分享几例 Linux 环境变量故障的解决：[https://bbs.deepin.org/post/246288](https://bbs.deepin.org/post/246288)
+22. 今天写写有关deepin的网络安全：[https://bbs.deepin.org/post/246674](https://bbs.deepin.org/post/246674)
+23. 如何获取对应系统日志：[https://bbs.deepin.org/post/247764](https://bbs.deepin.org/post/247764)
+24. 在deepin上使用容器扩展生态（支持图形软件甚至桌面环境）：[https://bbs.deepin.org/post/248123](https://bbs.deepin.org/post/248123)
+25. 常用快捷键整理：[https://bbs.deepin.org/zh/post/243512](https://bbs.deepin.org/zh/post/243512)
+26. 怎么取消Alt+空格的快捷键：[https://bbs.deepin.org/post/248391](https://bbs.deepin.org/post/248391)
+27. Deepin默认的时区设置浏览器不认导致变慢解决方法：[https://bbs.deepin.org/zh/post/253239](https://bbs.deepin.org/zh/post/253239)  （概括：改为上海时间）
