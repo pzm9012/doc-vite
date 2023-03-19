@@ -291,3 +291,27 @@ title: 二、系统
 7. 自用 rEFInd 美化主题 【强烈推荐】：[https://bbs.deepin.org/post/250648](https://bbs.deepin.org/post/250648)
 8. V23Alpha2支持自定义主题色了，分享一些个人觉得好看的颜色：[https://bbs.deepin.org/post/251239](https://bbs.deepin.org/post/251239)
 9. 如何换掉deepin的开机动画，改成静态流浪地球2moss图：[https://bbs.deepin.org/post/250646](https://bbs.deepin.org/post/250646)
+
+## 2.7 系统有关介绍
+
+1. 你好，deepin：[https://bbs.deepin.org/zh/post/223462](https://bbs.deepin.org/zh/post/223462)
+2. 深度桌面环境介绍：[https://bbs.deepin.org/zh/post/213341](https://bbs.deepin.org/zh/post/213341)
+3. 分享那些可能被你忽略的deepin自带工具：[https://bbs.deepin.org/zh/post/227223](https://bbs.deepin.org/zh/post/227223)
+4. 20.2.3新功能展示——OCR文字识别：[https://bbs.deepin.org/zh/post/225260](https://bbs.deepin.org/zh/post/225260)
+5. 万众7待，焕新出发，deepin新版商店为你而来：[https://bbs.deepin.org/zh/post/222677](https://bbs.deepin.org/zh/post/222677)
+6. 全新的图标主题，就静静地欣赏，细细的品味：[https://bbs.deepin.org/zh/post/223494](https://bbs.deepin.org/zh/post/223494)
+7. 20.3新版本特性介绍（一）全局搜索：[https://bbs.deepin.org/zh/post/228676](https://bbs.deepin.org/zh/post/228676)
+8. 20.3新版本特性-文件管理器：[https://bbs.deepin.org/zh/post/230030](https://bbs.deepin.org/zh/post/230030)
+9. 20.4新版本特性①藏宝箱：[https://bbs.deepin.org/zh/post/231326](https://bbs.deepin.org/zh/post/231326)
+10. 20.4新版本特性②安装器：[https://bbs.deepin.org/zh/post/231570](https://bbs.deepin.org/zh/post/231570)
+11. 【视频】怀一腔孤勇，筑梦前行：[https://bbs.deepin.org/zh/post/231100](https://bbs.deepin.org/zh/post/231100)
+12. 20.4深度使用体验：[https://bbs.deepin.org/zh/post/231912](https://bbs.deepin.org/zh/post/231912)
+13. deepin 20.5——人脸解锁背后的那些事：[https://bbs.deepin.org/zh/post/234359](https://bbs.deepin.org/zh/post/234359)
+14. 20.6 deepin文字识别突然变得好用了？OCR升级的秘密在这里：[https://bbs.deepin.org/zh/post/238149](https://bbs.deepin.org/zh/post/238149)
+
+## 2.8 Live 系统/环境
+
+1. 浅探 deepin Live 和修复 Linux 引导：[https://www.yuque.com/pzm9012/ct5ume/ihc99w](https://www.yuque.com/pzm9012/ct5ume/ihc99w)
+2. Deepin Community Live CD 1.6.0：[https://bbs.deepin.org/post/247602](https://bbs.deepin.org/post/247602)
+3. Deepin Community Live CD Install 1.7.0：[https://bbs.deepin.org/post/247643](https://bbs.deepin.org/post/247643)
+4. 用ventoy运行deepin不用安装到硬盘的方法：[https://bbs.deepin.org/zh/post/223203](https://bbs.deepin.org/zh/post/223203)
