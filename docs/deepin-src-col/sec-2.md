@@ -215,3 +215,53 @@ title: 二、系统
 25. 常用快捷键整理：[https://bbs.deepin.org/zh/post/243512](https://bbs.deepin.org/zh/post/243512)
 26. 怎么取消Alt+空格的快捷键：[https://bbs.deepin.org/post/248391](https://bbs.deepin.org/post/248391)
 27. Deepin默认的时区设置浏览器不认导致变慢解决方法：[https://bbs.deepin.org/zh/post/253239](https://bbs.deepin.org/zh/post/253239)  （概括：改为上海时间）
+
+## 2.6 系统美化
+### 2.6.1 壁纸
+
+1. 壁纸与屏保--让你的deepin更好用：[https://bbs.deepin.org/zh/post/225531](https://bbs.deepin.org/zh/post/225531)
+2. 让Deepin吃上macOS的动态壁纸：[https://bbs.deepin.org/zh/post/206933](https://bbs.deepin.org/zh/post/206933)
+3. deepin上超好用的动态壁纸软件-幻梦动态壁纸：[https://bbs.deepin.org/zh/post/220785](https://bbs.deepin.org/zh/post/220785)
+4. 幻梦动态壁纸,DIY系统版：[https://bbs.deepin.org/zh/post/228082](https://bbs.deepin.org/zh/post/228082)
+5. 发现deepin登陆壁纸寻找逻辑：[https://bbs.deepin.org/zh/post/227912](https://bbs.deepin.org/zh/post/227912)
+6. 觉得启动器背景太丑？试试这个：[https://bbs.deepin.org/zh/post/237678](https://bbs.deepin.org/zh/post/237678)
+7. 教你怎样自己制作暗色壁纸：[https://bbs.deepin.org/zh/post/238967](https://bbs.deepin.org/zh/post/238967)
+8. 壁纸软件更新，一小波新功能：[https://bbs.deepin.org/post/246416](https://bbs.deepin.org/post/246416)（[GitHub](https://github.com/ambition-echo/earth_wallpaper)）
+9. 壁纸管理软件 One Wallhaven：[https://bbs.deepin.org/post/245752](https://bbs.deepin.org/post/245752)
+#### 2.6.1.1 壁纸图片
+
+1. 壁纸汇总：[https://gfdgd-xi.github.io/deepin.background.github.io/](https://gfdgd-xi.github.io/deepin.background.github.io/) （感谢 [@gfdgd xi](https://bbs.deepin.org/user/239113)）
+2. deepin壁纸（官方）：[https://bbs.deepin.org/zh/post/209087](https://bbs.deepin.org/zh/post/209087)
+3. deepin主题壁纸分享！（已上架应用商店）：[https://bbs.deepin.org/post/243280](https://bbs.deepin.org/post/243280)
+4. 官方壁纸分享！（第三期）：[https://bbs.deepin.org/post/241486](https://bbs.deepin.org/post/241486)
+5. Zorin OS 壁纸：[https://bbs.deepin.org/zh/post/219669](https://bbs.deepin.org/zh/post/219669)
+6. 两张失散已久的壁纸：[https://bbs.deepin.org/zh/post/223085](https://bbs.deepin.org/zh/post/223085)
+7. 从微博搬过来的两张壁纸：[https://bbs.deepin.org/zh/post/215923](https://bbs.deepin.org/zh/post/215923)
+8. 一个果里果气的桌面——CuteFish Desktop：[https://bbs.deepin.org/zh/post/223226](https://bbs.deepin.org/zh/post/223226)
+9. deepin 20.4& Cutefish OS 0.8壁纸：[https://bbs.deepin.org/zh/post/231497](https://bbs.deepin.org/zh/post/231497)
+10. deepin壁纸大赛优质壁纸分享：[https://bbs.deepin.org/zh/post/236372](https://bbs.deepin.org/zh/post/236372)
+11. 壁纸分享，定时更新：[https://bbs.deepin.org/zh/post/239742](https://bbs.deepin.org/zh/post/239742)
+12. Deepin味的Ubuntu壁纸：[https://bbs.deepin.org/post/244310](https://bbs.deepin.org/post/244310)
+13. 比较简约的壁纸：[https://bbs.deepin.org/post/244873](https://bbs.deepin.org/post/244873)
+14. 华芯-壁纸分享一：[https://bbs.deepin.org/post/245440](https://bbs.deepin.org/post/245440)
+15. 兔年壁纸来啦！（内含特别款）：[https://bbs.deepin.org/post/251092](https://bbs.deepin.org/post/251092)
+16. 蹭下热度，分享个流浪deepin的壁纸设计-已更新：[https://bbs.deepin.org/post/250827](https://bbs.deepin.org/post/250827)
+17. 用AI画了张deepin飞船的壁纸图片，你打几分？：[https://bbs.deepin.org/post/251891](https://bbs.deepin.org/post/251891)
+18. 高清壁纸分享第3期：[https://bbs.deepin.org/post/253308](https://bbs.deepin.org/post/253308)
+
+### 2.6.2 程序窗口
+
+1. 一行命令美化标题栏大额头，可设置任意高度和任意颜色：[https://bbs.deepin.org/zh/post/197036](https://bbs.deepin.org/zh/post/197036)
+2. 定制版最大化最小化关闭按钮：[https://bbs.deepin.org/zh/post/210071](https://bbs.deepin.org/zh/post/210071)
+3. 将菜单显示在标题栏上：[https://bbs.deepin.org/zh/post/224774](https://bbs.deepin.org/zh/post/224774)
+4. 第三方应用圆角适配，移植于cutefish：[https://bbs.deepin.org/zh/post/226223](https://bbs.deepin.org/zh/post/226223)
+5. 分享一种缩小应用标题栏（额头）高度的方法：[https://bbs.deepin.org/zh/post/234783](https://bbs.deepin.org/zh/post/234783)
+
+### 2.6.3 Dock、顶栏
+
+1. dde-top-panel 顶栏程序+全局菜单 (V20)：[https://bbs.deepin.org/zh/post/195128](https://bbs.deepin.org/zh/post/195128)
+2. 定制的dde-dock分享：[https://bbs.deepin.org/zh/post/224228](https://bbs.deepin.org/zh/post/224228)
+3. Linux桌面最轻量的Dock之Plank：[https://bbs.deepin.org/zh/post/215170](https://bbs.deepin.org/zh/post/215170)
+4. Deepin 上的实时网速推荐 lfxNet（重构 lfxSpeed ）：[https://bbs.deepin.org/zh/post/213210](https://bbs.deepin.org/zh/post/213210)
+5. 个性化随机启动器图标：[https://bbs.deepin.org/post/242038](https://bbs.deepin.org/post/242038)
+6. 更改启动器图标为deepin的logo：[https://bbs.deepin.org/post/252819](https://bbs.deepin.org/post/252819)
