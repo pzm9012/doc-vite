@@ -265,3 +265,29 @@ title: 二、系统
 4. Deepin 上的实时网速推荐 lfxNet（重构 lfxSpeed ）：[https://bbs.deepin.org/zh/post/213210](https://bbs.deepin.org/zh/post/213210)
 5. 个性化随机启动器图标：[https://bbs.deepin.org/post/242038](https://bbs.deepin.org/post/242038)
 6. 更改启动器图标为deepin的logo：[https://bbs.deepin.org/post/252819](https://bbs.deepin.org/post/252819)
+
+### 2.6.4 字体
+
+1. 如何在deepinOS上加入方正字体：[https://bbs.deepin.org/zh/post/228540](https://bbs.deepin.org/zh/post/228540)
+2. 超1000款UOS字体包：链接: [https://cloud.189.cn/t/uyeuQjU3IBZz](https://cloud.189.cn/t/uyeuQjU3IBZz) 密码: dr0l
+3. 华为鸿蒙中文字体DEB包：[https://bbs.deepin.org/zh/post/221591](https://bbs.deepin.org/zh/post/221591)
+4. 更换系统默认中文字体的技巧：[https://bbs.deepin.org/zh/post/237625](https://bbs.deepin.org/zh/post/237625)
+5. oooooomygosh 得意黑字体：[https://bbs.deepin.org/post/246007](https://bbs.deepin.org/post/246007)（[GitHub](https://github.com/atelier-anchor/smiley-sans)）
+6. 荣耀字体推荐：[https://bbs.deepin.org/post/246866](https://bbs.deepin.org/post/246866)
+7. [deb]荣耀字体 HONOR Sans CN 简体中文版 v1.02 下载：[https://bbs.deepin.org/post/247323](https://bbs.deepin.org/post/247323)
+8. [deb]阿里妈妈东方大楷：[https://bbs.deepin.org/zh/post/248908](https://bbs.deepin.org/zh/post/248908)
+9. [deb]标小智龙珠体(带圆点的卡通字体)：[https://bbs.deepin.org/post/250691](https://bbs.deepin.org/post/250691)
+10. [deb]Sarasa 更纱黑体 0.40.0（中文字体）：[https://bbs.deepin.org/post/251008](https://bbs.deepin.org/post/251008)
+11. [deb]思源黑体/宋体/ SC/CN 版、等宽版 下载：[https://bbs.deepin.org/post/251539](https://bbs.deepin.org/post/251539)
+
+### 2.6.5 其他
+
+1. 【Mac布局美化】美化无止境，只要肯折腾：[https://bbs.deepin.org/zh/post/196796](https://bbs.deepin.org/zh/post/196796)
+2. ~~Bloom Origin 图标提取分享：~~[~~https://bbs.deepin.org/zh/post/223230~~](https://bbs.deepin.org/zh/post/223230)（这里的图标包有些许 BUG，建议直接使用来自星火应用商店的 Blossom 图标）
+3. 图标主题的继承关系：[https://bbs.deepin.org/zh/post/203946](https://bbs.deepin.org/zh/post/203946)
+4. deepin美化系列教程（五）：[https://bbs.deepin.org/zh/post/227803](https://bbs.deepin.org/zh/post/227803)
+5. Win11开机logo(plymouth主题包)：[https://bbs.deepin.org/post/241268](https://bbs.deepin.org/post/241268)
+6. 图标主题分享：deepin icon 2022：[https://bbs.deepin.org/post/245970](https://bbs.deepin.org/post/245970)
+7. 自用 rEFInd 美化主题 【强烈推荐】：[https://bbs.deepin.org/post/250648](https://bbs.deepin.org/post/250648)
+8. V23Alpha2支持自定义主题色了，分享一些个人觉得好看的颜色：[https://bbs.deepin.org/post/251239](https://bbs.deepin.org/post/251239)
+9. 如何换掉deepin的开机动画，改成静态流浪地球2moss图：[https://bbs.deepin.org/post/250646](https://bbs.deepin.org/post/250646)
