@@ -42,6 +42,7 @@ export default defineConfig({
       next: '下一页'
     },
     darkModeSwitchLabel: '外观',
+    outlineTitle: '在此页上',
     sidebarMenuLabel: '菜单',
     returnToTopLabel: '返回顶部'
   }
