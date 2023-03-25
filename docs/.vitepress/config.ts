@@ -18,7 +18,7 @@ export default defineConfig({
       {
         text: 'deepin 常用资源整理',
         items: [
-          { text: '说明', link: '/deepin-src-col/index' },
+          { text: '说明', link: '/deepin-src-col/sec-0' },
           { text: '一、综合', link: '/deepin-src-col/sec-1' },
           { text: '二、系统', link: '/deepin-src-col/sec-2' },
           { text: '三、硬件和设备', link: '/deepin-src-col/sec-3' },
