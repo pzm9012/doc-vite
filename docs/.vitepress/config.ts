@@ -14,7 +14,7 @@ export default defineConfig({
     ],
 
     sidebar: [
-      { text: '首页', link: '/' },
+      { text: '首页', link: '/home' },
       {
         text: 'deepin 常用资源整理',
         items: [
