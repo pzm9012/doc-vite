@@ -26,7 +26,8 @@ export default defineConfig({
           { text: '五、社区与论坛', link: '/deepin-src-col/sec-5' },
           { text: '六、更多', link: '/deepin-src-col/sec-6' }
         ]
-      }
+      },
+      { text: '浅探 deepin Live 和修复 Linux 引导', link: '/deepin-live' }
     ],
     outline: [2, 4], 
     socialLinks: [
