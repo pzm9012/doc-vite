@@ -64,3 +64,27 @@ title: 二、系统
 5. 编译内核5.18.8解决了我好多问题：[https://bbs.deepin.org/zh/post/239766](https://bbs.deepin.org/zh/post/239766)
 6. 5条命令安装最新Linux kernel！**（Xanmod版）**：[https://bbs.deepin.org/post/240628](https://bbs.deepin.org/post/240628)
 7.  V23安装linux 6.1.0 内核：[https://bbs.deepin.org/post/247537](https://bbs.deepin.org/post/247537)
+
+## 2.4 问题解决
+
+1. ~~deepin和windows双系统时间不同步的解决方法：~~[~~https://bbs.deepin.org/zh/post/220213~~](https://bbs.deepin.org/zh/post/220213)（最佳的方案是**把 Windows 的时间标准改成 UTC**，要改注册表；因为只有 Windows 默认的时间标准是本地时间，除 Windows 之外的绝大多数操作系统都默认为 UTC ——[@SamLukeYes]()）
+2. 用snapd安装软件后出现多个磁盘：[https://bbs.deepin.org/zh/post/203517](https://bbs.deepin.org/zh/post/203517) （解决方法在7楼）
+3. 终于干掉snapd分区了：[https://bbs.deepin.org/zh/post/213673](https://bbs.deepin.org/zh/post/213673)
+4. 出现I/O或者blk报错的简易解决方法：[https://bbs.deepin.org/zh/post/224416](https://bbs.deepin.org/zh/post/224416)
+5. dde-control-center的快捷键设置无法拉起deepin-screen-recorder：[https://bbs.deepin.org/zh/post/227910](https://bbs.deepin.org/zh/post/227910)
+6. 禁止kwin的自动关闭3D窗管的方法：[https://bbs.deepin.org/zh/post/232810](https://bbs.deepin.org/zh/post/232810)
+7. 还在为没有公钥导致的无法更新而烦恼吗？这里有解决方案：[https://bbs.deepin.org/zh/post/237312](https://bbs.deepin.org/zh/post/237312)
+8. deepin忘记密码怎么办？--Live系统一步修改用户密码：[https://bbs.deepin.org/zh/post/238135](https://bbs.deepin.org/zh/post/238135)  （注意：任何能使用你电脑的人都可以这样重设密码，因此请采取合适措施来保护数据安全）
+9.  开机以后任务栏正下方的图标会以一定概率全部消失：[https://bbs.deepin.org/zh/post/244330](https://bbs.deepin.org/zh/post/244330)
+10. 关于十二代U的问题解决：[https://bbs.deepin.org/post/245513](https://bbs.deepin.org/post/245513)
+11. Deepin V23 Alpha 安装应用商店教程：[https://bbs.deepin.org/post/246010](https://bbs.deepin.org/post/246010)
+12. 最小化，最大化，关闭的按钮不见了：[https://bbs.deepin.org/post/236787](https://bbs.deepin.org/post/236787)
+13. 开机显示tty1 xxx-PC login:：[https://bbs.deepin.org/post/247479](https://bbs.deepin.org/post/247479)
+14. Linux 下恢复误删文件：[https://bbs.deepin.org/zh/post/243925](https://bbs.deepin.org/zh/post/243925)
+15. Linux 下固态硬盘恢复误删除文件：[https://bbs.deepin.org/post/244995](https://bbs.deepin.org/post/244995)
+16. 个别符号（比如“属于”“不等式”）显示错误：星火商店下载  spk://store/tools/symbol-fonts
+17. 如何去除 update-grub 报错“get rootb uuid error”：[https://bbs.deepin.org/post/250728](https://bbs.deepin.org/post/250728)
+18. V23 使用KODI无法正常打开的临时解决方案：[https://bbs.deepin.org/post/251175](https://bbs.deepin.org/post/251175)
+19. birdtray——为ThunderBird邮箱客户端添加托盘区小图标：[https://bbs.deepin.org/post/251789](https://bbs.deepin.org/post/251789)
+20. 魔改suspend.target解决Deepin睡眠休眠问题：[https://bbs.deepin.org/post/253413](https://bbs.deepin.org/post/253413)
+
