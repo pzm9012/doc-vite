@@ -1,5 +1,5 @@
 # 浅探 deepin Live 和修复 Linux 引导
-> 本文的其他发布平台：[deepin Wiki](https://wiki.deepin.org/zh/04_%E6%8C%89%E5%90%AF%E5%8A%A8%E9%A1%BA%E5%BA%8F%E5%88%92%E5%88%86/00_%E7%B3%BB%E7%BB%9F%E5%90%AF%E5%8A%A8%E5%89%8D/01_%E5%90%AF%E5%8A%A8%E9%A1%B9%E7%9B%B8%E5%85%B3/%E6%B5%85%E6%8E%A2deepin-Live%E5%92%8C%E4%BF%AE%E5%A4%8DLinux%E5%BC%95%E5%AF%BC)[语雀](https://www.yuque.com/pzm9012/ct5ume/ihc99w)
+> 本文的其他发布平台：[deepin Wiki](https://wiki.deepin.org/zh/04_%E6%8C%89%E5%90%AF%E5%8A%A8%E9%A1%BA%E5%BA%8F%E5%88%92%E5%88%86/00_%E7%B3%BB%E7%BB%9F%E5%90%AF%E5%8A%A8%E5%89%8D/01_%E5%90%AF%E5%8A%A8%E9%A1%B9%E7%9B%B8%E5%85%B3/%E6%B5%85%E6%8E%A2deepin-Live%E5%92%8C%E4%BF%AE%E5%A4%8DLinux%E5%BC%95%E5%AF%BC)、[语雀](https://www.yuque.com/pzm9012/ct5ume/ihc99w)
 > （教程仅供参考，请以实际情况为准。）
 本文是我综合网络上的几篇教程和自己不久前用 LiveCD 修复 UOS 引导的经历写成的，前半部分是对 deepin Live 的说明，后半部分是修复 Linux 引导的可能方法。
 ## 准备
