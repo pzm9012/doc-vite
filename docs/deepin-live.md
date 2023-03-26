@@ -16,4 +16,4 @@ Live 系统一般是用来体验或者修复本地 Linux 的，部分功能可�
 ### 1.1 通过 deepin 安装镜像进入 Live 
 首先，制作一个 deepin 安装镜像的启动盘，然后重启电脑，按启动热键进启动菜单，选择从 U 盘启动。
 
-UEFI 启动（现在的大部分电脑）：当任意一个“Install Deepin”高亮时（新电脑建议选择 kernel 内核版本较高的选项），按 e ，然后用方向键移动光标，删去 'livecd-installer'  （也有人认为是删去“-installer ”），后面的代码改为 'locales=zh_CN.UTF-8' （s不要漏了，若一样则不用改），按 F10 进入。
+UEFI 启动（现在的大部分电脑）：当任意一个“Install Deepin”高亮时（新电脑建议选择 kernel 内核版本较高的选项），按 e ，然后用方向键移动光标，删去 `livecd-installer`  （也有人认为是删去“-installer ”），后面的代码改为 `locales=zh_CN.UTF-8` （s不要漏了，若一样则不用改），按 F10 进入。
