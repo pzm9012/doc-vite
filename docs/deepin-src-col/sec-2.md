@@ -2,7 +2,7 @@
 title: 二、系统
 ---
 # 二、系统
-## 2.1系统安装
+## 2.1 系统安装
 > 安装 [deepin20.4](https://bbs.deepin.org/post/230585)之后的版本，安装器能自动识别已有EFI分区，无需再另外手动创建。
 1. 安装教程（官方）：[https://www.deepin.org/zh/installation/](https://www.deepin.org/zh/installation/)
 2. win10下的Deepin双系统安装小白教程：[https://bbs.deepin.org/zh/post/197659](https://bbs.deepin.org/zh/post/197659)  [金山文档转存链接](https://kdocs.cn/l/svDZBaMvvQtQ)
