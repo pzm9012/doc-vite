@@ -14,7 +14,7 @@ Live 系统一般是用来体验或者修复本地 Linux 的，部分功能可�
 ### 1.1 通过 deepin 安装镜像进入 Live 
 
 首先，制作一个 deepin 安装镜像的启动盘，然后重启电脑，按启动热键进启动菜单，选择从 U 盘启动。
-UEFI 启动（现在的大部分电脑）：当任意一个“Install Deepin”高亮时（新电脑建议选择 kernel 内核版本较高的选项），按 e ，然后用方向键移动光标，删去`livecd-installer  `（也有人认为是删去“-installer ”），后面的代码改为 `locales=zh_CN.UTF-8` （s不要漏了，若一样则不用改），按 F10 进入。 ![Windows 8.x x64-2022-10-31-09-11-49.png](https://storage.deepin.org/thread/202212041202141661_Windows8.xx64-2022-10-31-09-11-49.png)
+UEFI 启动（现在的大部分电脑）：当任意一个“Install Deepin”高亮时（新电脑建议选择 kernel 内核版本较高的选项），按 e ，然后用方向键移动光标，删去`livecd-installer  `（也有人认为是删去“-installer ”），后面的代码改为 `locales=zh_CN.UTF-8` （s不要漏了，若一样则不用改），按 F10 进入。 ![Windows 8.x x64-2022-10-31-09-11-49.png](./img/live-1.png)
 Legacy 启动：当任意一个“Install Deepin”高亮时，按 Tab 键，然后用方向键移动光标，删去 `livecd-installer `（也有人认为是删去“-installer ”） ，按 回车 进入。
 笔者在使用20.7.1时，发现部分地方显示为英文。
 修改 Live 用户密码：初始密码未知。打开终端，依次执行 2 条命令，再输入新密码（不回显）进行修改：
@@ -24,13 +24,13 @@ sudo su
 passwd
 ```
 
-但是有个问题：锁屏正确输入修改后的密码，却验证失败。所以如果使用系统时要离开一段时间，建议在控制中心的电源管理把关闭显示器和休眠改为从不。若不小心锁住了，按 Ctrl+Alt+F2 切换至 tty2 再执行 `startx` 进入桌面。然而这样会使语言显示出现异常。![Windows 8.x x64-2022-10-29-15-54-20.png](https://storage.deepin.org/thread/2022120412022160_Windows8.xx64-2022-10-29-15-54-20.png)
+但是有个问题：锁屏正确输入修改后的密码，却验证失败。所以如果使用系统时要离开一段时间，建议在控制中心的电源管理把关闭显示器和休眠改为从不。若不小心锁住了，按 Ctrl+Alt+F2 切换至 tty2 再执行 `startx` 进入桌面。然而这样会使语言显示出现异常。![Windows 8.x x64-2022-10-29-15-54-20.png](./img/live-2.png)
 通过这种不一样的启动方式，你可以在安装之前检查 deepin 对硬件的支持情况，再考虑是否安装。不过，这个的操作略显繁琐。
 
 ### 1.2 使用官方 Live 系统
 
-[原版 Live 系统](https://cdimage.deepin.com/live-system/deepin-live-system-2.0-amd64.iso)内置了深度系统修复工具、深度备份还原工具等软件，其他功能有所精简，不能用于安装，主要用途就是维护电脑系统。它的发布时间还是2018年，因此可能在有些新电脑上**不能正常使用**。密码同样是未知的，可以自己改。![Windows 10 x64-2022-11-05-17-38-00.png](https://storage.deepin.org/thread/202212041206042954_Windows10x64-2022-11-05-17-38-00.png)
-![Windows 10 x64-2022-11-05-17-38-34.png](https://storage.deepin.org/thread/202212041207311464_Windows10x64-2022-11-05-17-38-34.png)
+[原版 Live 系统](https://cdimage.deepin.com/live-system/deepin-live-system-2.0-amd64.iso)内置了深度系统修复工具、深度备份还原工具等软件，其他功能有所精简，不能用于安装，主要用途就是维护电脑系统。它的发布时间还是2018年，因此可能在有些新电脑上**不能正常使用**。密码同样是未知的，可以自己改。![Windows 10 x64-2022-11-05-17-38-00.png](./img/live-3.png)
+![Windows 10 x64-2022-11-05-17-38-34.png](./img/live-4.png)
 
 ### 1.3 使用 gfdgd xi 的第三方 deepin LiveCD
 
@@ -41,10 +41,10 @@ passwd
 
 [ExTix Linux](https://www.extix.se/) 有多个版本（[下载地址](https://sourceforge.net/projects/extix/files/)），其中 ExTix Deepin 基于 deepin，其镜像基于 deepin 的特定版本加以修改，比如[这个 22.6 版本](https://www.extix.se/extix-deepin-22-6-live-based-on-deepin-20-6-latest-with-refracta-snapshot-and-kernel-5-18-1-amd64-exton-build-220610/)使用 deepin 20.6。支持直接进入 Live。Live 的默认用户是live，密码是live；root 用户密码是root。
 修改语言为简体中文（以 UEFI 为例）：在启动菜单里按向下键选择 `Other language (Press e to edit)`，按 e ，然后用方向键移动光标，更改文本为 `locales=zh_CN.UTF-8 keyboard-layouts=us`（后面这个参数我猜的，应该没错），按 F10 进入。Legacy 启动请分别改为按向下键、Tab 和回车键。
-![Windows 10 x64-2022-11-05-17-57-40.png](https://storage.deepin.org/thread/202212041242529516_Windows10x64-2022-11-05-17-57-40.png)
-![Windows 10 x64-2022-11-05-18-07-16.png](https://storage.deepin.org/thread/202212041242521757_Windows10x64-2022-11-05-18-07-16.png)
-![Windows 10 x64-2022-11-05-18-03-49.png](https://storage.deepin.org/thread/202212041242529551_Windows10x64-2022-11-05-18-03-49.png)
-![Windows 10 x64-2022-11-05-18-04-31.png](https://storage.deepin.org/thread/202212041242512060_Windows10x64-2022-11-05-18-04-31.png)
+![Windows 10 x64-2022-11-05-17-57-40.png](./img/live-5.png)
+![Windows 10 x64-2022-11-05-18-07-16.png](./img/live-6.png)
+![Windows 10 x64-2022-11-05-18-03-49.png](./img/live-7.png)
+![Windows 10 x64-2022-11-05-18-04-31.png](./img/live-8.png)
 
 ---
 
