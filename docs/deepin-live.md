@@ -1,5 +1,5 @@
 # 浅探 deepin Live 和修复 Linux 引导
-> 本文的其他发布平台：[deepin Wiki](https://wiki.deepin.org/zh/04_%E6%8C%89%E5%90%AF%E5%8A%A8%E9%A1%BA%E5%BA%8F%E5%88%92%E5%88%86/00_%E7%B3%BB%E7%BB%9F%E5%90%AF%E5%8A%A8%E5%89%8D/01_%E5%90%AF%E5%8A%A8%E9%A1%B9%E7%9B%B8%E5%85%B3/%E6%B5%85%E6%8E%A2deepin-Live%E5%92%8C%E4%BF%AE%E5%A4%8DLinux%E5%BC%95%E5%AF%BC)、[语雀](https://www.yuque.com/pzm9012/ct5ume/ihc99w)
+> 本文的其他发布平台：[deepin Wiki](https://wiki.deepin.org/zh/05_HOW-TO/01_%E4%BF%AE%E5%A4%8D%E7%B3%BB%E7%BB%9F%E7%9B%B8%E5%85%B3/%E6%B5%85%E6%8E%A2deepin-Live%E5%92%8C%E4%BF%AE%E5%A4%8DLinux%E5%BC%95%E5%AF%BC)、[语雀](https://www.yuque.com/pzm9012/ct5ume/ihc99w)
 > （教程仅供参考，请以实际情况为准。）
 本文是我综合网络上的几篇教程和自己不久前用 LiveCD 修复 UOS 引导的经历写成的，前半部分是对 deepin Live 的说明，后半部分是修复 Linux 引导的可能方法。
 ## 准备
@@ -56,12 +56,15 @@ passwd
 ## 二  用 Live 修复 Linux 引导
 
 > **注意：本节内容缺少足够的实践检验。** 
+
 这里的方法适用于安装 Windows 后 Linux 引导被覆盖或类似情况。
+
 如果是 UEFI 启动，理论上可以先在 BIOS 启动顺序中找一下有没有 deepin/UOS 的启动项，如果有就把它调到第一个。
 
 ### 2.1 使用工具
 
 如果是修复 deepin 引导，可以用深度系统修复工具（官方 Live、Community LiveCD 中内置，deepin V15/V20 中用命令 `sudo apt install deepin-repair-tools` 安装）。打开它，选择“引导修复”，点击“开始修复”。注意：由于该工具一直未更新，不保证修复有效；不适用于 UOS。
+
 使用boot repair、Pardus Boot Repair：略，boot repair 见参考资料 4。
 
 ### 2.2 手动修复
