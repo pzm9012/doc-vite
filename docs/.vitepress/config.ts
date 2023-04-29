@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "pzm9012 的文稿(Vitepress)",
-  description: "pzm9012' 的文稿(Vitepress)",
+  description: "pzm9012 的文稿(Vitepress)",
   base: "/doc-vite/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
