@@ -45,6 +45,9 @@ export default defineConfig({
     darkModeSwitchLabel: '外观',
     outlineTitle: '在此页上',
     sidebarMenuLabel: '菜单',
-    returnToTopLabel: '返回顶部'
+    returnToTopLabel: '返回顶部',
+    search: {
+      provider: 'local'
+    }
   }
 })
