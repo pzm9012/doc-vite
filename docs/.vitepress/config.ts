@@ -2,8 +2,8 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "pzm9012 的文稿(Vitepress)",
-  description: "pzm9012' 的文稿(Vitepress)",
+  title: "pzm9012 的文稿(VitePress)",
+  description: "pzm9012 的文稿(VitePress)",
   base: "/doc-vite/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
@@ -45,6 +45,9 @@ export default defineConfig({
     darkModeSwitchLabel: '外观',
     outlineTitle: '在此页上',
     sidebarMenuLabel: '菜单',
-    returnToTopLabel: '返回顶部'
+    returnToTopLabel: '返回顶部',
+    search: {
+      provider: 'local'
+    }
   }
 })
