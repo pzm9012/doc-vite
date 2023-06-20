@@ -8,16 +8,20 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
+      {text: 'deepin 高频问题', link: '/deepin-solutions/论坛发帖提问须知'},
       { text: '语雀', link: 'https://yuque.com/pzm9012/ct5ume/' },
-      { text: '博客', link: 'https://pzm9012.github.io'},
-      { text: 'Vuepress 文档', link: 'https://pzm9012.github.io/doc'}
+      { text: '博客', link: 'https://pzm9012.github.io'}
     ],
 
-    sidebar: [
-      { text: '首页', link: '/home' },
-      {
-        text: 'deepin 常用资源整理',
-        items: [
+    sidebar: {
+        '/': [
+          {
+            text: '文稿',
+            items: [
+              { text: '首页', link: '/home' },
+              {
+                text: 'deepin 常用资源整理',
+                items: [
           { text: '说明', link: '/deepin-src-col/sec-0' },
           { text: '一、综合', link: '/deepin-src-col/sec-1' },
           { text: '二、系统', link: '/deepin-src-col/sec-2' },
@@ -25,10 +29,23 @@ export default defineConfig({
           { text: '四、应用软件', link: '/deepin-src-col/sec-4' },
           { text: '五、社区与论坛', link: '/deepin-src-col/sec-5' },
           { text: '六、更多', link: '/deepin-src-col/sec-6' }
+          ]
+              },
+              { text: '浅谈Deepin Live和修复Linux引导',link:'/deepin-live'}
+          ]
+        }
+      ],
+        '/deepin-solutions/': [
+          {
+            text: 'deepin 高频问题',
+            items: [
+              { text: '论坛发帖提问须知', link: '/deepin-solutions/论坛发帖提问须知'},
+              { text: '常见硬件问题', link: '/deepin-solutions/常见硬件问题'},
+              { text: '常见软件问题', link: '/deepin-solutions/常见软件问题'}
+            ]
+          }
         ]
-      },
-      {text:'浅谈Deepin Live和修复Linux引导',link:'/deepin-live'}
-    ],
+    },
     outline: [2, 4], 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/pzm9012' }
