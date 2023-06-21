@@ -8,7 +8,8 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      {text: 'deepin 高频问题', link: '/deepin-solutions/论坛发帖提问须知'},
+      { text: 'deepin 高频问题', link: '/deepin-solutions/论坛发帖提问须知'},
+      { text: '转载', link: '/reprints/'},
       { text: '语雀', link: 'https://yuque.com/pzm9012/ct5ume/' },
       { text: '博客', link: 'https://pzm9012.github.io'}
     ],
@@ -22,19 +23,19 @@ export default defineConfig({
               {
                 text: 'deepin 常用资源整理',
                 items: [
-          { text: '说明', link: '/deepin-src-col/sec-0' },
-          { text: '一、综合', link: '/deepin-src-col/sec-1' },
-          { text: '二、系统', link: '/deepin-src-col/sec-2' },
-          { text: '三、硬件和设备', link: '/deepin-src-col/sec-3' },
-          { text: '四、应用软件', link: '/deepin-src-col/sec-4' },
-          { text: '五、社区与论坛', link: '/deepin-src-col/sec-5' },
-          { text: '六、更多', link: '/deepin-src-col/sec-6' }
-          ]
+                  { text: '说明', link: '/deepin-src-col/sec-0' },
+                  { text: '一、综合', link: '/deepin-src-col/sec-1' },
+                  { text: '二、系统', link: '/deepin-src-col/sec-2' },
+                  { text: '三、硬件和设备', link: '/deepin-src-col/sec-3' },
+                  { text: '四、应用软件', link: '/deepin-src-col/sec-4' },
+                  { text: '五、社区与论坛', link: '/deepin-src-col/sec-5' },
+                  { text: '六、更多', link: '/deepin-src-col/sec-6' }
+                ]
               },
               { text: '浅谈Deepin Live和修复Linux引导',link:'/deepin-live'}
           ]
         }
-      ],
+        ],
         '/deepin-solutions/': [
           {
             text: 'deepin 高频问题',
@@ -42,6 +43,14 @@ export default defineConfig({
               { text: '论坛发帖提问须知', link: '/deepin-solutions/论坛发帖提问须知'},
               { text: '常见硬件问题', link: '/deepin-solutions/常见硬件问题'},
               { text: '常见软件问题', link: '/deepin-solutions/常见软件问题'}
+            ]
+          }
+        ],
+        '/reprints/': [
+          {
+            text: '转载文章',
+            items: [
+              { text: 'Linux 和 Win 时间不同步', link: '/reprints/linux-win-time-sync'}
             ]
           }
         ]

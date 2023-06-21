@@ -3,8 +3,8 @@ layout: home
 
 hero:
   name: "pzm9012 的文稿"
-  text: "几篇协作者们和我发布的文章"
-  tagline: 仅此而已
+  text: "几篇零零散散的文章的发布地"
+  tagline: 
   actions:
     - theme: brand
       text: 开始阅读
