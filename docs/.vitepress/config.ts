@@ -2,14 +2,13 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "pzm9012 的文稿(VitePress)",
-  description: "pzm9012 的文稿(VitePress)",
+  title: "pzm9012 的文稿",
+  description: "pzm9012 的文稿",
   base: "/doc-vite/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'deepin 高频问题', link: '/deepin-solutions/论坛发帖提问须知'},
-      { text: '转载', link: '/reprints/'},
       { text: '语雀', link: 'https://yuque.com/pzm9012/ct5ume/' },
       { text: '博客', link: 'https://pzm9012.github.io'}
     ],
@@ -41,8 +40,20 @@ export default defineConfig({
             text: 'deepin 高频问题',
             items: [
               { text: '论坛发帖提问须知', link: '/deepin-solutions/论坛发帖提问须知'},
-              { text: '常见硬件问题', link: '/deepin-solutions/常见硬件问题'},
-              { text: '常见软件问题', link: '/deepin-solutions/常见软件问题'}
+              {
+                text: '硬件',
+                items: [
+                  { text: '常见硬件问题', link: '/deepin-solutions/常见硬件问题'},
+                ]
+              },
+              {
+                text: '软件',
+                items: [
+                  { text: '常见软件问题', link: '/deepin-solutions/常见软件问题'},
+                  { text: 'Linux 和 Win 时间不同步', link: '/deepin-solutions/Software/linux-win-time-sync'},
+                  { text: '更多', link: '/deepin-solutions/Software/Others'}
+                ]
+              }
             ]
           }
         ],
@@ -50,7 +61,7 @@ export default defineConfig({
           {
             text: '转载文章',
             items: [
-              { text: 'Linux 和 Win 时间不同步', link: '/reprints/linux-win-time-sync'}
+              
             ]
           }
         ]
@@ -70,7 +81,7 @@ export default defineConfig({
     },
     darkModeSwitchLabel: '外观',
     outlineTitle: '在此页上',
-    sidebarMenuLabel: '菜单',
+    sidebarMenuLabel: '目录',
     returnToTopLabel: '返回顶部',
     search: {
       provider: 'local'
