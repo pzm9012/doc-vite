@@ -1,7 +1,7 @@
 # 更多
 ## 清理不需要的系统内核
-:::info
-出处：[https://bbs.deepin.org/post/253636](https://bbs.deepin.org/post/253636) 2楼。
+:::tip 出处
+见 [https://bbs.deepin.org/post/253636](https://bbs.deepin.org/post/253636) 2楼。
 :::
 查询当前系统的全部内核
 ```
@@ -12,3 +12,13 @@ sudo dpkg -l|egrep "linux-header|linux-image"
 ```
 sudo apt purge xxxxx
 ```
+
+## 放大镜
+:::tip 出处
+见 [https://bbs.deepin.org/zh/post/253561](https://bbs.deepin.org/zh/post/253561) 回复。
+:::
+Super + +，启用放大镜；
+
+Super + -，缩小放大镜；
+
+Super + 0，关闭放大镜。
