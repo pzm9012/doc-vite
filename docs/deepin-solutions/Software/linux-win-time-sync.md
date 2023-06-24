@@ -1,6 +1,6 @@
 # Linux 和 Windows 时间不同步
-:::info
-出处：[https://bbs.deepin.org/post/253670](https://bbs.deepin.org/post/253670) 3楼。
+:::info 出处
+见 [https://bbs.deepin.org/post/253670](https://bbs.deepin.org/post/253670) 3楼。
 :::
 ##  一、 Windows的时间和时区
 
