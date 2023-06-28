@@ -50,7 +50,6 @@ export default defineConfig({
                 text: '软件',
                 items: [
                   { text: '常见软件问题', link: '/deepin-solutions/常见软件问题'},
-                  { text: 'Linux 和 Win 时间不同步', link: '/deepin-solutions/Software/linux-win-time-sync'},
                   { text: '更多', link: '/deepin-solutions/Software/Others'}
                 ]
               }
