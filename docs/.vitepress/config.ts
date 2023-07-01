@@ -31,7 +31,6 @@ export default defineConfig({
                   { text: '六、更多', link: '/deepin-src-col/sec-6' }
                 ]
               },
-              { text: '浅谈Deepin Live和修复Linux引导',link:'/deepin-live'}
           ]
         }
         ],
