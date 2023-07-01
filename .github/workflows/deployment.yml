@@ -31,3 +31,8 @@ jobs:
       - name: Deploy
         id: deployment
         uses: actions/deploy-pages@v1
+      - name: Upload Release artifact 
+        uses: actions/upload-artifact@v3 
+        with: 
+          name: html files
+          path: public/*
