@@ -6,4 +6,4 @@
 
 由于使用 GitHub Pages，文档中图片加载可能较慢，请耐心等待。
 
-如无特殊说明，本站中的文档遵循 [CC BY-NC](https://creativecommons.org/licenses/by-nc/4.0/deed.zh) 许可协议。
+如无特殊说明，本站中的文档遵循 [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/deed.zh) 许可协议。
