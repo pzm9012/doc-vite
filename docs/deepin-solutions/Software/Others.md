@@ -93,3 +93,14 @@ service --status-all
 见 [https://bbs.deepin.org/post/254318](https://bbs.deepin.org/post/254318) 回复。
 :::
 如果是输入的路径中含有空格等特殊字符，需在相应文件夹名称的两侧加上`'`，如`.../'deepin 常用资源整理'/...`。
+
+## 论坛 Markdown 编辑器`< >`符号未按原文显示
+:::tip 出处
+见 [https://bbs.deepin.org/post/254090](https://bbs.deepin.org/post/254090) 6楼。
+:::
+由于`<`符号在markdown和html中都有特殊含义，可以用`把网址包裹起来。
+
+比如
+
+`git clone https://<gitee_用户名>:<私人令牌>@gitee.com/<gitee_用户名>/notepad.git`
+​
