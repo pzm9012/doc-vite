@@ -66,6 +66,17 @@ sudo dpkg -l|egrep "linux-header|linux-image"
 sudo apt purge xxxxx
 ```
 
+加入内测后部分软件安装出现问题
+:::tip 出处
+见 [https://bbs.deepin.org/zh/post/254022](https://bbs.deepin.org/zh/post/254022) 7楼。
+:::
+执行
+```
+sudo rm /var/lib/apt/lists/*
+sudo apt update
+​```
+更新本地仓库索引信息，再重新尝试安装。
+
 ## 放大镜
 :::tip 出处
 见 [https://bbs.deepin.org/post/253561](https://bbs.deepin.org/post/253561) 回复。
