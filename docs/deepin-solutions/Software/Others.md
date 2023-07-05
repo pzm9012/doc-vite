@@ -70,11 +70,11 @@ sudo apt purge xxxxx
 :::tip 出处
 见 [https://bbs.deepin.org/zh/post/254022](https://bbs.deepin.org/zh/post/254022) 7楼。
 :::
-执行
+执行 
 ```
 sudo rm /var/lib/apt/lists/*
 sudo apt update
-​```
+```
 更新本地仓库索引信息，再重新尝试安装。
 
 ## 自定义屏幕缩放
