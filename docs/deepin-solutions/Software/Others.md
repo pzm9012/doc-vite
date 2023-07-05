@@ -77,6 +77,12 @@ sudo apt update
 ​```
 更新本地仓库索引信息，再重新尝试安装。
 
+## 自定义屏幕缩放
+:::tip 出处
+见 [https://bbs.chinauos.com/zh/post/9328](https://bbs.chinauos.com/zh/post/9328) 2楼。
+:::
+执行命令`sudo apt install dconf-editor`安装 dconf editor 并打开它，找到`window-scale`这一项进行修改。
+
 ## 放大镜
 :::tip 出处
 见 [https://bbs.deepin.org/post/253561](https://bbs.deepin.org/post/253561) 回复。
