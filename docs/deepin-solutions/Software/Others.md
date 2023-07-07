@@ -93,6 +93,12 @@ Super + -，缩小放大镜；
 
 Super + 0，关闭放大镜。
 
+## 清除文件管理器的地址栏历史
+:::tip 出处
+见 [https://bbs.deepin.org/post/254424](https://bbs.deepin.org/post/254424) 3楼。
+:::
+打开`~/.config/deepin/dde-file-manager/dde-file-manager.obtusely.json`，删除其中的`SearchHistory`项。
+
 ## 检查应用的开机启动情况
 :::tip 出处
 见 [https://bbs.deepin.org/post/253444](https://bbs.deepin.org/post/253444)。
