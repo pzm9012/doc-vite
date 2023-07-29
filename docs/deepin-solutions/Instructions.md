@@ -8,3 +8,5 @@
 :::
 ### “常见软件问题”下
 - “WPS Office 等软件中字体显示异常”问题下，`[WPS页面显示问题](https://wiki.deepin.org/zh/WPS页面显示问题)`⇆`[[WPS页面显示问题]]`
+### 文本块
+- VitePress 文本块需改为 Wiki 支持的块引用。
