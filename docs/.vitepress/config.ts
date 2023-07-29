@@ -39,6 +39,7 @@ export default defineConfig({
             text: 'deepin 高频问题',
             items: [
               { text: '论坛发帖提问须知', link: '/deepin-solutions/论坛发帖提问须知'},
+              { text: '系统安装相关', link: '/deepin-solutions/系统安装相关'},
               {
                 text: '硬件',
                 items: [

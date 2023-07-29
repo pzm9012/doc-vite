@@ -26,7 +26,7 @@ HKEY_LOCAL_MACHINE/SYSTEM/CurrentControlSet/Control/TimeZoneInformation/
 ```
 添加一项类型为`REG_DWORD`的键值，命名为`RealTimeIsUniversal`，值为 `1` 然后重启后时间即回复正常
 
-2.在Ubuntu下关闭UTC
+2.在Linux下关闭UTC
 这个用这个方法是我比较推荐的：按Ctrl+Alt+T调出终端，输入：
 ```
 sudo vim /etc/default/rcS
