@@ -52,7 +52,7 @@ timedatectl set-local-rtc 1
 timedatectl
 ```
 
-## 清理不需要的系统内核
+## 清理不需要的系统内核（待斟酌）
 :::tip 出处
 见 [https://bbs.deepin.org/post/253636](https://bbs.deepin.org/post/253636) 2楼。
 :::
@@ -66,16 +66,8 @@ sudo dpkg -l|egrep "linux-header|linux-image"
 sudo apt purge xxxxx
 ```
 
-加入内测后部分软件安装出现问题
-:::tip 出处
-见 [https://bbs.deepin.org/zh/post/254022](https://bbs.deepin.org/zh/post/254022) 7楼。
-:::
-执行 
-```
-sudo rm /var/lib/apt/lists/*
-sudo apt update
-```
-更新本地仓库索引信息，再重新尝试安装。
+## 删除文件管理器“磁盘”中的百度网盘快捷方式
+删除`/usr/share/dde-file-manager/extensions/appEntry`目录下的 .desktop 文件。
 
 ## 自定义屏幕缩放
 :::tip 出处
@@ -92,6 +84,18 @@ Super + +，启用放大镜；
 Super + -，缩小放大镜；
 
 Super + 0，关闭放大镜。
+
+## 加入内测后部分软件安装出现问题
+:::tip 出处
+见 [https://bbs.deepin.org/zh/post/254022](https://bbs.deepin.org/zh/post/254022) 7楼。
+:::
+执行 
+```
+sudo rm /var/lib/apt/lists/*
+sudo apt update
+```
+更新本地仓库索引信息，再重新尝试安装。
+
 
 ## 调整安卓应用的宽高、默认横屏等显示参数
 :::tip 出处
