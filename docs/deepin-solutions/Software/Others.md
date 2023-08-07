@@ -1,7 +1,7 @@
 # 更多
 ## Linux 和 Windows 时间不同步
 :::tip 出处
-见 [https://bbs.deepin.org/post/253670](https://bbs.deepin.org/post/253670) 3楼。
+见 [https://bbs.deepin.org/post/253670?postId=1438866](https://bbs.deepin.org/post/253670?postId=1438866) 3楼。
 :::
 ###  一、 Windows的时间和时区
 
@@ -52,9 +52,9 @@ timedatectl set-local-rtc 1
 timedatectl
 ```
 
-## 清理不需要的系统内核（待斟酌）
+## 清理不需要的系统内核
 :::tip 出处
-见 [https://bbs.deepin.org/post/253636](https://bbs.deepin.org/post/253636) 2楼。
+见 [https://bbs.deepin.org/post/253636?postId=1438575](https://bbs.deepin.org/post/253636?postId=1438575) 2楼。
 :::
 查询当前系统的全部内核
 ```
@@ -77,7 +77,7 @@ sudo apt purge xxxxx
 
 ## 放大镜
 :::tip 出处
-见 [https://bbs.deepin.org/post/253561](https://bbs.deepin.org/post/253561) 回复。
+见 [https://bbs.deepin.org/post/253561?postId=1438805](https://bbs.deepin.org/post/253561?postId=1438805) 回复。
 :::
 Super + +，启用放大镜；
 
@@ -87,7 +87,7 @@ Super + 0，关闭放大镜。
 
 ## 加入内测后部分软件安装出现问题
 :::tip 出处
-见 [https://bbs.deepin.org/zh/post/254022](https://bbs.deepin.org/zh/post/254022) 7楼。
+见 [https://bbs.deepin.org/zh/post/254022?postId=1442273](https://bbs.deepin.org/zh/post/254022?postId=1442273) 7楼。
 :::
 执行 
 ```
@@ -99,7 +99,7 @@ sudo apt update
 
 ## 调整安卓应用的宽高、默认横屏等显示参数
 :::tip 出处
-见 [https://bbs.deepin.org/post/255732](https://bbs.deepin.org/post/255732) 2楼。
+见 [https://bbs.deepin.org/post/255732?postId=1457815](https://bbs.deepin.org/post/255732?postId=1457815) 2楼。
 :::
 配置文件位置：/usr/share/uengine/appetc，每一个文件对应一个安卓应用，文件名是应用ID
 
@@ -119,7 +119,7 @@ defaultFullScreen 0 //设置是否默认显示最大化，1为默认最大化，
 
 ## 清除文件管理器的地址栏历史
 :::tip 出处
-见 [https://bbs.deepin.org/post/254424](https://bbs.deepin.org/post/254424) 3楼。
+见 [https://bbs.deepin.org/post/254424?postId=1445509](https://bbs.deepin.org/post/254424?postId=1445509) 3楼。
 :::
 打开`~/.config/deepin/dde-file-manager/dde-file-manager.obtusely.json`，删除其中的`SearchHistory`项。
 
@@ -143,7 +143,7 @@ service --status-all
 
 ## 论坛 Markdown 编辑器`< >`符号未按原文显示
 :::tip 出处
-见 [https://bbs.deepin.org/post/254090](https://bbs.deepin.org/post/254090) 6楼。
+见 [https://bbs.deepin.org/post/254090?postId=1442569](https://bbs.deepin.org/post/254090?postId=1442569) 6楼。
 :::
 由于`<`符号在markdown和html中都有特殊含义，可以用`把网址包裹起来。
 
