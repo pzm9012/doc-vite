@@ -100,12 +100,13 @@ sudo apt update
 ## 调整安卓应用的宽高、默认横屏等显示参数
 :::tip 出处
 见 [https://bbs.deepin.org/post/255732](https://bbs.deepin.org/post/255732) 2楼。
+:::
 配置文件位置：/usr/share/uengine/appetc，每一个文件对应一个安卓应用，文件名是应用ID
 
 ![202304270812118054_image.png](./img/202304270812118054_image.png)
 
 文件内容很简单：
-
+```
 verticalWidth 540 //竖屏宽
 verticalHeighe 960 //竖屏高
 horizontaltWidth 1280 //横屏宽，备选为1280
@@ -114,6 +115,7 @@ verticalScreen 0 //设置默认横屏还是竖屏，1为竖屏，0为横屏
 allowFullScreen 0 //设置是否允许全屏，1为允许，0为不允许
 allowScreenSwitching 1 //设置是否允许横竖屏切换，1为允许，0为不允许
 defaultFullScreen 0 //设置是否默认显示最大化，1为默认最大化，0为不是
+```
 
 ## 清除文件管理器的地址栏历史
 :::tip 出处
