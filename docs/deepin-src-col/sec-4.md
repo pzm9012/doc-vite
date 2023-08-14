@@ -88,7 +88,7 @@ title: 四、应用软件
 74. Vim 中切换模式时自动切换输入法：[https://bbs.deepin.org/zh/post/256177](https://bbs.deepin.org/zh/post/256177)
 75.  使用xdotool简单实现钉钉窗口快捷键激活：[https://bbs.deepin.org/post/260738](https://bbs.deepin.org/post/260738)
 
-[Buy me a tea](https://pzm9012.github.io/doc-vite/donate.html)
+[Buy me a tea](../donate)
 
 ### 4.1.2 效率办公
 

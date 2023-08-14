@@ -7,10 +7,12 @@ hero:
   tagline: 
   actions:
     - theme: brand
-      text: 开始阅读
+      text: 进入
       link: /home
     - theme: alt
-      text: 我的 deepin 论坛主页
-      link: https://bbs.deepin.org/user/217969
-
+      text: 转到 deepin 常用资源整理
+      link: /deepin-src-col/sec-0
+    - theme: alt
+      text: 转到 deepin 高频问题解决方案整理
+      link: /deepin-solutions/论坛发帖提问须知
 ---

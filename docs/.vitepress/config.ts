@@ -8,9 +8,10 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'deepin 高频问题', link: '/deepin-solutions/论坛发帖提问须知'},
-      { text: '语雀', link: 'https://yuque.com/pzm9012/ct5ume/' },
-      { text: '博客', link: 'https://pzm9012.github.io'}
+      { text: 'deepin 高频问题', link: '/deepin-solutions/论坛发帖提问须知' },
+      { text: '我的语雀主页', link: 'https://yuque.com/pzm9012/ct5ume/' },
+      { text: '博客', link: 'https://pzm9012.github.io' },
+      { text: '我的 deepin 论坛主页', link: 'https://bbs.deepin.org/user/217969' }
     ],
 
     sidebar: {
