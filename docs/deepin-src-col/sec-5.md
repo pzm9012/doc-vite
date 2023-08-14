@@ -6,14 +6,13 @@ title: 五、社区与论坛
 
 1. 利用百度替代论坛搜索功能：[https://bbs.deepin.org/zh/post/221982](https://bbs.deepin.org/zh/post/221982)
 2. （UOS）社区问题及建议反馈须知：[http://bbs.chinauos.com/post/5005](http://bbs.chinauos.com/post/5005)
-3. 使用 markdown 发论坛：[https://bbs.deepin.org/zh/post/225059](https://bbs.deepin.org/zh/post/225059)    （现在可以直接在论坛使用Markdown编辑器了）
-4. 社区黑暗模式的常用界面已经适配完成，大家可以体验：[https://bbs.deepin.org/zh/post/216104](https://bbs.deepin.org/zh/post/216104)
-5. 使用油猴将论坛中的图片查看功能全面改造：[https://bbs.deepin.org/zh/post/229849](https://bbs.deepin.org/zh/post/229849)
-6. TG交流群组建立,欢迎大家加入：[https://bbs.deepin.org/zh/post/230231](https://bbs.deepin.org/zh/post/230231)
-7. 如何优雅地在论坛插入b站视频：[https://bbs.deepin.org/zh/post/232626](https://bbs.deepin.org/zh/post/232626)
-8.  问题反馈时的小窍门--你真的需要知道：[https://bbs.deepin.org/zh/post/242631](https://bbs.deepin.org/zh/post/242631)
-9.  【怀旧向】深度科技论坛，前世今生：[https://bbs.deepin.org/post/244048](https://bbs.deepin.org/post/244048)
-10. 今天试着把论坛打包成APP了，欢迎大家试用一下：[https://bbs.deepin.org/post/247362](https://bbs.deepin.org/post/247362)
+3. 社区黑暗模式的常用界面已经适配完成，大家可以体验：[https://bbs.deepin.org/zh/post/216104](https://bbs.deepin.org/zh/post/216104)
+4. 使用油猴将论坛中的图片查看功能全面改造：[https://bbs.deepin.org/zh/post/229849](https://bbs.deepin.org/zh/post/229849)
+5. TG交流群组建立,欢迎大家加入：[https://bbs.deepin.org/zh/post/230231](https://bbs.deepin.org/zh/post/230231)  （帖子中的群组已不存在，请加入[该群组](https://t.me/deepin)）
+6.  问题反馈时的小窍门--你真的需要知道：[https://bbs.deepin.org/zh/post/242631](https://bbs.deepin.org/zh/post/242631)
+7.  【怀旧向】深度科技论坛，前世今生：[https://bbs.deepin.org/post/244048](https://bbs.deepin.org/post/244048)
+8. 今天试着把论坛打包成APP了，欢迎大家试用一下：[https://bbs.deepin.org/post/247362](https://bbs.deepin.org/post/247362)
+9. 论坛2023年4月3号更新，解决两个痛点问题：[https://bbs.deepin.org/zh/post/254612](https://bbs.deepin.org/zh/post/254612)
 
 ## 5.2 社区活动（部分）
 
@@ -38,8 +37,23 @@ title: 五、社区与论坛
 19. deepin 开发者邮件列表现已成立：[https://bbs.deepin.org/zh/post/240545](https://bbs.deepin.org/zh/post/240545)
 20. 深度开源社区用户沟通会第2期公示，一同打造更好的deepin：[https://bbs.deepin.org/post/247039](https://bbs.deepin.org/post/247039)
 21. 第十二届DDUC：深度热爱，一同进化：[https://bbs.deepin.org/post/247524](https://bbs.deepin.org/post/247524)    [直播回放](https://www.bilibili.com/video/BV1YW4y1K7dp/)
-22. 审美游戏——审美高手来集合：[https://bbs.deepin.org/post/249891](https://bbs.deepin.org/post/249891)
-### 5.2.1 深度开源社区周报
+22. 第一届“小浣熊杯”比赛开始喽：[https://bbs.deepin.org/zh/post/253419](https://bbs.deepin.org/zh/post/253419)
+23. “第一届小浣熊杯大赛“于 2023 年 3 月 8 号 17: 00 正式结束：[https://bbs.deepin.org/zh/post/253512](https://bbs.deepin.org/zh/post/253512)
+24. 第二届小浣熊杯修BUG大赛圆满收官啦：[https://bbs.deepin.org/post/258656](https://bbs.deepin.org/post/258656)
+25. 深度社区新一轮版主轮值开始啦：[https://bbs.deepin.org/zh/post/253769](https://bbs.deepin.org/zh/post/253769)
+26. 你在浏览器里的常用网站有哪些？！参与有奖~：[https://bbs.deepin.org/zh/post/253439](https://bbs.deepin.org/zh/post/253439)
+27. 统信 & Godot开发大赛将于3月28日正式开始：[https://bbs.deepin.org/zh/post/254270](https://bbs.deepin.org/zh/post/254270)  [导出模板](https://bbs.deepin.org/post/254336)
+28. 审美游戏——审美高手来集合：[https://bbs.deepin.org/post/249891](https://bbs.deepin.org/post/249891)
+29. [【我行我秀】deepin社区主题大赛](https://bbs.deepin.org/zh/post/256852)      [参赛须知及版权约定](https://bbs.deepin.org/post/256848)      [主题一键打包工具及操作演示视频](https://bbs.deepin.org/post/256847)      [慧眼识珠-主题模板](https://bbs.deepin.org/post/256849)      [神笔马良-主题模板](https://bbs.deepin.org/post/256851)      [鼠标指针制作规范](https://bbs.deepin.org/post/256846)      [壁纸及鼠标指针设计规范](https://bbs.deepin.org/post/256959)      [作品展示](https://bbs.deepin.org/post/257930)       [慧眼识珠赛道投票](https://bbs.deepin.org/post/258575)      [最终作品展示-神笔马良赛道](https://bbs.deepin.org/post/258576)      [获奖名单公示](https://bbs.deepin.org/post/259150)
+30. deepin社区携手北航学子共建开源生态：[https://bbs.deepin.org/post/260355](https://bbs.deepin.org/post/260355)
+### 5.2.1 WHLUG（武汉Linux用户组）
+早期 WHLUG 新闻见 [https://www.deepin.org/zh/category/whlug-news/](https://www.deepin.org/zh/category/whlug-news/)。
+
+1. 【WHLUG】第1期精彩回放：[https://bbs.deepin.org/zh/post/255063](https://bbs.deepin.org/zh/post/255063)
+2. 5月WHLUG，大家都聊了什么？：[https://bbs.deepin.org/post/257444](https://bbs.deepin.org/post/257444)
+3. 叮咚！请签收7月WHLUG活动回顾，快看看有没有你熟悉的身影：[https://bbs.deepin.org/post/260263](https://bbs.deepin.org/post/260263)
+4. 容器化应用分发方案分享---练习时长两年半，但是shenmo：[https://bbs.deepin.org/post/260359](https://bbs.deepin.org/post/260359)
+### 5.2.2 深度开源社区周报
 
 1. 深度开源社区周报（06.25-07.01）第1期：[https://bbs.deepin.org/post/239826](https://bbs.deepin.org/post/239826)
 2. 深度开源社区周报（07.02-07.08）第2期：[https://bbs.deepin.org/post/240115](https://bbs.deepin.org/post/240115)
@@ -62,3 +76,5 @@ title: 五、社区与论坛
 19. 深度开源社区周报公示第19期（12.19-12.23）：[https://bbs.deepin.org/post/247616](https://bbs.deepin.org/post/247616)
 20. 深度开源社区周报公示第20期（12.25-12.30）：[https://bbs.deepin.org/post/247851](https://bbs.deepin.org/post/247851)
 21. 深度开源社区周报公示第21期（01.03-01.06）：[https://bbs.deepin.org/post/248111](https://bbs.deepin.org/post/248111)
+22. deepin（深度）社区双周报（6.30-7.13）：[https://bbs.deepin.org/post/259488](https://bbs.deepin.org/post/259488)
+23. deepin（深度）社区双周报（7.14-7.27）：[https://bbs.deepin.org/post/260203](https://bbs.deepin.org/post/260203)

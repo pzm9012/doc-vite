@@ -28,7 +28,8 @@ export default defineConfig({
                   { text: '三、硬件和设备', link: '/deepin-src-col/sec-3' },
                   { text: '四、应用软件', link: '/deepin-src-col/sec-4' },
                   { text: '五、社区与论坛', link: '/deepin-src-col/sec-5' },
-                  { text: '六、更多', link: '/deepin-src-col/sec-6' }
+                  { text: '六、更多', link: '/deepin-src-col/sec-6' },
+                  { text: '七、归档', link: '/deepin-src-col/sec-7' }
                 ]
               },
           ]
