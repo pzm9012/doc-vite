@@ -85,19 +85,16 @@ title: 二、系统
 ### 2.3.1 论坛用户编译的内核
 > 这些内核为论坛用户编译，非官方内核，可能会出现兼容性差、UEngine 无法使用等问题，请谨慎使用。
 
-1. dppve内核6.4.9更新(nvme温度比较高的可以考虑)：[https://bbs.deepin.org/post/260119](https://bbs.deepin.org/post/260119)
-2. odpk内核：[https://bbs.deepin.org/post/260119](https://bbs.deepin.org/post/260119)
-3. deepinV20和UOS内核fedora：[https://bbs.deepin.org/post/260464](https://bbs.deepin.org/post/260464)
-4. dppve内核6.4.8更新：[https://bbs.deepin.org/post/260452](https://bbs.deepin.org/post/260452)
-5. deepin+pve配置文件混合内核(不烫)： [https://bbs.deepin.org/post/260004](https://bbs.deepin.org/post/260004)
-6. 魔改版6.4.4内核(不烫) ：[https://bbs.deepin.org/post/259888](https://bbs.deepin.org/post/259888)
-7. 不同版本的6.4内核：[https://bbs.deepin.org/zh/post/258689](https://bbs.deepin.org/zh/post/258689)
-8. 分享6.1 hwe xanmod内核：[https://bbs.deepin.org/post/258476](https://bbs.deepin.org/post/258476)
-9. 在deepin内核配置文件基础上复制了几个PVE内核电源管理配置：[https://bbs.deepin.org/post/259690](https://bbs.deepin.org/post/259690)
-10. ubuntu内核(转换版) ：[https://bbs.deepin.org/post/259629](https://bbs.deepin.org/post/259629)
-11.  6.3.9(zen1)内核：[https://bbs.deepin.org/post/258409](https://bbs.deepin.org/post/258409)
-12.  分享6.3.9xanmod1内核：[https://bbs.deepin.org/post/258369](https://bbs.deepin.org/post/258369)
-13. 6.3.4内核和最新的firmware：[https://bbs.deepin.org/post/257183](https://bbs.deepin.org/post/257183)
+1. odpk内核：[https://bbs.deepin.org/post/260119](https://bbs.deepin.org/post/260119)
+2. deepinV20和UOS内核fedora：[https://bbs.deepin.org/post/260464](https://bbs.deepin.org/post/260464)
+3. deepin+pve配置文件混合内核(不烫)： [https://bbs.deepin.org/post/260004](https://bbs.deepin.org/post/260004)
+4. 不同版本的6.4内核：[https://bbs.deepin.org/zh/post/258689](https://bbs.deepin.org/zh/post/258689)
+5. 分享6.1 hwe xanmod内核：[https://bbs.deepin.org/post/258476](https://bbs.deepin.org/post/258476)
+6. 在deepin内核配置文件基础上复制了几个PVE内核电源管理配置：[https://bbs.deepin.org/post/259690](https://bbs.deepin.org/post/259690)
+7. ubuntu内核(转换版) ：[https://bbs.deepin.org/post/259629](https://bbs.deepin.org/post/259629)
+8.  6.3.9(zen1)内核：[https://bbs.deepin.org/post/258409](https://bbs.deepin.org/post/258409)
+9.  分享6.3.9xanmod1内核：[https://bbs.deepin.org/post/258369](https://bbs.deepin.org/post/258369)
+10. 6.3.4内核和最新的firmware：[https://bbs.deepin.org/post/257183](https://bbs.deepin.org/post/257183)
 
 ## 2.4 问题解决
 
@@ -241,6 +238,7 @@ title: 二、系统
 4. 查看系统安装的日期与时间：[https://bbs.deepin.org/zh/post/229311](https://bbs.deepin.org/zh/post/229311)
 5. 手把手教你装zsh，所有github链接都换成了gitee，包你安装顺利：[https://bbs.deepin.org/zh/post/237774](https://bbs.deepin.org/zh/post/237774)
 6. 使用fish代替bash，真好用：[https://bbs.deepin.org/zh/post/238189](https://bbs.deepin.org/zh/post/238189)
+7. Linux终端下使用Fish shell美化：[https://www.cnblogs.com/aaroncoding/p/17118251.html](https://www.cnblogs.com/aaroncoding/p/17118251.html)
 7. 使用alias简化命令：[https://bbs.deepin.org/zh/post/239361](https://bbs.deepin.org/zh/post/239361)
 8. 一个系统安装包配置脚本 autosetup for Deepin OS：[https://bbs.deepin.org/post/241041](https://bbs.deepin.org/post/241041)
 9. 写了个脚本，让apt-ftparchieve也能增量扫描更新deb仓库：[https://bbs.deepin.org/post/242570](https://bbs.deepin.org/post/242570)
@@ -318,6 +316,7 @@ title: 二、系统
 35. 分享让用户可以自己强制指定系统缩放的方法：[https://bbs.deepin.org/post/255588](https://bbs.deepin.org/post/255588)
 36. deepin UOS Linux源代码编译安装Nginx：[https://bbs.deepin.org/post/259345](https://bbs.deepin.org/post/259345)
 37. 用命令启动系统代理：[https://bbs.deepin.org/zh/post/256724](https://bbs.deepin.org/zh/post/256724)
+38. 使用timeshift实现系统和数据分开备份：[https://bbs.deepin.org/post/258143](https://bbs.deepin.org/post/258143)
 
 ## 2.6 系统美化
 ### 2.6.1 壁纸

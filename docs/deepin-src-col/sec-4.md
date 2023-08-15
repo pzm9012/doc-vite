@@ -87,7 +87,6 @@ title: 四、应用软件
 73. deepin UOS 编译安装 Redis：[https://bbs.deepin.org/post/260553](https://bbs.deepin.org/post/260553)
 74. Vim 中切换模式时自动切换输入法：[https://bbs.deepin.org/zh/post/256177](https://bbs.deepin.org/zh/post/256177)
 75.  使用xdotool简单实现钉钉窗口快捷键激活：[https://bbs.deepin.org/post/260738](https://bbs.deepin.org/post/260738)
-76. Linux终端下使用Fish shell美化：[https://www.cnblogs.com/aaroncoding/p/17118251.html](https://www.cnblogs.com/aaroncoding/p/17118251.html)
 
 [Buy me a tea](../donate)
 
@@ -373,6 +372,7 @@ title: 四、应用软件
 14. Podman 及容器技术介绍：[https://bbs.deepin.org/zh/post/257006](https://bbs.deepin.org/zh/post/257006)
 15. V23尝试使用distrobox运行软件：[https://bbs.deepin.org/zh/post/256901](https://bbs.deepin.org/zh/post/256901)
 16. 关于docker容器使用以及使用SSH连接容器：[https://bbs.deepin.org/post/256485](https://bbs.deepin.org/post/256485)
+17. 书虫兼容环境 12.1.5 预告：[https://bbs.deepin.org/post/260098](https://bbs.deepin.org/post/260098)（已上架星火应用商店）
 
 ## 4.3 软件开发
 
