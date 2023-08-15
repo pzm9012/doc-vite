@@ -87,6 +87,7 @@ title: 四、应用软件
 73. deepin UOS 编译安装 Redis：[https://bbs.deepin.org/post/260553](https://bbs.deepin.org/post/260553)
 74. Vim 中切换模式时自动切换输入法：[https://bbs.deepin.org/zh/post/256177](https://bbs.deepin.org/zh/post/256177)
 75.  使用xdotool简单实现钉钉窗口快捷键激活：[https://bbs.deepin.org/post/260738](https://bbs.deepin.org/post/260738)
+76. Linux终端下使用Fish shell美化：[https://www.cnblogs.com/aaroncoding/p/17118251.html](https://www.cnblogs.com/aaroncoding/p/17118251.html)
 
 [Buy me a tea](../donate)
 
@@ -137,6 +138,7 @@ title: 四、应用软件
 5. 高性能数据库软件 linwin DB server1.1 发布：[https://bbs.deepin.org/post/250672](https://bbs.deepin.org/post/250672)
 6. LinwinSoft DB server1.4 Cluste 高性能分布式集群数据库软件发布：[https://bbs.deepin.org/post/251546](https://bbs.deepin.org/post/251546)
 7. 思科模拟器（网工的同学看过来）：[https://bbs.deepin.org/post/250686](https://bbs.deepin.org/post/250686)
+8. Linux下使用EasyX库：[https://www.cnblogs.com/aaroncoding/p/17116879.html](https://www.cnblogs.com/aaroncoding/p/17116879.html)
 
 ### 4.1.5 网络应用
 
