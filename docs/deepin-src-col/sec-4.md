@@ -247,6 +247,8 @@ title: 四、应用软件
 4. 解决Wine通达信版行情软件侧边栏显示异常的问题：[https://blog.csdn.net/ericden/article/details/127601692](https://blog.csdn.net/ericden/article/details/127601692)
 
 ### 4.1.13 资讯阅读
+1. 分享一个读书笔记软件bookxnote：https://bbs.deepin.org/post/260885
+
 ### 4.1.14 便捷生活
 
 1. Icalingua：第三方QQ客户端：[https://bbs.deepin.org/zh/post/226550](https://bbs.deepin.org/zh/post/226550)（原项目因不可抗因素已删除，建议使用分支版本 Icalingua++）
