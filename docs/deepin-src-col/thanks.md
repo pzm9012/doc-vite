@@ -24,5 +24,8 @@ deepin 常用资源整理持续维护至今，离不开热心人士的建议和�
 - [bxkdhao](http://bbs.chinauos.com/user/307736)
 - [gshun](https://bbs.deepin.org/user/207084)
 
+感谢以下人员捐赠：
+- P*g 捐赠了 20 元
+- hanzn-zzx 捐赠了 2 元
 ---
 还有，感谢一路上陪伴的你。
