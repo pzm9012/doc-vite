@@ -2,6 +2,7 @@
 title: 二、系统
 ---
 # 二、系统
+
 1.  深度操作系统 V23 Beta Arm64坊间版：[https://bbs.deepin.org/zh/post/256741](https://bbs.deepin.org/zh/post/256741)
 ## 2.1 系统安装
 > 安装 [deepin 20.4](https://bbs.deepin.org/post/230585) 之后的版本，安装器能自动识别已有 EFI 分区，无需再另外手动创建。
@@ -85,16 +86,17 @@ title: 二、系统
 ### 2.3.1 论坛用户编译的内核
 > 这些内核为论坛用户编译，非官方内核，可能会出现兼容性差、UEngine 无法使用等问题，请谨慎使用。
 
-1. odpk内核：[https://bbs.deepin.org/post/260119](https://bbs.deepin.org/post/260119)
-2. deepinV20和UOS内核fedora：[https://bbs.deepin.org/post/260464](https://bbs.deepin.org/post/260464)
-3. deepin+pve配置文件混合内核(不烫)： [https://bbs.deepin.org/post/260004](https://bbs.deepin.org/post/260004)
-4. 不同版本的6.4内核：[https://bbs.deepin.org/zh/post/258689](https://bbs.deepin.org/zh/post/258689)
-5. 分享6.1 hwe xanmod内核：[https://bbs.deepin.org/post/258476](https://bbs.deepin.org/post/258476)
-6. 在deepin内核配置文件基础上复制了几个PVE内核电源管理配置：[https://bbs.deepin.org/post/259690](https://bbs.deepin.org/post/259690)
-7. ubuntu内核(转换版) ：[https://bbs.deepin.org/post/259629](https://bbs.deepin.org/post/259629)
-8.  6.3.9(zen1)内核：[https://bbs.deepin.org/post/258409](https://bbs.deepin.org/post/258409)
-9.  分享6.3.9xanmod1内核：[https://bbs.deepin.org/post/258369](https://bbs.deepin.org/post/258369)
-10. 6.3.4内核和最新的firmware：[https://bbs.deepin.org/post/257183](https://bbs.deepin.org/post/257183)
+1.  最新的三个版本的内核下载：[https://bbs.deepin.org/post/261053](https://bbs.deepin.org/post/261053)
+2. odpk内核：[https://bbs.deepin.org/post/260119](https://bbs.deepin.org/post/260119)
+3. deepinV20和UOS内核fedora：[https://bbs.deepin.org/post/260464](https://bbs.deepin.org/post/260464)
+4. deepin+pve配置文件混合内核(不烫)： [https://bbs.deepin.org/post/260004](https://bbs.deepin.org/post/260004)
+5. 不同版本的6.4内核：[https://bbs.deepin.org/zh/post/258689](https://bbs.deepin.org/zh/post/258689)
+6. 分享6.1 hwe xanmod内核：[https://bbs.deepin.org/post/258476](https://bbs.deepin.org/post/258476)
+7. 在deepin内核配置文件基础上复制了几个PVE内核电源管理配置：[https://bbs.deepin.org/post/259690](https://bbs.deepin.org/post/259690)
+8. ubuntu内核(转换版) ：[https://bbs.deepin.org/post/259629](https://bbs.deepin.org/post/259629)
+9.  6.3.9(zen1)内核：[https://bbs.deepin.org/post/258409](https://bbs.deepin.org/post/258409)
+10.  分享6.3.9xanmod1内核：[https://bbs.deepin.org/post/258369](https://bbs.deepin.org/post/258369)
+11. 6.3.4内核和最新的firmware：[https://bbs.deepin.org/post/257183](https://bbs.deepin.org/post/257183)
 
 ## 2.4 问题解决
 
@@ -136,6 +138,7 @@ title: 二、系统
 36. WPS for linux字体显示问题：[https://blog.csdn.net/qq_36191272/article/details/105596225](https://blog.csdn.net/qq_36191272/article/details/105596225)
 > 同类问题：WPS页面显示问题   推荐解决方法：在星火应用商店安装“WPS Office缺失字体”“Win字体”
 
+37.  deep20.09 vpn 连接设置：[https://bbs.deepin.org/post/261002](https://bbs.deepin.org/post/261002)
 
 ## 2.5 系统使用
 
@@ -239,13 +242,13 @@ title: 二、系统
 5. 手把手教你装zsh，所有github链接都换成了gitee，包你安装顺利：[https://bbs.deepin.org/zh/post/237774](https://bbs.deepin.org/zh/post/237774)
 6. 使用fish代替bash，真好用：[https://bbs.deepin.org/zh/post/238189](https://bbs.deepin.org/zh/post/238189)
 7. Linux终端下使用Fish shell美化：[https://www.cnblogs.com/aaroncoding/p/17118251.html](https://www.cnblogs.com/aaroncoding/p/17118251.html)
-7. 使用alias简化命令：[https://bbs.deepin.org/zh/post/239361](https://bbs.deepin.org/zh/post/239361)
-8. 一个系统安装包配置脚本 autosetup for Deepin OS：[https://bbs.deepin.org/post/241041](https://bbs.deepin.org/post/241041)
-9. 写了个脚本，让apt-ftparchieve也能增量扫描更新deb仓库：[https://bbs.deepin.org/post/242570](https://bbs.deepin.org/post/242570)
-10.  命令行怎么修改语言：[https://bbs.deepin.org/post/247451](https://bbs.deepin.org/post/247451)
-11. transhell——一个让bash脚本可以国际化的方案：[https://bbs.deepin.org/post/249136](https://bbs.deepin.org/post/249136)
-12. 一些命令：[https://bbs.deepin.org/post/250551](https://bbs.deepin.org/post/250551)（有些解释不太对，请看帖子下大佬们的补充）
-13. 卸载“欢迎”app只需要一条命令即可：[https://bbs.deepin.org/post/254146](https://bbs.deepin.org/post/254146)
+8. 使用alias简化命令：[https://bbs.deepin.org/zh/post/239361](https://bbs.deepin.org/zh/post/239361)
+9. 一个系统安装包配置脚本 autosetup for Deepin OS：[https://bbs.deepin.org/post/241041](https://bbs.deepin.org/post/241041)
+10. 写了个脚本，让apt-ftparchieve也能增量扫描更新deb仓库：[https://bbs.deepin.org/post/242570](https://bbs.deepin.org/post/242570)
+11.  命令行怎么修改语言：[https://bbs.deepin.org/post/247451](https://bbs.deepin.org/post/247451)
+12. transhell——一个让bash脚本可以国际化的方案：[https://bbs.deepin.org/post/249136](https://bbs.deepin.org/post/249136)
+13. 一些命令：[https://bbs.deepin.org/post/250551](https://bbs.deepin.org/post/250551)（有些解释不太对，请看帖子下大佬们的补充）
+14. 卸载“欢迎”app只需要一条命令即可：[https://bbs.deepin.org/post/254146](https://bbs.deepin.org/post/254146)
 
 ### 2.5.6 文件处理
 

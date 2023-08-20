@@ -247,7 +247,7 @@ title: 四、应用软件
 4. 解决Wine通达信版行情软件侧边栏显示异常的问题：[https://blog.csdn.net/ericden/article/details/127601692](https://blog.csdn.net/ericden/article/details/127601692)
 
 ### 4.1.13 资讯阅读
-1. 分享一个读书笔记软件bookxnote：https://bbs.deepin.org/post/260885
+1.  分享一个读书笔记软件bookxnote：[https://bbs.deepin.org/post/260885](https://bbs.deepin.org/post/260885)
 
 ### 4.1.14 便捷生活
 
@@ -311,6 +311,8 @@ title: 四、应用软件
 37. 尝试wine了一下老游戏SPORE，一些经验：[https://bbs.deepin.org/zh/post/254038](https://bbs.deepin.org/zh/post/254038)
 38. 一款适用于 XBoard/WinBoard 中国象棋程序的棋子主题：[https://bbs.deepin.org/zh/post/254484](https://bbs.deepin.org/zh/post/254484)
 39. Steam V1:1.0.0.76 发布 及 安装说明：[https://bbs.deepin.org/zh/post/255946](https://bbs.deepin.org/zh/post/255946)
+40. MAME街机游戏ROM：8人街霸 (sf2j) 中文语音汉语版：
+[https://bbs.deepin.org/post/261054](https://bbs.deepin.org/post/261054)
 
 ## 4.2 运行其他平台应用、虚拟机
 ### 4.2.1 UEngine/Waydroid
@@ -375,6 +377,7 @@ title: 四、应用软件
 15. V23尝试使用distrobox运行软件：[https://bbs.deepin.org/zh/post/256901](https://bbs.deepin.org/zh/post/256901)
 16. 关于docker容器使用以及使用SSH连接容器：[https://bbs.deepin.org/post/256485](https://bbs.deepin.org/post/256485)
 17. 书虫兼容环境 12.1.5 预告：[https://bbs.deepin.org/post/260098](https://bbs.deepin.org/post/260098)（已上架星火应用商店）
+18.  deepinV23系统下安装win10系统及移动硬盘/打印机连接：[https://bbs.deepin.org/post/261048](https://bbs.deepin.org/post/261048)
 
 ## 4.3 软件开发
 
@@ -427,6 +430,8 @@ title: 四、应用软件
 47. 【翻译】Wayland（主页）：[https://bbs.deepin.org/post/256834](https://bbs.deepin.org/post/256834)
 48. 用脚本快速配置开发环境：[https://bbs.deepin.org/post/256661](https://bbs.deepin.org/post/256661)  的回复
 49.  记录一次gcc/g++编译升级（13.1.0）：[https://bbs.deepin.org/post/260699](https://bbs.deepin.org/post/260699)
+50. AppImage打包流程：[https://bbs.deepin.org/zh/post/260891](https://bbs.deepin.org/zh/post/260891)
+
 
 ### 4.3.1 Unilang 自研编程语言
 

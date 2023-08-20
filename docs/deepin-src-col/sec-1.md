@@ -3,13 +3,15 @@ title: 一、综合
 ---
 # 一、综合
 ## 1.1 入门
-> 也可以看看其他用户使用 deepin 的[测评感受](https://pzm9012.github.io/doc-vite/deepin-src-col/sec-6.html#_6-1-%E6%B5%8B%E8%AF%84%E6%84%9F%E5%8F%97)。
+> 也可以看看其他用户使用 deepin 的[测评感受](/#_6-1-%E6%B5%8B%E8%AF%84%E6%84%9F%E5%8F%97)。
 
 1. 统信UOS家庭版｜新手安装锦囊：[https://bbs.chinauos.com/post/8738](https://bbs.chinauos.com/post/8738)
 2. 写给deepin小白的入门教程：[https://bbs.deepin.org/zh/post/209755](https://bbs.deepin.org/zh/post/209755)
 3. 终于基本能用了，分享一下心得：[https://bbs.deepin.org/zh/post/217375](https://bbs.deepin.org/zh/post/217375)
 4. 再次安装deepin：[https://bbs.deepin.org/zh/post/239388](https://bbs.deepin.org/zh/post/239388)
 5. deepin小白的问题归纳及其他：[https://bbs.deepin.org/post/241961](https://bbs.deepin.org/post/241961)
+6.  Linux 学习笔记 - 1：[https://bbs.deepin.org/post/261010](https://bbs.deepin.org/post/261010)
+7.  deepinos-基础配置：[https://bbs.deepin.org/post/261052](https://bbs.deepin.org/post/261052)
 
 ## 1.2 知识汇总
 
