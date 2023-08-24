@@ -69,6 +69,17 @@ sudo apt purge xxxxx
 ## 删除文件管理器“磁盘”中的百度网盘快捷方式
 删除`/usr/share/dde-file-manager/extensions/appEntry`目录下的 .desktop 文件。
 
+## 解决 UEngine 禁止安装来源不明的应用
+终端执行以下命令：
+```
+/usr/bin/uengine launch.sh --package=org.anbox.appmgr --component=org.anbox.appmgr.AppViewActivity
+```
+或者安装并打开 UEngine 运行器，点击“打开 UEngine 应用列表”。
+
+在面板中打开设置，进入“安全”，开启“未知来源（允许安装来自未知来源的应用）”，点击“确认”。
+
+参考资料：[http://uengine-runner.gfdgdxi.top](http://uengine-runner.gfdgdxi.top)
+
 ## 自定义屏幕缩放
 :::tip 出处
 见 [https://bbs.chinauos.com/zh/post/9328](https://bbs.chinauos.com/zh/post/9328) 2楼。
@@ -99,7 +110,7 @@ sudo apt update
 
 ## 调整安卓应用的宽高、默认横屏等显示参数
 :::tip 出处
-见 [https://bbs.deepin.org/post/255732?postId=1457815](https://bbs.deepin.org/post/255732?postId=1457815) 2楼。
+见 [https://bbs.deepin.org/zh/post/254022?postId=1442273](https://bbs.deepin.org/zh/post/254022?postId=1442273) 2楼。
 :::
 配置文件位置：/usr/share/uengine/appetc，每一个文件对应一个安卓应用，文件名是应用ID
 
@@ -150,9 +161,10 @@ service --status-all
 比如
 
 `git clone https://<gitee_用户名>:<私人令牌>@gitee.com/<gitee_用户名>/notepad.git`
-​
+
 ## 隐藏 Wayland 入口
 :::tip 出处
 见 [https://bbs.deepin.org/post/256684?postId=1466134](https://bbs.deepin.org/post/256684?postId=1466134) 6楼。
 :::
 终端执行 `dde-dconfig -a org.deepin.dde.lightdm-deepin-greeter -r org.deepin.dde.lightdm-deepin-greeter -k allowSwitchingToWayland --set -v false`。
+​
