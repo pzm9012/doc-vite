@@ -86,7 +86,7 @@ title: 二、系统
 ### 2.3.1 论坛用户编译的内核
 > 这些内核为论坛用户编译，非官方内核，可能会出现兼容性差、UEngine 无法使用等问题，请谨慎使用。
 
-1.  最新的三个版本的内核下载：[https://bbs.deepin.org/post/261053](https://bbs.deepin.org/post/261053)
+1. 最新的三个版本的内核下载：[https://bbs.deepin.org/post/261053](https://bbs.deepin.org/post/261053)
 2. odpk内核：[https://bbs.deepin.org/post/260119](https://bbs.deepin.org/post/260119)
 3. deepinV20和UOS内核fedora：[https://bbs.deepin.org/post/260464](https://bbs.deepin.org/post/260464)
 4. deepin+pve配置文件混合内核(不烫)： [https://bbs.deepin.org/post/260004](https://bbs.deepin.org/post/260004)
