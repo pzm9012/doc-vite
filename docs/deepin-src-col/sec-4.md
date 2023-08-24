@@ -125,7 +125,8 @@ title: 四、应用软件
 1. 一款词典工具：[https://bbs.deepin.org/zh/post/227166](https://bbs.deepin.org/zh/post/227166)
 2. 白杉树背单词训练软件 v2.0_65 正式发布：[https://bbs.deepin.org/post/248998](https://bbs.deepin.org/post/248998)
 3. 墨干编辑器V1.1.2：新增macOS arm和Ubuntu安装包：[https://bbs.deepin.org/post/254916](https://bbs.deepin.org/post/254916)
-4.  wine安装e听说中学版：
+4.  wine安装e听说中学版：[https://bbs.deepin.org/post/26001](https://bbs.deepin.org/post/26001)
+5. 【Python】中小学电子课本解析下载工具：[https://bbs.deepin.org/post/261226](https://bbs.deepin.org/post/261226)
 
 ### 4.1.4 编程开发
 
@@ -211,6 +212,7 @@ title: 四、应用软件
 18. 推荐给用blender的网友，视频剪辑字幕插件的使用方法：[https://bbs.deepin.org/post/260440](https://bbs.deepin.org/post/260440)
 19. 终端部署openAI whisper用于提取音视频字幕：[https://bbs.deepin.org/post/258121](https://bbs.deepin.org/post/258121)
 20. 静态安装ffmpeg高版本：[https://bbs.deepin.org/post/259626](https://bbs.deepin.org/post/259626)
+21. 剪映国际网页版打包：[https://bbs.deepin.org/zh/post/261094](https://bbs.deepin.org/zh/post/261094) （见1楼和8楼）
 
 ### 4.1.9 图形图像
 
@@ -313,6 +315,7 @@ title: 四、应用软件
 39. Steam V1:1.0.0.76 发布 及 安装说明：[https://bbs.deepin.org/zh/post/255946](https://bbs.deepin.org/zh/post/255946)
 40. MAME街机游戏ROM：8人街霸 (sf2j) 中文语音汉语版：
 [https://bbs.deepin.org/post/261054](https://bbs.deepin.org/post/261054)
+41. 原神，启动！！！（这回没开玩笑）：[https://bbs.deepin.org/zh/post/261080](https://bbs.deepin.org/zh/post/261080)
 
 ## 4.2 运行其他平台应用、虚拟机
 ### 4.2.1 UEngine/Waydroid
@@ -321,7 +324,7 @@ title: 四、应用软件
 > 同类应用还有 [Anbox](https://anbox.io/)（已停止维护）、[xDroid](https://www.linzhuotech.com/Product/xDroid) 等。
 
 1. **UEngine 运行器**：[论坛页面](https://bbs.deepin.org/zh/post/248912)  [Gitee页面](https://gitee.com/gfdgd-xi/uengine-runner)
-2. Waydroid 运行器：[论坛页面](https://bbs.deepin.org/post/260328)  [Gitee](https://gitee.com/gfdgd-xi/waydroid-runner)  [Github](https://github.com/gfdgd-xi/waydroid-runner)
+2. Waydroid 运行器：[论坛页面](https://bbs.deepin.org/post/261079)  [Gitee](https://gitee.com/gfdgd-xi/waydroid-runner)  [Github](https://github.com/gfdgd-xi/waydroid-runner)
 3. uengine 使用总结：[https://uos.osystem.club/102.html](https://uos.osystem.club/102.html)
 4. Deepin20.2.2运行安卓和自行安装软件：[https://bbs.deepin.org/zh/post/222222](https://bbs.deepin.org/zh/post/222222)
 5. 成功Root Deepin的Android子系统（Uengine）：[https://bbs.deepin.org/zh/post/228520](https://bbs.deepin.org/zh/post/228520)
@@ -343,7 +346,7 @@ title: 四、应用软件
 9. CrossOver 17 测试版，解除时间限制：[https://bbs.deepin.org/zh/post/231306](https://bbs.deepin.org/zh/post/231306)
 10. wine工具盘点——linux上运行windows软件必备神器：[https://bbs.deepin.org/zh/post/237398](https://bbs.deepin.org/zh/post/237398)
 11. Deepin Wine6的run_v4脚本探索——启动方式：[https://bbs.deepin.org/zh/post/237953](https://bbs.deepin.org/zh/post/237953)
-12. spark-dwine-helper文档：[https://shenmo7192.gitee.io/categories/spark-dwine-helper%E6%96%87%E6%A1%A3/](https://shenmo7192.gitee.io/categories/spark-dwine-helper%E6%96%87%E6%A1%A3/)
+12. spark-dwine-helper文档：[https://blog.shenmo.tech/categories/spark-dwine-helper%E6%96%87%E6%A1%A3/](https://blog.shenmo.tech/categories/spark-dwine-helper%E6%96%87%E6%A1%A3/)
 13. 安装WineHQ：[https://bbs.deepin.org/zh/post/238337](https://bbs.deepin.org/zh/post/238337)
 14. WineHQ使用时出现中文乱码：[https://bbs.deepin.org/zh/post/238339](https://bbs.deepin.org/zh/post/238339)
 15. wine使用教程4-用wine运行便携式exe程序（绿色软件）的方法：[https://bbs.deepin.org/zh/post/239212](https://bbs.deepin.org/zh/post/239212)
@@ -431,6 +434,7 @@ title: 四、应用软件
 48. 用脚本快速配置开发环境：[https://bbs.deepin.org/post/256661](https://bbs.deepin.org/post/256661)  的回复
 49.  记录一次gcc/g++编译升级（13.1.0）：[https://bbs.deepin.org/post/260699](https://bbs.deepin.org/post/260699)
 50. AppImage打包流程：[https://bbs.deepin.org/zh/post/260891](https://bbs.deepin.org/zh/post/260891)
+51. 二进制文件制作封装成 deb 软件包：[https://bbs.deepin.org/post/261204](https://bbs.deepin.org/post/261204)
 
 
 ### 4.3.1 Unilang 自研编程语言

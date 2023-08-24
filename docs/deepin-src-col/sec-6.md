@@ -27,6 +27,7 @@ title: 六、更多
 21. [每天一感] V23 有感！：[https://bbs.deepin.org/post/253773](https://bbs.deepin.org/post/253773)
 22. 老电脑后续：2013年老台式机上deepin 20.8成功：[https://bbs.deepin.org/post/253918](https://bbs.deepin.org/post/253918)
 23. 用Deepin/UOS系统日常办公一周多感受：[https://bbs.deepin.org/post/260588](https://bbs.deepin.org/post/260588)
+24. 分屏系统的使用分享：[https://bbs.deepin.org/post/261169](https://bbs.deepin.org/post/261169)
 
 ## 6.2 其他系统的资源
 deepin 20 是 Debian Linux 的一个分支。尽管其他的 Linux 发行版与 deepin 有所不同，它们的 Wiki 仍有值得学习的知识。 [Debian Wiki](https://wiki.debian.org/zh_CN/FrontPage?action=show&redirect=%E9%A6%96%E9%A1%B5)  [ArchWiki](https://wiki.archlinuxcn.org/wiki/%E9%A6%96%E9%A1%B5)  [openSUSE Wiki](https://zh.opensuse.org/%E9%A6%96%E9%A1%B5)

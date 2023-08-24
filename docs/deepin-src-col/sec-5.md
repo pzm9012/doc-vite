@@ -46,6 +46,7 @@ title: 五、社区与论坛
 28. 审美游戏——审美高手来集合：[https://bbs.deepin.org/post/249891](https://bbs.deepin.org/post/249891)
 29. [【我行我秀】deepin社区主题大赛](https://bbs.deepin.org/zh/post/256852)      [参赛须知及版权约定](https://bbs.deepin.org/post/256848)      [主题一键打包工具及操作演示视频](https://bbs.deepin.org/post/256847)      [慧眼识珠-主题模板](https://bbs.deepin.org/post/256849)      [神笔马良-主题模板](https://bbs.deepin.org/post/256851)      [鼠标指针制作规范](https://bbs.deepin.org/post/256846)      [壁纸及鼠标指针设计规范](https://bbs.deepin.org/post/256959)      [作品展示](https://bbs.deepin.org/post/257930)       [慧眼识珠赛道投票](https://bbs.deepin.org/post/258575)      [最终作品展示-神笔马良赛道](https://bbs.deepin.org/post/258576)      [获奖名单公示](https://bbs.deepin.org/post/259150)
 30. deepin社区携手北航学子共建开源生态：[https://bbs.deepin.org/post/260355](https://bbs.deepin.org/post/260355)
+31. deepin社区历届DDUC信息汇总： [https://bbs.deepin.org/post/261162](https://bbs.deepin.org/post/261162)
 ### 5.2.1 WHLUG（武汉Linux用户组）
 早期 WHLUG 新闻见 [https://www.deepin.org/zh/category/whlug-news/](https://www.deepin.org/zh/category/whlug-news/)。
 
