@@ -96,3 +96,4 @@ deepin 20 是 Debian Linux 的一个分支。尽管其他的 Linux 发行版与 
 14.  分享三种使用ChatGPT的办法：[https://bbs.deepin.org/post/259359](https://bbs.deepin.org/post/259359)
 15. 【小知识】你的系统中有多少GNU：[https://bbs.deepin.org/zh/post/255440](https://bbs.deepin.org/zh/post/255440)
 16. 搭建hexo博客：[https://bbs.deepin.org/post/256318](https://bbs.deepin.org/post/256318)
+17. 大模型AIGC分享  [「深度学习」篇](https://bbs.deepin.org/post/261254)    [「走进大模型」篇](https://bbs.deepin.org/post/261256)

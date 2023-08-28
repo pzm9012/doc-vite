@@ -211,7 +211,7 @@ title: 二、系统
 22. Qt6 无法输入中文：[https://bbs.deepin.org/zh/post/254932](https://bbs.deepin.org/zh/post/254932)
 23. 任务栏托盘的cn按钮关闭：执行`gsettings set com.deepin.dde.dock.module.keyboard enable false`。
 24. 23版本fcitx5输入法的设置优化，使输入法更好用：[https://bbs.deepin.org/post/256386](https://bbs.deepin.org/post/256386)
-25. 【原创应用】98五笔小精灵更新：[https://bbs.deepin.org/zh/post/259885](https://bbs.deepin.org/zh/post/259885)
+25. 安装 fcitx 输入法：[https://bbs.deepin.org/post/261261](https://bbs.deepin.org/post/261261)
 
 ### 2.5.4 性能
 

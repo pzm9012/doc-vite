@@ -13,6 +13,7 @@ title: 五、社区与论坛
 7.  【怀旧向】深度科技论坛，前世今生：[https://bbs.deepin.org/post/244048](https://bbs.deepin.org/post/244048)
 8. 今天试着把论坛打包成APP了，欢迎大家试用一下：[https://bbs.deepin.org/post/247362](https://bbs.deepin.org/post/247362)
 9. 论坛2023年4月3号更新，解决两个痛点问题：[https://bbs.deepin.org/zh/post/254612](https://bbs.deepin.org/zh/post/254612)
+10. 屏蔽指定用户帖子和回复（油猴脚本）：[https://bbs.deepin.org/post/261272](https://bbs.deepin.org/post/261272)
 
 ## 5.2 社区活动（部分）
 

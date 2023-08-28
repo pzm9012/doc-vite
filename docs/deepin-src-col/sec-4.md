@@ -86,8 +86,9 @@ title: 四、应用软件
 74. Vim 中切换模式时自动切换输入法：[https://bbs.deepin.org/zh/post/256177](https://bbs.deepin.org/zh/post/256177)
 75. 使用xdotool简单实现钉钉窗口快捷键激活：[https://bbs.deepin.org/post/260738](https://bbs.deepin.org/post/260738)
 76. 附加基础库additional-base-lib之第五版：[https://bbs.deepin.org/post/258570](https://bbs.deepin.org/post/258570)
+77. 98五笔小精灵更新：[https://bbs.deepin.org/zh/post/259885](https://bbs.deepin.org/zh/post/259885)
 
-[Buy me a tea](../donate)
+[请作者喝杯茶](../donate)
 
 ### 4.1.2 效率办公
 
@@ -125,7 +126,7 @@ title: 四、应用软件
 1. 一款词典工具：[https://bbs.deepin.org/zh/post/227166](https://bbs.deepin.org/zh/post/227166)
 2. 白杉树背单词训练软件 v2.0_65 正式发布：[https://bbs.deepin.org/post/248998](https://bbs.deepin.org/post/248998)
 3. 墨干编辑器V1.1.2：新增macOS arm和Ubuntu安装包：[https://bbs.deepin.org/post/254916](https://bbs.deepin.org/post/254916)
-4.  wine安装e听说中学版：[https://bbs.deepin.org/post/26001](https://bbs.deepin.org/post/26001)
+4.  wine安装e听说中学版：[https://bbs.deepin.org/post/260019](https://bbs.deepin.org/post/260019)
 5. 【Python】中小学电子课本解析下载工具：[https://bbs.deepin.org/post/261226](https://bbs.deepin.org/post/261226)
 
 ### 4.1.4 编程开发
@@ -165,6 +166,7 @@ title: 四、应用软件
 22. V23 安装向日葵远程控制：[https://bbs.deepin.org/zh/post/257022](https://bbs.deepin.org/zh/post/257022)
 23. v23系统下百度翻译无法使用临时解决方案：[https://bbs.deepin.org/post/260086](https://bbs.deepin.org/post/260086)
 24. 阿里云盘的命令行应用，速度不错20m+：[https://bbs.deepin.org/post/258577](https://bbs.deepin.org/post/258577)
+25. Chrome 116 ACE版本分享(解决闪退问题) ：[https://bbs.deepin.org/post/261317](https://bbs.deepin.org/post/261317)
 
 ### 4.1.6 视频播放
 
@@ -186,7 +188,6 @@ title: 四、应用软件
 4. music-island介绍：[最近更新](https://bbs.deepin.org/post/259310)
 5. You-get强大的视频下载程序图形软件：[https://bbs.deepin.org/post/250587](https://bbs.deepin.org/post/250587)
 6.  [应用推荐]简洁美观好用的开源音乐软件：[https://bbs.deepin.org/post/252868](https://bbs.deepin.org/post/252868)
-7. 简洁美观好用的开源音乐软件：[https://bbs.deepin.org/post/252868](https://bbs.deepin.org/post/252868)
 
 ### 4.1.8 影音编辑
 
@@ -313,8 +314,7 @@ title: 四、应用软件
 37. 尝试wine了一下老游戏SPORE，一些经验：[https://bbs.deepin.org/zh/post/254038](https://bbs.deepin.org/zh/post/254038)
 38. 一款适用于 XBoard/WinBoard 中国象棋程序的棋子主题：[https://bbs.deepin.org/zh/post/254484](https://bbs.deepin.org/zh/post/254484)
 39. Steam V1:1.0.0.76 发布 及 安装说明：[https://bbs.deepin.org/zh/post/255946](https://bbs.deepin.org/zh/post/255946)
-40. MAME街机游戏ROM：8人街霸 (sf2j) 中文语音汉语版：
-[https://bbs.deepin.org/post/261054](https://bbs.deepin.org/post/261054)
+40. MAME街机游戏ROM：8人街霸 (sf2j) 中文语音汉语版：[https://bbs.deepin.org/post/261054](https://bbs.deepin.org/post/261054)
 41. 原神，启动！！！（这回没开玩笑）：[https://bbs.deepin.org/zh/post/261080](https://bbs.deepin.org/zh/post/261080)
 
 ## 4.2 运行其他平台应用、虚拟机
@@ -324,7 +324,7 @@ title: 四、应用软件
 > 同类应用还有 [Anbox](https://anbox.io/)（已停止维护）、[xDroid](https://www.linzhuotech.com/Product/xDroid) 等。
 
 1. **UEngine 运行器**：[论坛页面](https://bbs.deepin.org/zh/post/248912)  [Gitee页面](https://gitee.com/gfdgd-xi/uengine-runner)
-2. Waydroid 运行器：[论坛页面](https://bbs.deepin.org/post/261079)  [Gitee](https://gitee.com/gfdgd-xi/waydroid-runner)  [Github](https://github.com/gfdgd-xi/waydroid-runner)
+2. Waydroid 运行器：[论坛页面](https://bbs.deepin.org/post/261079)  [Gitee](https://gitee.com/gfdgd-xi/waydroid-runner)  [GitHub](https://github.com/gfdgd-xi/waydroid-runner)
 3. uengine 使用总结：[https://uos.osystem.club/102.html](https://uos.osystem.club/102.html)
 4. Deepin20.2.2运行安卓和自行安装软件：[https://bbs.deepin.org/zh/post/222222](https://bbs.deepin.org/zh/post/222222)
 5. 成功Root Deepin的Android子系统（Uengine）：[https://bbs.deepin.org/zh/post/228520](https://bbs.deepin.org/zh/post/228520)
@@ -435,7 +435,7 @@ title: 四、应用软件
 49.  记录一次gcc/g++编译升级（13.1.0）：[https://bbs.deepin.org/post/260699](https://bbs.deepin.org/post/260699)
 50. AppImage打包流程：[https://bbs.deepin.org/zh/post/260891](https://bbs.deepin.org/zh/post/260891)
 51. 二进制文件制作封装成 deb 软件包：[https://bbs.deepin.org/post/261204](https://bbs.deepin.org/post/261204)
-
+52. deepin-unioncode 用户使用手册：[https://bbs.deepin.org/post/261338](https://bbs.deepin.org/post/261338)
 
 ### 4.3.1 Unilang 自研编程语言
 
