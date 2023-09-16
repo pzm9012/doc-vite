@@ -6,12 +6,22 @@
 ### Windows 系统盘里的文件带有小锁图标，变成只读无法修改
 
 进入 Windows ，打开控制面板（Windows 11 请通过“Windows 工具”打开），进入“硬件和声音”>“电源选项”>“选择电源按钮的功能”，点击第3行“更改当前不可用的设置”（需要管理员），找到“关机设置”下的“启用快速启动”并取消勾选，点击“保存修改”。或者，每次先进入 Windows，再**重启**进入 deepin。
-### 同一电脑，deepin 的日期时间比 Windows 的晚 8 个小时
+### 电脑安装多系统，deepin 的时间比 Windows 的晚 8 个小时
+
+Windows 把电脑的硬件时间（RTC）看成是本地时间（本地时间 = RTC），Linux 则是把电脑的硬件时间看成 UTC 时间（本地时间 = RTC+8 = UTC+8）。
+解决方法有让 Windows 使用 UTC 或让 deepin 按照 Windows 的方式管理时间。具体见[这里](/deepin-solutions/collect.html#linux-%E5%92%8C-windows-%E6%97%B6%E9%97%B4%E4%B8%8D%E5%90%8C%E6%AD%A5)。
 ### 开启无密码登录和自动登录后，进入桌面提示“您的登录密钥环未被解锁”
 
 在终端执行`sudo rm -f ~/.local/share/keyrings/login.keyring`。
+### 控制中心更新失败自查原因
+
+打开终端，执行`sudo apt update && sudo apt full-upgrade`。
 ### 窗口特效无法开启
+
 一个可能的原因是安装了华宇输入法。如果符合此情况，请改为安装其他输入法。
+### 声卡没有声音的一个可能有用的解决方法(主要适用于 Intel 12/13代处理器的设备，对麦克风不起作用)
+
+编辑 `/etc/default/grub` ， 在 `GRUB_CMDLINE_LINUX_DEFAULT` 这一行添加 `snd_hda_intel.dmic_detect=0` 。若在 Ubuntu 下声卡正常工作，可从 Ubuntu 的 `/lib/firmware/intel` 文件夹提取驱动，替换掉 deepin 下对应文件夹。 [原帖](https://bbs.deepin.org/post/248032)
 
 ## 第三方软件使用
 ### WPS Office 字体显示异常

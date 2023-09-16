@@ -8,7 +8,6 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'deepin 高频问题', link: '/deepin-solutions/论坛发帖提问须知' },
       { text: '我的语雀主页', link: 'https://yuque.com/pzm9012/ct5ume/' },
       { text: '博客', link: 'https://pzm9012.github.io' },
       { text: '我的 deepin 论坛主页', link: 'https://bbs.deepin.org/user/217969' }
@@ -34,38 +33,14 @@ export default defineConfig({
                   { text: '七、归档', link: '/deepin-src-col/sec-7' }
                 ]
               },
+              { text: 'deepin 常见问题解决方案整理',
+                items: [
+                  { text: '频繁问及', link: '/deepin-solutions/frequently-asked'},
+                  { text: '较常见', link: '/deepin-solutions/collect'}
+                ]
+            }
           ]
         }
-        ],
-        '/deepin-solutions/': [
-          {
-            text: 'deepin 高频问题',
-            items: [
-              { text: '论坛发帖提问须知', link: '/deepin-solutions/论坛发帖提问须知'},
-              { text: '系统安装相关', link: '/deepin-solutions/系统安装相关'},
-              {
-                text: '硬件',
-                items: [
-                  { text: '常见硬件问题', link: '/deepin-solutions/常见硬件问题'},
-                ]
-              },
-              {
-                text: '软件',
-                items: [
-                  { text: '常见软件问题', link: '/deepin-solutions/常见软件问题'},
-                  { text: '更多', link: '/deepin-solutions/Software/Others'}
-                ]
-              }
-            ]
-          }
-        ],
-        '/reprints/': [
-          {
-            text: '转载文章',
-            items: [
-              
-            ]
-          }
         ]
     },
     outline: [2, 4], 
