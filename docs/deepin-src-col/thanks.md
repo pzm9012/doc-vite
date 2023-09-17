@@ -9,7 +9,6 @@ deepin 常用资源整理持续维护至今，离不开热心人士的建议和�
 感谢以下人员参与协作/提供资源/提出建议：
 - [PossibleVing](https://bbs.deepin.org/user/225373)
 - [hanzn-zzx](https://bbs.deepin.org/user/284017)
-- [nanming](https://bbs.deepin.org/user/239615)
 - [阿尼樱奈奈](https://bbs.deepin.org/user/296995)
 - [nanming](https://bbs.deepin.org/user/239615)
 - [liwl](https://bbs.deepin.org/user/160805)
