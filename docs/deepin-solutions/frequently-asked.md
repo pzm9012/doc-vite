@@ -1,5 +1,5 @@
 # 高频问题
-:::tip 
+:::tip 说明
 本文提供的解决方案有些是对应问题的一种处理方案，并非唯一，仅供参考。
 :::
 ## 使用系统的问题
@@ -35,6 +35,9 @@ Windows 把电脑的硬件时间（RTC）看成是本地时间（本地时间 = 
 打开`about:config`页面，选择我知道风险，把`browser.display.os-zoom-behavior`修改为 0。
 
 [参考资料](https://blog.shenmo.tech/post/%E4%BF%AE%E5%A4%8D%E7%81%AB%E7%8B%90103%E7%89%88%E6%9C%AC%E5%B7%A8%E5%A4%A7%E8%BF%87%E5%A4%A7ui%E9%97%AE%E9%A2%98/)
+### VSCode 使用原生标题栏
+
+在设置中找到`Window: Title Bar Style`这一项，选择`custom`。
 
 ## 软件安装
 ### 搜狗输入法（V23）
