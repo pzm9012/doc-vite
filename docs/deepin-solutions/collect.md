@@ -170,4 +170,26 @@ service --status-all
 见 [https://bbs.deepin.org/post/256684?postId=1466134](https://bbs.deepin.org/post/256684?postId=1466134) 6楼。
 :::
 终端执行 `dde-dconfig -a org.deepin.dde.lightdm-deepin-greeter -r org.deepin.dde.lightdm-deepin-greeter -k allowSwitchingToWayland --set -v false`。
+
+## 安装 Sound Open Firmware
+:::warning 系统要求
+建议使用 deepin V23，加入内测且更新至最新版。
+:::
+:::tip 提示
+有些已在 SOF 中支持的声卡可手动安装最新的固件来尝试使声卡可用。由于硬件多样，声卡可能无法完全正常工作（如麦克风无法使用、仅  3.5mm 耳机接口可用等）。
+:::
+1. 前往 [https://github.com/thesofproject/sof-bin/releases](https://github.com/thesofproject/sof-bin/releases) 下载 sof-bin-vx.x.x.tar.gz 文件。
+2. 准备一个存放备份的文件夹，终端执行以下命令：（自行替换备份路径）
+```
+sudo mv /lib/firmware/intel/sof* /path/to/backup/folder/
+```
+3. 解压下载的文件，在解压后文件所在的目录里打开终端，执行：（自行替换版本号）
+```
+sudo ./install.sh vx.x.x
+```
+
+此章节的参考资料：
+- [https://bbs.deepin.org/post/245513?offset=0&postId=1399406](https://bbs.deepin.org/post/245513?offset=0&postId=1399406)
+- [https://bbs.deepin.org/post/238558?offset=0&postId=1399543](https://bbs.deepin.org/post/238558?offset=0&postId=1399543)
+
 ​
