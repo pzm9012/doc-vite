@@ -37,12 +37,13 @@ export default defineConfig({
                 items: [
                   { text: '高频问题', link: '/deepin-solutions/frequently-asked' },
                   { text: '常见问题', link: '/deepin-solutions/common' },
-                  { text: '解决方案收集', link: '/deepin-solutions/collect' }
+                  { text: '解决方案收集', link: '/deepin-solutions/collect' },
+                  { text: '致谢', link: '/deepin-solutions/thanks' }
                 ]
-            }
+              }
           ]
         }
-        ]
+      ]
     },
     outline: [2, 4], 
     socialLinks: [
