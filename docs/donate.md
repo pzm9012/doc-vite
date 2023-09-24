@@ -5,3 +5,7 @@
 ## 微信
 
 ![mm_qrcode.png](./img/mm_qrcode.png)
+
+## 支付宝
+
+![alipay_qrcode.jpg](./img/alipay_qrcode.jpg)

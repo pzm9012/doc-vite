@@ -192,3 +192,17 @@ sudo ./install.sh vx.x.x
 - [https://bbs.deepin.org/post/245513?offset=0&postId=1399406](https://bbs.deepin.org/post/245513?offset=0&postId=1399406)
 - [https://bbs.deepin.org/post/238558?offset=0&postId=1399543](https://bbs.deepin.org/post/238558?offset=0&postId=1399543)
 
+## 将 Scroll Lock 键映射为键盘灯开关
+:::tip 出处
+见 [https://bbs.deepin.org/zh/post/262357?postId=1516951](https://bbs.deepin.org/zh/post/262357?postId=1516951)。:::
+```
+#!/bin/bash
+status=/tmp/keyboard_led_status  
+if [[ ${1} == "on" ]] || [[ ! -e ${status} ]]; then  
+    xset led named 'Scroll Lock' && echo "on" > ${status}  
+else  
+    xset -led named 'Scroll Lock' && rm -f ${status}  
+fi
+```
+
+​
