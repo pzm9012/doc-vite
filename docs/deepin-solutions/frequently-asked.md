@@ -42,6 +42,9 @@ Windows 把电脑的硬件时间（RTC）看成是本地时间（本地时间 = 
 打开`about:config`页面，选择我知道风险，把`browser.display.os-zoom-behavior`修改为 0。
 
 [参考资料](https://blog.shenmo.tech/post/%E4%BF%AE%E5%A4%8D%E7%81%AB%E7%8B%90103%E7%89%88%E6%9C%AC%E5%B7%A8%E5%A4%A7%E8%BF%87%E5%A4%A7ui%E9%97%AE%E9%A2%98/)
+### 删除文件管理器“磁盘”中的百度网盘快捷方式
+
+删除`/usr/share/dde-file-manager/extensions/appEntry`目录下的 .desktop 文件。
 ### VSCode 使用原生标题栏
 
 在设置中找到`Window: Title Bar Style`这一项，选择`custom`。
@@ -62,6 +65,18 @@ sudo apt install "fcitx" fcitx-pinyin
 完成后注销，重新登录。然后使用软件包安装器安装[搜狗输入法](https://shurufa.sogou.com/linux)。
 
 [参考资料](https://bbs.deepin.org/post/253733)
+
+### 解决 UEngine 禁止安装来源不明的应用
+
+终端执行以下命令：
+```
+/usr/bin/uengine launch.sh --package=org.anbox.appmgr --component=org.anbox.appmgr.AppViewActivity
+```
+或者安装并打开 UEngine 运行器，点击“打开 UEngine 应用列表”。
+
+在面板中打开设置，进入“安全”，开启“未知来源（允许安装来自未知来源的应用）”，点击“确认”。
+
+参考资料：[http://uengine-runner.gfdgdxi.top](http://uengine-runner.gfdgdxi.top)
 
 ## 值得了解的事情
 - `sudo apt autoremove` 确认执行前一定要认真审阅将会移除的软件包列表，确定其中不含有系统组件，再进下一步操作，**务必不要随意执行**。
