@@ -191,4 +191,8 @@ else
 fi
 ```
 
-​
+​## 间接使用手写输入法
+:::tip 出处
+见 [https://bbs.deepin.org/post/241747?postId=1366668](https://bbs.deepin.org/post/241747?postId=1366668) 7楼。
+:::
+用这个在线版的手写识别系统：[https://teshuzi.com/zh/handwriting/](https://teshuzi.com/zh/handwriting/)    一个一个的手动复制手写识别的字（点击就可以复制），再粘贴到相应的需要输入的地方
