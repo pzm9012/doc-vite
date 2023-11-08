@@ -32,7 +32,9 @@ Windows 把电脑的硬件时间（RTC）看成是本地时间（本地时间 = 
 ### 声卡没有声音的一个可能有用的解决方法(主要适用于 Intel 12/13代处理器的设备，对麦克风不起作用)
 
 编辑 `/etc/default/grub` ， 在 `GRUB_CMDLINE_LINUX_DEFAULT` 这一行添加 `snd_hda_intel.dmic_detect=0` 。若在 Ubuntu 下声卡正常工作，可从 Ubuntu 的 `/lib/firmware/intel` 文件夹提取驱动，替换掉 deepin 下对应文件夹。 [原帖](https://bbs.deepin.org/post/248032)
+### 浏览器的网页翻译不可用
 
+网页翻译使用的是 Google 翻译，可自行安装翻译扩展来替代。
 ## 第三方软件使用
 ### WPS Office 字体显示异常
 
