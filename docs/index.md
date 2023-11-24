@@ -5,6 +5,8 @@ hero:
   name: "pzm9012 的文稿"
   text: "几篇零零散散的文章的发布地"
   tagline: 
+  image: 
+    src: /site-logo.png
   actions:
     - theme: brand
       text: 进入
