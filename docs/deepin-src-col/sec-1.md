@@ -3,7 +3,7 @@ title: 一、综合
 ---
 # 一、综合
 ## 1.1 入门
-> 也可以看看其他用户使用 deepin 的[测评感受](/#_6-1-%E6%B5%8B%E8%AF%84%E6%84%9F%E5%8F%97)。
+> 也可以看看其他用户使用 deepin 的[测评感受](/deepin-src-col/sec-6.html#_6-1-%E6%B5%8B%E8%AF%84%E6%84%9F%E5%8F%97)。
 
 1. 统信UOS家庭版｜新手安装锦囊：[https://bbs.chinauos.com/post/8738](https://bbs.chinauos.com/post/8738)
 2. 写给deepin小白的入门教程：[https://bbs.deepin.org/zh/post/209755](https://bbs.deepin.org/zh/post/209755)
@@ -12,8 +12,6 @@ title: 一、综合
 5. deepin小白的问题归纳及其他：[https://bbs.deepin.org/post/241961](https://bbs.deepin.org/post/241961)
 6. Linux 学习笔记：[1](https://bbs.deepin.org/post/261010)    [2](https://bbs.deepin.org/post/261072)    [3](https://bbs.deepin.org/post/261132)    [4](https://bbs.deepin.org/post/261236)    [5](https://bbs.deepin.org/post/261320)
 7. deepinos-基础配置：[https://bbs.deepin.org/post/261052](https://bbs.deepin.org/post/261052)
-8. 我的小窝：[https://bbs.deepin.org/post/261133](https://bbs.deepin.org/post/261133)
-9. 干净了，我的窗口：[https://bbs.deepin.org/post/261266](https://bbs.deepin.org/post/261266)
 
 ## 1.2 知识汇总
 
@@ -27,6 +25,7 @@ title: 一、综合
 8. 统信软件-知识分享平台：[https://faq.uniontech.com/](https://faq.uniontech.com/)
 9. 在GitHub上反馈问题，5步搞定！：[https://bbs.deepin.org/post/257775](https://bbs.deepin.org/post/257775)
 10. 学习编程区资源整理（第一期·持续更新中）：[https://bbs.deepin.org/zh/post/255506](https://bbs.deepin.org/zh/post/255506)
+11. Linux知识分享：[https://bbs.deepin.org/post/266002](https://bbs.deepin.org/post/266002)
 
 ## 1.3 博客等
 
@@ -35,4 +34,6 @@ title: 一、综合
 3. shenmo的世界：[https://blog.shenmo.tech/](https://blog.shenmo.tech/)
 4. ManateeLazyCat（老王）的博客：[https://manateelazycat.github.io](https://manateelazycat.github.io)
 5. pzm9012 的小站：[https://pzm9012.github.io/](https://pzm9012.github.io/)
-6. 深度之恋（原把爱留给深度）：[https://linux-qitong.gitee.io](https://linux-qitong.gitee.io)
+6. 青稚的空间： [https://linux-qitong.gitee.io/](https://linux-qitong.gitee.io/)
+7. hanzn-zzx的博客：[https://hanzn-zzx.gitlab.io/](https://hanzn-zzx.gitlab.io)
+8. 阿尼樱奈奈的博客：[https://aninana.github.io/](https://aninana.github.io/)

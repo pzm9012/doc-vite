@@ -32,7 +32,7 @@ export default defineConfig({
                     { text: '四、应用软件', link: '/deepin-src-col/sec-4' },
                     { text: '五、社区与论坛', link: '/deepin-src-col/sec-5' },
                     { text: '六、更多', link: '/deepin-src-col/sec-6' },
-                    { text: '七、归档', link: '/deepin-src-col/sec-7' }
+                    { text: '七、项目相关', link: '/deepin-src-col/sec-7' }
                   ]
                 },
                 { text: 'deepin 常见问题解决方案整理',
