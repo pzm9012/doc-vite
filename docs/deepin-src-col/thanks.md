@@ -25,7 +25,7 @@ deepin 常用资源整理持续维护至今，离不开热心人士的建议和�
 - [bxkdhao](http://bbs.chinauos.com/user/307736)
 - [gshun](https://bbs.deepin.org/user/207084)
 
-感谢 3 人共捐赠 42 元。
+感谢 5 人共捐赠 60.16 元。
 
 ---
 还有，感谢一路上陪伴的你。

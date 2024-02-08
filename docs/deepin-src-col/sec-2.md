@@ -173,7 +173,7 @@ title: 二、系统
 4. 系统截图快捷键无法使用：[https://bbs.deepin.org/post/264805](https://bbs.deepin.org/post/264805)
 
 ### 2.4.3 应用及包管理
-> 另见 “[4.1.1.3 软件包管理及应用商店](/deepin-src-col/sec-4.html#-4-1-1-3-%E8%BD%AF%E4%BB%B6%E5%8C%85%E7%AE%A1%E7%90%86%E5%8F%8A%E5%BA%94%E7%94%A8%E5%95%86%E5%BA%97)”。
+> 另见 “[4.1.1.3 软件包管理及应用商店](/deepin-src-col/sec-4.html#_4-1-1-3-%E8%BD%AF%E4%BB%B6%E5%8C%85%E7%AE%A1%E7%90%86%E5%8F%8A%E5%BA%94%E7%94%A8%E5%95%86%E5%BA%97)”。
 
 1. deepin中Typora无法设置为默认程序的解决办法：[https://blog.csdn.net/Charley_Leo/article/details/107091222](https://blog.csdn.net/Charley_Leo/article/details/107091222)
 2. 连续输错密码无法登录？解决办法：[https://bbs.deepin.org/post/243165](https://bbs.deepin.org/post/243165)
@@ -379,7 +379,7 @@ title: 二、系统
 6. UrBackup - 开源的 PC 整机备份方案 开源 DEEPIN V23支持网络备份：[https://bbs.deepin.org/post/262731](https://bbs.deepin.org/post/262731)
 
 ### 2.4.10 命令与终端
-> 有些命令行应用在“[4.1 应用分享和使用技巧](/deepin-src-col/sec-4.html#-4-1-%E8%BD%AF%E4%BB%B6%E5%88%86%E4%BA%AB%E5%92%8C%E4%BD%BF%E7%94%A8%E6%8A%80%E5%B7%A7)”。
+> 有些命令行应用在“[4.1 应用分享和使用技巧](/deepin-src-col/sec-4.html#_4-1-%E8%BD%AF%E4%BB%B6%E5%88%86%E4%BA%AB%E5%92%8C%E4%BD%BF%E7%94%A8%E6%8A%80%E5%B7%A7)”。
 
 1. 手把手教你装zsh，所有github链接都换成了gitee，包你安装顺利：[https://bbs.deepin.org/zh/post/237774](https://bbs.deepin.org/zh/post/237774)
 2. 使用fish代替bash，真好用：[https://bbs.deepin.org/zh/post/238189](https://bbs.deepin.org/zh/post/238189)
