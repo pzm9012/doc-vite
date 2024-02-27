@@ -151,12 +151,6 @@ service --status-all
 
 `git clone https://<gitee_用户名>:<私人令牌>@gitee.com/<gitee_用户名>/notepad.git`
 
-## 隐藏 Wayland 入口
-:::tip 出处
-见 [https://bbs.deepin.org/post/256684?postId=1466134](https://bbs.deepin.org/post/256684?postId=1466134) 6楼。
-:::
-终端执行 `dde-dconfig -a org.deepin.dde.lightdm-deepin-greeter -r org.deepin.dde.lightdm-deepin-greeter -k allowSwitchingToWayland --set -v false`。
-
 ## 安装 Sound Open Firmware
 :::warning 系统要求
 建议使用 deepin V23，加入内测且更新至最新版。
@@ -171,7 +165,7 @@ sudo mv /lib/firmware/intel/sof* /path/to/backup/folder/
 ```
 3. 解压下载的文件，在解压后文件所在的目录里打开终端，执行：（自行替换版本号）
 ```
-sudo ./install.sh vx.x.x
+sudo ./install.sh
 ```
 
 此章节的参考资料：

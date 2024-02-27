@@ -3,6 +3,10 @@
 本文收集 deepin 论坛的一小部分经常问的问题及解决方案。由于摘自个别帖子，不保证解决方案的可行性。
 :::
 
+## 启用 treeland
+
+终端执行 `sudo apt install dcc-insider-plugin` ，然后前往“控制中心>更新>技术预览”选择。
+
 ## 终端执行`su`显示`su: 鉴定故障`
 
 改用`sudo su`命令。
