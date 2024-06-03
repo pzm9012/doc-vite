@@ -37,8 +37,10 @@ title: 六、更多
 1. **DebianDDE**：[论坛帖子](https://bbs.deepin.org/post/262853)    [GitHub](https://github.com/gfdgd-xi/debian-dde)    [Gitee](https://gitee.com/gfdgd-xi/debian-dde)
 2. debian安装DDE(来自gfdgd_xi的debianDDE源)成果展示：[https://bbs.deepin.org/post/262734](https://bbs.deepin.org/post/262734)
 3. DebianDDE 20——基于Deepin23 Nightly 和 Debian11修改：[https://bbs.deepin.org/post/267664](https://bbs.deepin.org/post/267664)
-4. 深度操作系统 V23 Beta Arm64坊间版：[https://bbs.deepin.org/zh/post/256741](https://bbs.deepin.org/zh/post/256741)
-5. NixOS 22.11 Raccoon ISO with DDE：[https://bbs.deepin.org/post/247663](https://bbs.deepin.org/post/247663)
+4. DebianDDE 15 pack2——dde15 for debian11并修复UEFI问题：[https://bbs.deepin.org/post/268258](https://bbs.deepin.org/post/268258)
+5. GXDE (DDE 15)：[https://bbs.deepin.org/post/273041](https://bbs.deepin.org/post/273041)
+6. 深度操作系统 V23 Beta Arm64坊间版：[https://bbs.deepin.org/zh/post/256741](https://bbs.deepin.org/zh/post/256741)
+7. NixOS 22.11 Raccoon ISO with DDE：[https://bbs.deepin.org/post/247663](https://bbs.deepin.org/post/247663)
 > nixos-dde-iso 浣熊纪念版成品发布：[https://bbs.deepin.org/zh/post/248519](https://bbs.deepin.org/zh/post/248519)    [GitHub下载](https://github.com/SamLukeYes/nixos-dde-iso/releases)
 
 
@@ -64,6 +66,7 @@ title: 六、更多
 17. ubuntu22.04安装dde桌面：[https://blog.csdn.net/baidu_35280192/article/details/127121544](https://blog.csdn.net/baidu_35280192/article/details/127121544)
 18. CentOS 7 非 root 用户编译安装 Python 3.10：[https://bbs.deepin.org/post/260484](https://bbs.deepin.org/post/260484)
 19. Parallel Desktop中安装Deepin 鼠标到虚拟机中总提示数字键盘开启：[https://bbs.deepin.org/post/267436](https://bbs.deepin.org/post/267436)
+20. DragonOS（一个由rust从0开发的类Linux内核及用户态环境）：[https://dragonos.org.cn/](https://dragonos.org.cn/)
 
 ## 6.4 PPT SHOW 系列
 > 此部分作品由社区用户 [@PossibleVing](https://bbs.deepin.org/user/225373) 设计。

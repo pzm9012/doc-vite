@@ -19,7 +19,7 @@ title: 四、应用软件
 1. 开源免费的utools 替代品--rubick2：[https://bbs.deepin.org/zh/post/241595](https://bbs.deepin.org/zh/post/241595)
 2. dde-dock 屏幕亮度插件[源码]：[https://bbs.deepin.org/post/265348](https://bbs.deepin.org/post/265348)
 3. 如何自己制作最好用的启动器？-为启动器添加常用应用程序：[https://bbs.deepin.org.cn/post/267026](https://bbs.deepin.org.cn/post/267026)
-4. dock实时网速：[https://bbs.deepin.org/post/267059](https://bbs.deepin.org/post/267059)
+4. dock实时网速：[https://bbs.deepin.org/post/267071](https://bbs.deepin.org/post/267071)
 5. 新版linux桌面小部件预览版欢迎体验：[https://bbs.deepin.org/post/253618](https://bbs.deepin.org/post/253618)
 6. deepin下的超级效率工具—超级标签栏：[https://bbs.deepin.org/zh/post/220860](https://bbs.deepin.org/zh/post/220860)  （提醒：该应用已有2年未更新）
 7. MPaste：剪贴板管理工具：[https://bbs.deepin.org/zh/post/220914](https://bbs.deepin.org/zh/post/220914)  （提醒：该应用已有2年未更新）
@@ -40,6 +40,7 @@ title: 四、应用软件
 22. Xpad 桌面便签：[https://bbs.deepin.org/zh/post/239288](https://bbs.deepin.org/zh/post/239288)
 23. 屏亮小灯 应用发布：[https://bbs.deepin.org/post/244531](https://bbs.deepin.org/post/244531)
 24. [deepin-desktop-helper]介绍：[https://bbs.deepin.org/zh/post/248840](https://bbs.deepin.org/zh/post/248840)
+25. 任务栏网速插件：回归：[https://bbs.deepin.org/post/272649](https://bbs.deepin.org/post/272649)
 #### 4.1.1.2 跨端协同及远程控制
 
 1. 统信UOS助手移植分享：[https://bbs.deepin.org/zh/post/230801](https://bbs.deepin.org/zh/post/230801)
@@ -61,12 +62,13 @@ title: 四、应用软件
 15. 临时解决remmina无法连接服务器--更改安全协商、降版本都无效：[https://bbs.deepin.org/zh/post/255861](https://bbs.deepin.org/zh/post/255861)
 #### 4.1.1.3 软件包管理及应用商店
 
-1. 自制的玲珑商店客户端：[https://bbs.deepin.org/post/267659](https://bbs.deepin.org/post/267659)
+1. 自制的玲珑商店客户端：[https://bbs.deepin.org/post/273074](https://bbs.deepin.org/post/273074)
 2. AppImage安装器 大更新 全新版本：[https://bbs.deepin.org/zh/post/230017](https://bbs.deepin.org/zh/post/230017)
 3. 用apt-fast加速软件包下载：[https://bbs.deepin.org/zh/post/230874](https://bbs.deepin.org/zh/post/230874)
 4. 基于Deepin下的Anaconda3安装与使用：[https://bbs.deepin.org/zh/post/238563](https://bbs.deepin.org/zh/post/238563)
 5. 第一次尝试做开源的linux开发--一个appimage应用下载和管理的CLI：[https://bbs.deepin.org/post/260348](https://bbs.deepin.org/post/260348)
 6. apt 软件包信息查看器：[https://bbs.deepin.org/post/232865](https://bbs.deepin.org/post/232865)  [Gitee下载](https://gitee.com/zinface/z-tools/releases/apt-manager-v0.7.2)
+7. 星火应用商店 龙芯新世界版 安装指南：[https://bbs.deepin.org/post/269769](https://bbs.deepin.org/post/269769)
 #### 4.1.1.4 系统管理及安全软件
 
 1. Bleachbit 免费开源跨平台无广告，功能强悍Linux系统清理优化工具：[https://bbs.deepin.org.cn/post/267235](https://bbs.deepin.org.cn/post/267235)
@@ -77,6 +79,7 @@ title: 四、应用软件
 6. 局域网传输软件推荐：[https://bbs.deepin.org/zh/post/249194](https://bbs.deepin.org/zh/post/249194)
 7. ToDesk最新版若启动不了，请下载旧版安装：[https://dl.todesk.com/linux/todesk_4.1.0_amd64.deb](https://dl.todesk.com/linux/todesk_4.1.0_amd64.deb)
 8. LanDrop：局域网跨平台传输神器：[https://bbs.deepin.org/post/253758](https://bbs.deepin.org/post/253758)
+9. secret-diary (安全日记本)加密日记本，加密强度非常强：[https://bbs.deepin.org/post/268153](https://bbs.deepin.org/post/268153)
 #### 4.1.1.5 文件及磁盘管理
 
 1. 隐藏多余磁盘分区的工具：[https://bbs.deepin.org/post/266416](https://bbs.deepin.org/post/266416)
@@ -88,6 +91,7 @@ title: 四、应用软件
 7. 在deepin 20中安装和使用nemo以替代深度文件管理器：[https://bbs.deepin.org/zh/post/239247](https://bbs.deepin.org/zh/post/239247)
 8. 介绍一个恢复被删文件的工具，TestDisk：[https://bbs.deepin.org/post/246333](https://bbs.deepin.org/post/246333)
 9. 为深度文件管理器开发一个扩展：[https://bbs.deepin.org/post/248062](https://bbs.deepin.org/post/248062)
+10. dust和duf查看磁盘空间的工具：[https://bbs.deepin.org/post/268243](https://bbs.deepin.org/post/268243)
 #### 4.1.1.6 终端及命令脚本
 
 1. bash 编写的 wifi 无线网卡芯片型号检测工具 wifi-card-report：[https://bbs.deepin.org/post/264069](https://bbs.deepin.org/post/264069)
@@ -129,6 +133,10 @@ title: 四、应用软件
 29. Vim 中切换模式时自动切换输入法：[https://bbs.deepin.org/zh/post/256177](https://bbs.deepin.org/zh/post/256177)
 30. 附加基础库additional-base-lib之第五版：[https://bbs.deepin.org/post/258570](https://bbs.deepin.org/post/258570)
 31. GtkHash一个用于计算校验桌面实用程序MD5，SHA1，SHA 2、SHA 3：[https://bbs.deepin.org/post/268091](https://bbs.deepin.org/post/268091)
+32. Stirling-PDF 离线DOCKER镜像：[https://bbs.deepin.org/post/270603](https://bbs.deepin.org/post/270603)
+33. 基于shell+dialog+zenity写的cp/scp/rsync工具的拷贝&同步脚本：[https://bbs.deepin.org/post/271323](https://bbs.deepin.org/post/271323)
+34. LACT Linux AMD GPU 控制应用程序：[https://bbs.deepin.org/post/272530](https://bbs.deepin.org/post/272530)
+35. 如何用R语言下载一本小说的简单示例：[https://bbs.deepin.org/post/272726](https://bbs.deepin.org/post/272726)
 
 ### 4.1.2 效率办公
 
@@ -165,6 +173,7 @@ title: 四、应用软件
 31. WPS文件备份查询：[https://bbs.deepin.org/post/266013](https://bbs.deepin.org/post/266013)
 32. 一款超级好用的语音转文字软件，CapsWriter-Offline：[https://bbs.deepin.org.cn/post/267352](https://bbs.deepin.org.cn/post/267352)
 33. 如何打开和编辑 TAB 分隔的 TCGA（癌症基因图谱）超大文本文件：[https://bbs.deepin.org/post/266968](https://bbs.deepin.org/post/266968)
+34. v23安装MS Office 2016粗略教程(基于ACE和crossover)：[https://bbs.deepin.org/post/270123](https://bbs.deepin.org/post/270123)
 
 ### 4.1.3 教育学习
 
@@ -289,6 +298,7 @@ title: 四、应用软件
 20. 剪映国际网页版打包：[https://bbs.deepin.org/zh/post/261094](https://bbs.deepin.org/zh/post/261094) （见1楼和8楼）
 21. QuickCut：[https://bbs.deepin.org/post/264681](https://bbs.deepin.org/post/264681)
 22. OBS Studio安装攻略 直播推流：[https://bbs.deepin.org/post/264262](https://bbs.deepin.org/post/264262)
+23. deepinV23-B3达芬奇安装使用总结：[https://bbs.deepin.org/post/268840](https://bbs.deepin.org/post/268840)
 
 ### 4.1.9 图形图像
 
@@ -315,6 +325,9 @@ title: 四、应用软件
 21. 海天鹰屏幕画笔、Pensela绘画的时候黑屏的解决办法：[https://bbs.deepin.org/post/266740](https://bbs.deepin.org/post/266740)
 22. Qucs-S电路仿真软件 中文版：[https://bbs.deepin.org.cn/post/267184](https://bbs.deepin.org.cn/post/267184)
 23. 跨平台图床管理器-up2b：[https://bbs.deepin.org/post/266756](https://bbs.deepin.org/post/266756)
+24. Blender更换主题及移动基本操作笔记：[https://bbs.deepin.org/post/268339](https://bbs.deepin.org/post/268339)
+25. Blender物体调整及调整显示效果笔记：[https://bbs.deepin.org/post/268347](https://bbs.deepin.org/post/268347)
+26. Blender部分删除物体、如何处理穿模、圆润边角：[https://bbs.deepin.org.cn/post/268386](https://bbs.deepin.org.cn/post/268386)
 
 ### 4.1.10 解压刻录
 
@@ -339,6 +352,7 @@ title: 四、应用软件
 ### 4.1.13 资讯阅读
 
 1. 分享一款应用商店里发现的宝藏RSS订阅软件Fluent Reader：[https://bbs.deepin.org.cn/post/267762](https://bbs.deepin.org.cn/post/267762)
+2. 分享一个自制的软件【小说助手：在线小说导出epub】：[https://bbs.deepin.org/post/272665](https://bbs.deepin.org/post/272665)
 
 ### 4.1.14 便捷生活
 
@@ -357,15 +371,16 @@ title: 四、应用软件
 13. 将wine版微信更新至最新版本（版本号：3.9.9.27）的方法：[https://bbs.deepin.org/post/267498](https://bbs.deepin.org/post/267498)
 14. uengine 平板微信快速参数调整：[https://bbs.deepin.org/zh/post/256769](https://bbs.deepin.org/zh/post/256769)
 15. Uengine 安卓平板微信：[https://bbs.deepin.org/post/256880](https://bbs.deepin.org/post/256880)
-16. deepin foxmail通信录导入：[https://bbs.deepin.org/post/233037](https://bbs.deepin.org/post/233037)
-17. 如何打开 *.msg文件：[https://bbs.deepin.org/zh/post/239744](https://bbs.deepin.org/zh/post/239744)
-18. 6月28前后新装20.6商店TIM微信QQ安装提示依赖不足方案一：[https://bbs.deepin.org/zh/post/239691](https://bbs.deepin.org/zh/post/239691)
-19. 原生微信2.1.10：[https://bbs.deepin.org/post/267947](https://bbs.deepin.org/post/267947)
-20. 星火应用商店反馈和交流平台 v1.1.2 发布：[https://bbs.deepin.org/post/246258](https://bbs.deepin.org/post/246258)
-21.  模仿安卓APP的阅读软件写了一个阅读小说的electron程序：[https://bbs.deepin.org/zh/post/254519](https://bbs.deepin.org/zh/post/254519)
-22. （闹钟宝贝）已上架amd64架构uos/deepin全平台还有星火应用商店：[https://bbs.deepin.org/post/259889](https://bbs.deepin.org/post/259889)
-23. 默写或跟读器：[https://bbs.deepin.org/post/262952](https://bbs.deepin.org/post/262952)
-24. Telegram软件一键安装（代理需自行提前安装解决）：[https://bbs.deepin.org/post/264864](https://bbs.deepin.org/post/264864)
+16. 原生版微信闪退的解决方法：[https://bbs.deepin.org/post/272482](https://bbs.deepin.org/post/272482)
+17. deepin foxmail通信录导入：[https://bbs.deepin.org/post/233037](https://bbs.deepin.org/post/233037)
+18. 如何打开 *.msg文件：[https://bbs.deepin.org/zh/post/239744](https://bbs.deepin.org/zh/post/239744)
+19. 6月28前后新装20.6商店TIM微信QQ安装提示依赖不足方案一：[https://bbs.deepin.org/zh/post/239691](https://bbs.deepin.org/zh/post/239691)
+20. 原生微信2.1.10：[https://bbs.deepin.org/post/267947](https://bbs.deepin.org/post/267947)
+21. 星火应用商店反馈和交流平台 v1.1.2 发布：[https://bbs.deepin.org/post/246258](https://bbs.deepin.org/post/246258)
+22.  模仿安卓APP的阅读软件写了一个阅读小说的electron程序：[https://bbs.deepin.org/zh/post/254519](https://bbs.deepin.org/zh/post/254519)
+23. （闹钟宝贝）已上架amd64架构uos/deepin全平台还有星火应用商店：[https://bbs.deepin.org/post/259889](https://bbs.deepin.org/post/259889)
+24. 默写或跟读器：[https://bbs.deepin.org/post/262952](https://bbs.deepin.org/post/262952)
+25. Telegram软件一键安装（代理需自行提前安装解决）：[https://bbs.deepin.org/post/264864](https://bbs.deepin.org/post/264864)
 
 ### 4.1.15 游戏娱乐
 
@@ -395,35 +410,38 @@ title: 四、应用软件
 24. 跨平台好用的全能模拟器RetroArch使用方法，感觉比MAME模拟器强：[https://bbs.deepin.org/post/246675](https://bbs.deepin.org/post/246675)
 25. 一个用UEngine打包的silly wisher：[https://bbs.deepin.org/post/247878](https://bbs.deepin.org/post/247878)
 26. BASE2022-生化警报：[https://bbs.deepin.org/zh/post/247962](https://bbs.deepin.org/zh/post/247962)
-27. 在deepin玩原神的3个办法：[https://bbs.deepin.org/zh/post/248366](https://bbs.deepin.org/zh/post/248366)
-28. 关于原神An Anime Game Launcher的一些问题：[https://bbs.deepin.org/zh/post/248661](https://bbs.deepin.org/zh/post/248661)
-29. 战争地带2100 v4.3.3 豪华版发布 更新于2023-01-21：[https://bbs.deepin.org/zh/post/248895](https://bbs.deepin.org/zh/post/248895)
-30. 下一代跨平台 Minecraft 启动器 | WonderLab：[https://bbs.deepin.org/post/250184](https://bbs.deepin.org/post/250184)
-31. [深度首发]越南2S飞车|2S Speed 游玩体验：[https://bbs.deepin.org/post/252642](https://bbs.deepin.org/post/252642)
-32. 崩坏3（安卓）：[https://bbs.deepin.org/post/253595](https://bbs.deepin.org/post/253595)
-33. Deepin安装OpenCV2：[https://bbs.deepin.org/post/253917](https://bbs.deepin.org/post/253917)
-34. 游戏手柄查看和键盘映射的两个工具软件：[https://bbs.deepin.org/zh/post/253534](https://bbs.deepin.org/zh/post/253534)
-35. 红警2Linux版本，搬运工：[https://bbs.deepin.org/zh/post/254084](https://bbs.deepin.org/zh/post/254084)
-36. 在deepin用flatpak安装An Anime Game Launcher：[https://bbs.deepin.org/zh/post/254047](https://bbs.deepin.org/zh/post/254047)
-37. 尝试wine了一下老游戏SPORE，一些经验：[https://bbs.deepin.org/zh/post/254038](https://bbs.deepin.org/zh/post/254038)
-38. 一款适用于 XBoard/WinBoard 中国象棋程序的棋子主题：[https://bbs.deepin.org/zh/post/254484](https://bbs.deepin.org/zh/post/254484)
-39. 用“抖音美好体”画了2套 XBoard/WinBoard 的中国象棋棋子图片主题：[https://bbs.deepin.org/post/264902](https://bbs.deepin.org/post/264902)
-40. Steam V1:1.0.0.76 发布 及 安装说明：[https://bbs.deepin.org/zh/post/255946](https://bbs.deepin.org/zh/post/255946)
-41. MAME街机游戏ROM：8人街霸 (sf2j) 中文语音汉语版：[https://bbs.deepin.org/post/261054](https://bbs.deepin.org/post/261054)
-42. 原神，启动！！！（这回没开玩笑）：[https://bbs.deepin.org/zh/post/261080](https://bbs.deepin.org/zh/post/261080)
-43. 在deepin畅游提瓦特的方法（重置版）：[https://bbs.deepin.org/zh/post/261576](https://bbs.deepin.org/zh/post/261576)
-44. 死神VS火影绊3.8.1.1：[https://bbs.deepin.org/post/262457](https://bbs.deepin.org/post/262457)
-45. 街机三国志亚洲版(wofa.zip)中文汉化版游戏ROM：[https://bbs.deepin.org/post/262203](https://bbs.deepin.org/post/262203)
-46. Counter-Strike 2（反恐精英 2）推出Linux版了：[https://bbs.deepin.org/post/262828](https://bbs.deepin.org/post/262828)
-47. wow64应用首秀：植物大战僵尸PVZ年度版 可在v23运行：[https://bbs.deepin.org/post/263143](https://bbs.deepin.org/post/263143)
-48. 在deepin上用云游戏玩英雄联盟：[https://bbs.deepin.org/post/264167](https://bbs.deepin.org/post/264167)
-49. 适配龙芯loongarch的都市天际线2开源启动器HCSL启动研制：[https://bbs.deepin.org/post/265253](https://bbs.deepin.org/post/265253)
-50. deepin玩英雄联盟方法[欧服、美服、韩服]：[https://bbs.deepin.org/post/266608](https://bbs.deepin.org/post/266608)
-51. Deepin20.9玩剑三：[https://bbs.deepin.org/post/266877](https://bbs.deepin.org/post/266877)
-52. 暗黑焰火：开源RPG游戏Flare：[https://bbs.deepin.org/post/267237](https://bbs.deepin.org/post/267237)
-53. 发布并收集纯flash的休闲益智小游戏，希望大家补充添加：[https://bbs.deepin.org/post/266795](https://bbs.deepin.org/post/266795)
-54. 有关 steam 无法正常添加游戏存储下载路径解决方案：[https://bbs.deepin.org/post/267196](https://bbs.deepin.org/post/267196)
-55. Beta3是个好东西，圆我帕鲁梦：[https://bbs.deepin.org/post/267932](https://bbs.deepin.org/post/267932)
+27. 关于原神An Anime Game Launcher的一些问题：[https://bbs.deepin.org/zh/post/248661](https://bbs.deepin.org/zh/post/248661)
+28. 战争地带2100 v4.3.3 豪华版发布 更新于2023-01-21：[https://bbs.deepin.org/zh/post/248895](https://bbs.deepin.org/zh/post/248895)
+29. 下一代跨平台 Minecraft 启动器 | WonderLab：[https://bbs.deepin.org/post/250184](https://bbs.deepin.org/post/250184)
+30. [深度首发]越南2S飞车|2S Speed 游玩体验：[https://bbs.deepin.org/post/252642](https://bbs.deepin.org/post/252642)
+31. 崩坏3（安卓）：[https://bbs.deepin.org/post/253595](https://bbs.deepin.org/post/253595)
+32. Deepin安装OpenCV2：[https://bbs.deepin.org/post/253917](https://bbs.deepin.org/post/253917)
+33. 游戏手柄查看和键盘映射的两个工具软件：[https://bbs.deepin.org/zh/post/253534](https://bbs.deepin.org/zh/post/253534)
+34. 红警2Linux版本，搬运工：[https://bbs.deepin.org/zh/post/254084](https://bbs.deepin.org/zh/post/254084)
+35. 在deepin用flatpak安装An Anime Game Launcher：[https://bbs.deepin.org/zh/post/254047](https://bbs.deepin.org/zh/post/254047)
+36. 尝试wine了一下老游戏SPORE，一些经验：[https://bbs.deepin.org/zh/post/254038](https://bbs.deepin.org/zh/post/254038)
+37. 一款适用于 XBoard/WinBoard 中国象棋程序的棋子主题：[https://bbs.deepin.org/zh/post/254484](https://bbs.deepin.org/zh/post/254484)
+38. 用“抖音美好体”画了2套 XBoard/WinBoard 的中国象棋棋子图片主题：[https://bbs.deepin.org/post/264902](https://bbs.deepin.org/post/264902)
+39. Steam V1:1.0.0.76 发布 及 安装说明：[https://bbs.deepin.org/zh/post/255946](https://bbs.deepin.org/zh/post/255946)
+40. MAME街机游戏ROM：8人街霸 (sf2j) 中文语音汉语版：[https://bbs.deepin.org/post/261054](https://bbs.deepin.org/post/261054)
+41. 原神，启动！！！（这回没开玩笑）：[https://bbs.deepin.org/zh/post/261080](https://bbs.deepin.org/zh/post/261080)
+42. 在deepin畅游提瓦特的方法（重置版）：[https://bbs.deepin.org/zh/post/261576](https://bbs.deepin.org/zh/post/261576)
+43. 死神VS火影绊3.8.1.1：[https://bbs.deepin.org/post/262457](https://bbs.deepin.org/post/262457)
+44. 街机三国志亚洲版(wofa.zip)中文汉化版游戏ROM：[https://bbs.deepin.org/post/262203](https://bbs.deepin.org/post/262203)
+45. Counter-Strike 2（反恐精英 2）推出Linux版了：[https://bbs.deepin.org/post/262828](https://bbs.deepin.org/post/262828)
+46. wow64应用首秀：植物大战僵尸PVZ年度版 可在v23运行：[https://bbs.deepin.org/post/263143](https://bbs.deepin.org/post/263143)
+47. 在deepin上用云游戏玩英雄联盟：[https://bbs.deepin.org/post/264167](https://bbs.deepin.org/post/264167)
+48. 适配龙芯loongarch的都市天际线2开源启动器HCSL启动研制：[https://bbs.deepin.org/post/265253](https://bbs.deepin.org/post/265253)
+49. deepin玩英雄联盟方法[欧服、美服、韩服]：[https://bbs.deepin.org/post/266608](https://bbs.deepin.org/post/266608)
+50. Deepin20.9玩剑三：[https://bbs.deepin.org/post/266877](https://bbs.deepin.org/post/266877)
+51. 暗黑焰火：开源RPG游戏Flare：[https://bbs.deepin.org/post/267237](https://bbs.deepin.org/post/267237)
+52. 发布并收集纯flash的休闲益智小游戏，希望大家补充添加：[https://bbs.deepin.org/post/266795](https://bbs.deepin.org/post/266795)
+53. 有关 steam 无法正常添加游戏存储下载路径解决方案：[https://bbs.deepin.org/post/267196](https://bbs.deepin.org/post/267196)
+54. Beta3是个好东西，圆我帕鲁梦：[https://bbs.deepin.org/post/267932](https://bbs.deepin.org/post/267932)
+55. 没想到 P106-100 矿卡在 Linux 下玩游戏竟然如此简单：[https://bbs.deepin.org/post/268192](https://bbs.deepin.org/post/268192)
+56. 在deepin玩原神的最新方法：[https://bbs.deepin.org/post/268240](https://bbs.deepin.org/post/268240)
+57. Linux 下玩《原神》等游戏怎样查看实时帧率等信息：[https://bbs.deepin.org/post/268409](https://bbs.deepin.org/post/268409)
+58. Steam启动星穹列车的教程：[https://bbs.deepin.org/post/270616](https://bbs.deepin.org/post/270616)
 
 ## 4.2 运行其他平台应用/虚拟机
 ### 4.2.1 UEngine 和 Waydroid
@@ -440,8 +458,9 @@ title: 四、应用软件
 7. uengine记住横屏竖屏：[https://bbs.deepin.org/post/232985](https://bbs.deepin.org/post/232985)
 8. 关于安装未知来源的apk，被禁止安装处理方法：[https://bbs.deepin.org/zh/post/237401](https://bbs.deepin.org/zh/post/237401)
 9. 关于uengine导致系统没声音的问题以及（临时）解决办法：[https://bbs.deepin.org/post/244795](https://bbs.deepin.org/post/244795)
-10. Waydroid如何注册GMS服务：[https://bbs.deepin.org/post/260740](https://bbs.deepin.org/post/260740)
-11. waydorid网络配置方法+waydroid的小问题：[https://bbs.deepin.org/post/262303](https://bbs.deepin.org/post/262303)
+10. 在 deepin23 rc3 安装 UEngine（不推荐）：[https://bbs.deepin.org/post/272656](https://bbs.deepin.org/post/272656)
+11. Waydroid如何注册GMS服务：[https://bbs.deepin.org/post/260740](https://bbs.deepin.org/post/260740)
+12. waydorid网络配置方法+waydroid的小问题：[https://bbs.deepin.org/post/262303](https://bbs.deepin.org/post/262303)
 
 ### 4.2.2 Wine
 > [Wine](https://www.winehq.org/) 用于在 macOS，Linux，BSD 等系统上运行 Windows 应用。应用商店中的 Wine 应用使用了 deepin-wine（deepin 基于 Wine 进行了优化的版本）。
@@ -508,6 +527,7 @@ title: 四、应用软件
 4. ACE兼容环境：支持应用融合安装到系统（类似玲珑），附原理解析：[https://bbs.deepin.org/post/264368](https://bbs.deepin.org/post/264368)
 5. 如何一键打包ACE套娃应用并投递上架：[https://bbs.deepin.org/post/264907](https://bbs.deepin.org/post/264907)
 6. 两条命令在ACE容器中开启命令补全：[https://bbs.deepin.org/post/265775](https://bbs.deepin.org/post/265775)
+7. 使用ACE兼容环境在deepin20/23/UOS家庭版中解决依赖关系不满足：[https://bbs.deepin.org/post/272333](https://bbs.deepin.org/post/272333)
 
 ## 4.3 软件开发
 
@@ -574,6 +594,13 @@ title: 四、应用软件
 61. 速通deepin系统cuda+pytorch安装！V20.9亲测有效，23应该也能用：[https://bbs.deepin.org.cn/post/267258](https://bbs.deepin.org.cn/post/267258)
 62. 分享V23Beta2安装Mariadb (mysql)11.2.2最新稳定版数据库操作心得：[https://bbs.deepin.org/post/267383](https://bbs.deepin.org/post/267383)
 63. 水谈基于 streamlit 可视化的软件源分析工具：[https://bbs.deepin.org/post/266944](https://bbs.deepin.org/post/266944)
+64. Linux下的Qt程序发布流程：[https://bbs.deepin.org.cn/post/268385](https://bbs.deepin.org.cn/post/268385)
+65. Spring Boot 应用开发：[https://bbs.deepin.org.cn/post/268483](https://bbs.deepin.org.cn/post/268483)
+66. Docker swarm 集群 - draw 图 - 随手记：[https://bbs.deepin.org/post/270709](https://bbs.deepin.org/post/270709)
+67. V23系统中Pytorch安装与环境配置：[https://jingweichun.blog.csdn.net/article/details/139155594?spm=1001.2014.3001.5502](https://jingweichun.blog.csdn.net/article/details/139155594?spm=1001.2014.3001.5502)
+68. 打包deb-自动导入docker镜像-自动创建容器：[https://bbs.deepin.org/post/272710](https://bbs.deepin.org/post/272710)
+69. 在deepin20.9中安装podman：[https://bbs.deepin.org/post/272429](https://bbs.deepin.org/post/272429)
+70. 【技术分享】如何在 Unity URP 中实现遮挡半透明效果：[https://bbs.deepin.org/post/272178](https://bbs.deepin.org/post/272178)
 
 ### 4.3.1 Unilang 自研编程语言
 
@@ -588,7 +615,7 @@ title: 四、应用软件
 3. 初探deepin-ide的Ai助手功能：[https://bbs.deepin.org/post/266192](https://bbs.deepin.org/post/266192)
 4. 用deepin-unioncode编译运行deepin自己应用程序：[https://bbs.deepin.org/post/266211](https://bbs.deepin.org/post/266211)
 
-### 4.3.3 deb相关
+### 4.3.3 deb 相关
 
 1. 解包/打包deb教程 一周年重置版：[https://bbs.deepin.org/zh/post/227931](https://bbs.deepin.org/zh/post/227931)
 2. 简单的deb一键打包脚本：[https://bbs.deepin.org/post/245399](https://bbs.deepin.org/post/245399)

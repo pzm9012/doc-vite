@@ -50,6 +50,17 @@ title: 五、社区与论坛
 31. 推荐内容 赢B站年卡！速来参加：[https://bbs.deepin.org/post/264210](https://bbs.deepin.org/post/264210)
 32. 11月优质内容征集结果公布：[https://bbs.deepin.org/post/265480](https://bbs.deepin.org/post/265480)
 33. 2024龙年春节壁纸创作大赛：[https://bbs.deepin.org/post/266747](https://bbs.deepin.org/post/266747)    [获奖名单](https://bbs.deepin.org/post/267329)
+34. 2024年1月优质内容征集结果公布：[https://bbs.deepin.org/post/268234](https://bbs.deepin.org/post/268234)
+35. 元宵节快乐！deepin社区拜年活动获奖名单公布：[https://bbs.deepin.org/post/268232](https://bbs.deepin.org/post/268232)
+36. 2024年2月优质内容征集结果公布：[https://bbs.deepin.org/post/269066](https://bbs.deepin.org/post/269066)
+37. 2024年3月优质内容征集结果公布：[https://bbs.deepin.org/post/270658](https://bbs.deepin.org/post/270658)
+38. 「deepin生态共建小组」正式启动招募！三大生态共建项目，速来：[https://bbs.deepin.org/post/270982](https://bbs.deepin.org/post/270982)
+39. 生态共建小组阶段性工作汇报 & 2024年第1期wine打包活动总结：[https://bbs.deepin.org/post/272733](https://bbs.deepin.org/post/272733)
+40. deepin-IDE， 体验AI编程，拿精美定制礼品：[https://bbs.deepin.org/post/271228](https://bbs.deepin.org/post/271228)
+41. deepin & 开源之夏重磅来袭！超优质项目已上线，欢迎来战：[https://bbs.deepin.org/post/271601](https://bbs.deepin.org/post/271601)
+42. deepin产品面对面！产品功能全解析，等你来问：[https://bbs.deepin.org/post/271911](https://bbs.deepin.org/post/271911)
+43. 2024年4月优质内容征集结果公布：[https://bbs.deepin.org/post/272112](https://bbs.deepin.org/post/272112)
+44. 玲珑生态共建 | 2024年第1期 “玲珑”应用迁移与开发征募赛（有奖）：[https://bbs.deepin.org/post/272868](https://bbs.deepin.org/post/272868)
 
 ### 5.2.1 DDUC（深度开发者与用户大会）
 
@@ -76,6 +87,8 @@ WHLUG 新闻集合见 [https://www.deepin.org/zh/category/whlug-news/](https://w
 9. Linux内核安全架构&软件包构建方案 | 2023-11月WHLUG回顾：[https://bbs.deepin.org/post/265093](https://bbs.deepin.org/post/265093)
 10. 2023年12月 | WHLUG 现场回顾：[https://bbs.deepin.org/post/266401](https://bbs.deepin.org/post/266401)
 11. 2024-1月 | WHLUG 现场回顾：[https://bbs.deepin.org/post/267462](https://bbs.deepin.org/post/267462)
+12. 干货满满！2024年3月WHLUG圆满结束，主题分享精彩回顾：[https://bbs.deepin.org/post/269886](https://bbs.deepin.org/post/269886)
+13. WHLUG | 5月25日议题揭晓等你参加，文末有好礼相送：[https://bbs.deepin.org/post/272810](https://bbs.deepin.org/post/272810)
 
 ### 5.2.3 深度开源社区报告
 
@@ -108,12 +121,18 @@ WHLUG 新闻集合见 [https://www.deepin.org/zh/category/whlug-news/](https://w
 27. deepin社区2023年11月月报：[https://bbs.deepin.org/post/265226](https://bbs.deepin.org/post/265226)
 28. deepin（深度）社区12月月报：[https://bbs.deepin.org/post/266721](https://bbs.deepin.org/post/266721)
 29. deepin（深度）社区2024年1月月报：[https://bbs.deepin.org/post/267791](https://bbs.deepin.org/post/267791)
+30. deepin（深度）社区2024年2月月报：[https://bbs.deepin.org/post/268942](https://bbs.deepin.org/post/268942)
+31. deepin（深度）社区2024年3月月报：[https://bbs.deepin.org/post/270283](https://bbs.deepin.org/post/270283)
+32. deepin社区2024年4月月报：[https://bbs.deepin.org/post/271981](https://bbs.deepin.org/post/271981)
+33. deepin（深度）社区2024年5月月报：[https://bbs.deepin.org/post/273403](https://bbs.deepin.org/post/273403)
 
 ### 5.2.4 deepin Meetup
 
 1. deepin Meetup 广州站，我们聊了 deepin V23 和 AI：[https://bbs.deepin.org/zh/post/263641](https://bbs.deepin.org/zh/post/263641)
 2. 1024，UOS AI与北京用户见面啦：[https://mp.weixin.qq.com/s/A8ifiawWugSOlH2lcl0slw](https://mp.weixin.qq.com/s/A8ifiawWugSOlH2lcl0slw)
 3. deepin Meetup 回顾丨deepin V23 Beta3 新特性＆如何参与社区贡献：[https://bbs.deepin.org/post/267703](https://bbs.deepin.org/post/267703)
+4. Meetup回顾 | 成都站，我们聊了deepin-IDE和Flutter：[https://bbs.deepin.org/post/269295](https://bbs.deepin.org/post/269295)
+5. 2024年3月30日西安Meetup回顾：[https://bbs.deepin.org/post/270245](https://bbs.deepin.org/post/270245)
 
 ### 5.2.5 deepin 校园联盟
 
@@ -149,3 +168,7 @@ WHLUG 新闻集合见 [https://www.deepin.org/zh/category/whlug-news/](https://w
 27. 2024乘风破浪，扬帆起航--deepin校园联盟青岛理工大学（临沂）：[https://bbs.deepin.org/post/266546](https://bbs.deepin.org/post/266546)
 28. deepin校园联盟发展现状及提升路径探究——以泰山科技学院站为例：[https://bbs.deepin.org/post/266569](https://bbs.deepin.org/post/266569)
 29. 吉林城市学院——deepin操作系统校园分享：[https://bbs.deepin.org/post/266803](https://bbs.deepin.org/post/266803)
+30. 山东华宇工学院站：[https://bbs.deepin.org/post/271196](https://bbs.deepin.org/post/271196)
+31. 贵州商学院deepin宣讲活动取得圆满成功：[https://bbs.deepin.org/post/271379](https://bbs.deepin.org/post/271379)
+32. 东北石油大学LUG首次技术沙龙活动实践分享：[https://bbs.deepin.org/post/272514](https://bbs.deepin.org/post/272514)
+33. 🌟 Yachay Tech的Deepin与咖啡：难忘的体验 🌟：[https://bbs.deepin.org/post/273008](https://bbs.deepin.org/post/273008)

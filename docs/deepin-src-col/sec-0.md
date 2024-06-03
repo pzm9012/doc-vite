@@ -1,10 +1,10 @@
 # deepin 常用资源整理
 ::: tip
-本文的主流发布平台为[语雀](https://yuque.com/pzm9012/ct5ume/nte586/)，此页面版本为 V4.1.5，最后更新于2024-02-06。
+本文的主流发布平台为[语雀（暂时废弃）](https://yuque.com/pzm9012/ct5ume/nte586/)，此页面版本为 V4.1.5-1，最后更新于2024-06-04。
 :::
-> 本文创建于2021-05-15，当前版本发布于2024-02-06。
+> 本文创建于2021-05-15，当前版本发布于2024-06-04。
 > 此资源整理非官方文档，由 [pzm9012](https://bbs.deepin.org/user/217969) 发起，当前维护者还有 [hanzn-zzx](https://bbs.deepin.org/zh/user/284017)，[阿尼樱奈奈](https://bbs.deepin.org/user/296995)。
-> [访问此文档的 deepin Wiki 页面](https://wiki.deepin.org/zh/04_%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98FAQ/deepin%E5%B8%B8%E7%94%A8%E8%B5%84%E6%BA%90%E6%95%B4%E7%90%86)    
+> [访问此文档的 deepin Wiki 页面（未更新）](https://wiki.deepin.org/zh/04_%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98FAQ/deepin%E5%B8%B8%E7%94%A8%E8%B5%84%E6%BA%90%E6%95%B4%E7%90%86)    
 
 ![sec-0-banner.png](./img/sec-0-banner.png)
 在这里我整理了一些有帮助的资源，帮助大家更快捷地找到需要的内容。

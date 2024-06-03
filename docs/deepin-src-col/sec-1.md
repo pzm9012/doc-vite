@@ -10,8 +10,7 @@ title: 一、综合
 3. 终于基本能用了，分享一下心得：[https://bbs.deepin.org/zh/post/217375](https://bbs.deepin.org/zh/post/217375)
 4. 再次安装deepin：[https://bbs.deepin.org/zh/post/239388](https://bbs.deepin.org/zh/post/239388)
 5. deepin小白的问题归纳及其他：[https://bbs.deepin.org/post/241961](https://bbs.deepin.org/post/241961)
-6. Linux 学习笔记：[1](https://bbs.deepin.org/post/261010)    [2](https://bbs.deepin.org/post/261072)    [3](https://bbs.deepin.org/post/261132)    [4](https://bbs.deepin.org/post/261236)    [5](https://bbs.deepin.org/post/261320)
-7. deepinos-基础配置：[https://bbs.deepin.org/post/261052](https://bbs.deepin.org/post/261052)
+6. deepinos-基础配置：[https://bbs.deepin.org/post/261052](https://bbs.deepin.org/post/261052)
 
 ## 1.2 知识汇总
 
@@ -26,6 +25,7 @@ title: 一、综合
 9. 在GitHub上反馈问题，5步搞定！：[https://bbs.deepin.org/post/257775](https://bbs.deepin.org/post/257775)
 10. 学习编程区资源整理（第一期·持续更新中）：[https://bbs.deepin.org/zh/post/255506](https://bbs.deepin.org/zh/post/255506)
 11. Linux知识分享：[https://bbs.deepin.org/post/266002](https://bbs.deepin.org/post/266002)
+12. deepin 及常用软件的高频问题和解决方法：[https://bbs.deepin.org/post/272867](https://bbs.deepin.org/post/272867)
 
 ## 1.3 博客等
 

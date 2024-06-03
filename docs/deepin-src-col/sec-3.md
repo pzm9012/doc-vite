@@ -2,7 +2,7 @@
 title: 三、硬件和设备
 ---
 # 三、硬件和设备
-> 部分硬件相关的资源在“[2.5.4 性能](/deepin-src-col/sec-2.html#_2-5-4-%E6%80%A7%E8%83%BD)”。
+> 部分硬件相关的资源在“[2.4.4 性能和电源管理](/deepin-src-col/sec-2.html#_2-4-4-性能和电源管理)”。
 
 ## 3.1 显卡
 
@@ -27,8 +27,11 @@ title: 三、硬件和设备
 19. 一个可以查看Nvidia显卡所属系列的页面：[https://bbs.deepin.org/post/265575](https://bbs.deepin.org/post/265575)
 20. 双显卡笔记本nVidia独立显卡驱动安装经验：[https://bbs.deepin.org.cn/post/266687](https://bbs.deepin.org.cn/post/266687)
 21. Ubuntu 安装 Nvidia 显卡驱动及常见问题解决：[https://bbs.deepin.org/post/267544](https://bbs.deepin.org/post/267544)
+22. 记录一下在V23上安装amd显卡显示驱动：[https://bbs.deepin.org/post/268499](https://bbs.deepin.org/post/268499)
+23. 老显卡730驱动安装：[https://bbs.deepin.org/post/268273](https://bbs.deepin.org/post/268273)
+24. 解决780m核显休眠后唤醒屏幕白屏闪烁：[https://bbs.deepin.org/post/272618](https://bbs.deepin.org/post/272618)
 
-### 3.2 网卡
+## 3.2 网卡
 
 1. Deepin/UOS Redmibook Pro 15 锐龙版无线网卡驱动安装：[https://bbs.deepin.org/zh/post/239157](https://bbs.deepin.org/zh/post/239157)
 2. Deepin20.6 TP-Link WN726n免驱 找不到Wifi选项：[https://bbs.deepin.org/zh/post/239338](https://bbs.deepin.org/zh/post/239338)
@@ -43,7 +46,7 @@ title: 三、硬件和设备
 11. 无法重启无线网卡：[https://bbs.deepin.org/post/265779](https://bbs.deepin.org/post/265779)
 12. 禁止不需要的网卡驱动：[https://bbs.deepin.org/post/265788](https://bbs.deepin.org/post/265788)
 
-### 3.3 声卡
+## 3.3 声卡
 
 1. 关于intel 12500H 声卡驱动问题的解决办法：[https://bbs.deepin.org/zh/post/248032](https://bbs.deepin.org/zh/post/248032)  （新声卡可借鉴）
 2. 如何解决系统安装之后没有声音的情况：[https://bbs.deepin.org/zh/post/195889](https://bbs.deepin.org/zh/post/195889)
@@ -53,8 +56,9 @@ title: 三、硬件和设备
 6. 解决麦克风不能用：[https://bbs.deepin.org/post/264431](https://bbs.deepin.org/post/264431)
 7. matebook14 2021 i5-1135G7 声音问题解决：[https://bbs.deepin.org/post/265354](https://bbs.deepin.org/post/265354)
 8. 一体机，耳机有声音，扬声器没有声音：[https://bbs.deepin.org/post/265491](https://bbs.deepin.org/post/265491)
+9. 解决HUAWEI (C233) Notebook无音频输出：[https://bbs.deepin.org/post/270279](https://bbs.deepin.org/post/270279)
 
-### 3.4 打印机和扫描机
+## 3.4 打印机和扫描机
 
 1. 20.3打印成功经验分享：[https://bbs.deepin.org/zh/post/228900](https://bbs.deepin.org/zh/post/228900)
 2. 安装兄弟Brother打印机扫描驱动及配置文件的方法：[https://bbs.deepin.org/zh/post/232569](https://bbs.deepin.org/zh/post/232569)
@@ -72,13 +76,14 @@ title: 三、硬件和设备
 14. V23使用毕昇驱动引擎的方法：[https://bbs.deepin.org/post/254680](https://bbs.deepin.org/post/254680)
 15. 求助怎么跨网段连接打印机呢：[https://bbs.deepin.org/zh/post/256129](https://bbs.deepin.org/zh/post/256129)
 16. 打印出来页面只占纸张的四分之一：[https://bbs.deepin.org/post/267484](https://bbs.deepin.org/post/267484)
+17. Windows和Linux互相共享打印机【转贴】：[https://bbs.deepin.org/post/272575](https://bbs.deepin.org/post/272575)
 
-### 3.5 指纹
+## 3.5 指纹
 
 1. 内测推送的指纹你能用上么：[https://bbs.deepin.org/zh/post/239377](https://bbs.deepin.org/zh/post/239377)
 2. 让更多指纹设备再次得到试验指纹功能可行性的机会（不完全保证）：[https://bbs.deepin.org/post/242649](https://bbs.deepin.org/post/242649)
 
-### 3.6 更多
+## 3.6 更多
 
 1. 关于使用虚拟机解决驱动问题的可能性探讨：[https://bbs.deepin.org/zh/post/228005](https://bbs.deepin.org/zh/post/228005)
 2. linux下外设辅助软件推荐：[https://bbs.deepin.org/zh/post/226246](https://bbs.deepin.org/zh/post/226246)
@@ -96,3 +101,4 @@ title: 三、硬件和设备
 14. y7000-1060的显卡驱动和网卡驱动问题：[https://bbs.deepin.org/post/266238](https://bbs.deepin.org/post/266238)
 15. 绘王数位板驱动在deepin 20.9不能运行的解决办法：[https://bbs.deepin.org/post/266551](https://bbs.deepin.org/post/266551)
 16. Linux 硬件网简介（Linux 用户必备）：[https://bbs.deepin.org.cn/post/267973](https://bbs.deepin.org.cn/post/267973)
+17. 固件与驱动，原来是这样：[https://bbs.deepin.org.cn/post/269028](https://bbs.deepin.org.cn/post/269028)
