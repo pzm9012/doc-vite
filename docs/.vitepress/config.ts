@@ -24,15 +24,10 @@ export default defineConfig({
                 {
                   text: 'deepin 常用资源整理',
                   items: [
-                    { text: '说明', link: '/deepin-src-col/sec-0' },
+                    { text: '整理主体', link: '/deepin-src-col/main' },
                     { text: '致谢', link: '/deepin-src-col/thanks' },
-                    { text: '一、综合', link: '/deepin-src-col/sec-1' },
-                    { text: '二、系统', link: '/deepin-src-col/sec-2' },
-                    { text: '三、硬件和设备', link: '/deepin-src-col/sec-3' },
-                    { text: '四、应用软件', link: '/deepin-src-col/sec-4' },
-                    { text: '五、社区与论坛', link: '/deepin-src-col/sec-5' },
-                    { text: '六、更多', link: '/deepin-src-col/sec-6' },
-                    { text: '七、项目相关', link: '/deepin-src-col/sec-7' }
+                    { text: '归档', link:'deepin-src-col/achieve'},
+                    { text: '项目相关', link: '/deepin-src-col/about' }
                   ]
                 },
                 { text: 'deepin 常见问题解决方案整理',
@@ -64,42 +59,32 @@ export default defineConfig({
     },
     en: {
       label: 'English',
-      lang: 'en', // optional, will be added  as `lang` attribute on `html` tag
-      link: '/en/', // shows on navbar translations menu, can be external
-      title: "pzm9012's Site",
-      description: "pzm9012's Site",
+      lang: 'en',
+      link: '/en/',
+      title: "Pzm9012's Site",
+      description: "A project to collect documents",
       themeConfig: {
-        sidebar: {
-          '/': [
-            {
-              text: 'Documents',
-              items: [
-                { text: 'Home', link: '/en/' },
-                { text: 'deepin Common Q&A',
-                  items: [
-                    { text: 'Frequently Asked', link: '/en/deepin-solutions/frequently-asked' },
-                    { text: 'Common Problems', link: '/en/deepin-solutions/common' },
-                    { text: 'Collections', link: '/en/deepin-solutions/collect' },
-                    { text: 'Thanks', link: '/en/deepin-solutions/thanks' }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        lastUpdatedText: 'Last Updated',
-        editLink: {
-          pattern: 'https://github.com/pzm9012/doc-vite/edit/main/docs/:path',
-          text: 'Edit this page on GitHub'
-        },
+        sidebar: [
+          { text: 'Instructions', link: '/en/instructions' },
+          {
+            text: 'Deepin Common Q&A',
+            items: [
+              { text: 'Frequently Asked', link: '/en/deepin-solutions/frequently-asked' },
+              { text: 'Common Problems', link: '/en/deepin-solutions/common' },
+              { text: 'Collections', link: '/en/deepin-solutions/collect' },
+              { text: 'Thanks', link: '/en/deepin-solutions/thanks' }
+            ]
+          }
+        ],
         sidebarMenuLabel: 'Contents'
-      }
+      },
+
     }
   },
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     logo: '/site-logo.png',
-    outline: [2, 4], 
+    outline: [2, 6], 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/pzm9012' }
     ],

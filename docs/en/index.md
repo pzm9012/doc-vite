@@ -1,3 +1,16 @@
-# Instructions
+---
+layout: home
 
-I am trying to translate some of my articles. There may be some mistakes, and I'd appreciate it if you can help improve the documents.
+hero:
+  name: "pzm9012's Site"
+  tagline: 
+  image: 
+    src: /site-logo.png
+  actions:
+    - theme: brand
+      text: Deepin Common Q&A
+      link: /en/deepin-solutions/frequently-asked
+    - theme: alt
+      text: Instructions
+      link: /en/instructions
+---

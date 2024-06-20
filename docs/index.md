@@ -13,7 +13,7 @@ hero:
       link: /home
     - theme: alt
       text: 转到 deepin 常用资源整理
-      link: /deepin-src-col/sec-0
+      link: /deepin-src-col/main
     - theme: alt
       text: 转到 deepin 高频问题解决方案整理
       link: /deepin-solutions/frequently-asked
