@@ -20,7 +20,7 @@
 
 ## 一、综合
 ### 1.1 入门
-> 也可以看看其他用户使用 deepin 的[测评感受](/deepin-src-col/sec-6.html#_6-1-%E6%B5%8B%E8%AF%84%E6%84%9F%E5%8F%97)。
+> 也可以看看其他用户使用 deepin 的[测评感受](/deepin-src-col/main.html#_6-1-%E6%B5%8B%E8%AF%84%E6%84%9F%E5%8F%97)。
 
 1. 统信UOS家庭版｜新手安装锦囊：[https://bbs.chinauos.com/post/8738](https://bbs.chinauos.com/post/8738)
 2. 写给deepin小白的入门教程：[https://bbs.deepin.org/zh/post/209755](https://bbs.deepin.org/zh/post/209755)
@@ -162,7 +162,9 @@
 4. 在deepin内核配置文件基础上复制了几个PVE内核电源管理配置：[https://bbs.deepin.org/post/259690](https://bbs.deepin.org/post/259690)
 
 ### 2.4 系统使用及问题解决
-> 第三方应用相关问题见“[4.1 软件分享和使用技巧](/deepin-src-col/sec-4.html#_4-1-%E8%BD%AF%E4%BB%B6%E5%88%86%E4%BA%AB%E5%92%8C%E4%BD%BF%E7%94%A8%E6%8A%80%E5%B7%A7)”。
+:::tip
+第三方应用相关问题见“[4.1 软件分享和使用技巧](/deepin-src-col/main.html#_4-1-%E8%BD%AF%E4%BB%B6%E5%88%86%E4%BA%AB%E5%92%8C%E4%BD%BF%E7%94%A8%E6%8A%80%E5%B7%A7)”
+部分常见问题解决方案见[deepin常见问题解决方案整理](/deepin-solutions/frequently-asked)
 
 1. deepin的bilibili个人空间（前往查看更多官方教程）：[https://space.bilibili.com/137324885](https://space.bilibili.com/137324885)
 2. Deepin 自用优化：[https://bbs.deepin.org/zh/post/245085](https://bbs.deepin.org/zh/post/245085)
@@ -230,7 +232,7 @@
 4. 系统截图快捷键无法使用：[https://bbs.deepin.org/post/264805](https://bbs.deepin.org/post/264805)
 
 #### 2.4.3 应用及包管理
-> 另见 “[4.1.1.3 软件包管理及应用商店](/deepin-src-col/sec-4.html#_4-1-1-3-%E8%BD%AF%E4%BB%B6%E5%8C%85%E7%AE%A1%E7%90%86%E5%8F%8A%E5%BA%94%E7%94%A8%E5%95%86%E5%BA%97)”。
+> 另见 “[4.1.1.3 软件包管理及应用商店](/deepin-src-col/main.html#_4-1-1-3-%E8%BD%AF%E4%BB%B6%E5%8C%85%E7%AE%A1%E7%90%86%E5%8F%8A%E5%BA%94%E7%94%A8%E5%95%86%E5%BA%97)”。
 
 1. deepin中Typora无法设置为默认程序的解决办法：[https://blog.csdn.net/Charley_Leo/article/details/107091222](https://blog.csdn.net/Charley_Leo/article/details/107091222)
 2. 连续输错密码无法登录？解决办法：[https://bbs.deepin.org/post/243165](https://bbs.deepin.org/post/243165)
@@ -405,7 +407,7 @@
 12. 有关 steam 无法正常添加游戏存储下载路径解决方案：[https://bbs.deepin.org.cn/post/267196](https://bbs.deepin.org.cn/post/267196)
 
 #### 2.4.8 网络和共享
-> 网卡相关内容见“[3.2 网卡](/deepin-src-col/sec-3.html#_3-2-%E7%BD%91%E5%8D%A1)”。
+> 网卡相关内容见“[3.2 网卡](/deepin-src-col/main.html#_3-2-%E7%BD%91%E5%8D%A1)”。
 
 1. Windows ssh 客户端 PuTTY 正向与反向流量转发（转）：[https://bbs.deepin.org/zh/post/230148](https://bbs.deepin.org/zh/post/230148)
 2. deepin下ssh常用网络功能：[https://bbs.deepin.org/zh/post/231835](https://bbs.deepin.org/zh/post/231835)
@@ -446,7 +448,7 @@
 6. UrBackup - 开源的 PC 整机备份方案 开源 DEEPIN V23支持网络备份：[https://bbs.deepin.org/post/262731](https://bbs.deepin.org/post/262731)
 
 #### 2.4.10 命令与终端
-> 有些命令行应用在“[4.1 应用分享和使用技巧](/deepin-src-col/sec-4.html#_4-1-%E8%BD%AF%E4%BB%B6%E5%88%86%E4%BA%AB%E5%92%8C%E4%BD%BF%E7%94%A8%E6%8A%80%E5%B7%A7)”。
+> 有些命令行应用在“[4.1 应用分享和使用技巧](/deepin-src-col/main.html#_4-1-%E8%BD%AF%E4%BB%B6%E5%88%86%E4%BA%AB%E5%92%8C%E4%BD%BF%E7%94%A8%E6%8A%80%E5%B7%A7)”。
 
 1. 手把手教你装zsh，所有github链接都换成了gitee，包你安装顺利：[https://bbs.deepin.org/zh/post/237774](https://bbs.deepin.org/zh/post/237774)
 2. 使用fish代替bash，真好用：[https://bbs.deepin.org/zh/post/238189](https://bbs.deepin.org/zh/post/238189)
@@ -652,7 +654,7 @@
 
 
 ## 三、硬件和设备
-> 部分硬件相关的资源在“[2.4.4 性能和电源管理](/deepin-src-col/sec-2.html#_2-4-4-性能和电源管理)”。
+> 部分硬件相关的资源在“[2.4.4 性能和电源管理](/deepin-src-col/main.html#_2-4-4-性能和电源管理)”。
 
 ### 3.1 显卡
 
@@ -914,7 +916,7 @@
 20. 解决MindMaster在 4k分辨率下菜单栏错位问题：[https://bbs.deepin.org/zh/post/253183](https://bbs.deepin.org/zh/post/253183)
 21. 分享一个好用的划词翻译软件（其实就是推广自己的软件）：[https://bbs.deepin.org/post/253348](https://bbs.deepin.org/post/253348)
 22. 腾讯交互翻译transmart-支持linux版本：[https://bbs.deepin.org/post/244433](https://bbs.deepin.org/post/244433)
-23. Pot 划词翻译：[官网](https://pot.pylogmon.com/)  [GitHub](https://github.com/pot-app/pot-desktop)  [论坛](https://bbs.deepin.org/post/254577)
+23. Pot 划词翻译：[官网](https://pot.pylogmon.com/)  [GitHub](https://github.com/pot-app/pot-desktop)  [论坛](https://bbs.deepin.org/post/254577)
 24. CAD二维绘图软件：QCAD，Linux deepin系统中的详细使用方式：[https://bbs.deepin.org/post/253391](https://bbs.deepin.org/post/253391)
 25. markdown 应用推荐-Oh Mymd：[https://bbs.deepin.org/post/253524](https://bbs.deepin.org/post/253524)  [官网链接](https://www.ohmymd.app/)
 26. 解决BookxNotePro在linux下无法启动或GLIBC_2.29‘ not found的问题：[https://blog.csdn.net/dorlolo/article/details/127680523](https://blog.csdn.net/dorlolo/article/details/127680523)
