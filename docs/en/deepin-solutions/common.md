@@ -22,4 +22,5 @@ Or press `super + L` to enter the lock screen. Click the menu button in the lowe
 ## The terminal outputs `su: identifies the fault` after running `su` commad.
 Use the `sudo su` command instead.
 
-## 
+## Change the category of an application in launchpad
+Use dde-file-manager to open the directory `/user/share/applications`, and find the .desktop file of the 
