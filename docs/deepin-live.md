@@ -1,7 +1,9 @@
 # 浅探 deepin Live 和修复 Linux 引导
-> 本文的其他发布平台：[deepin Wiki](https://wiki.deepin.org/zh/05_HOW-TO/01_%E4%BF%AE%E5%A4%8D%E7%B3%BB%E7%BB%9F%E7%9B%B8%E5%85%B3/%E6%B5%85%E6%8E%A2deepin-Live%E5%92%8C%E4%BF%AE%E5%A4%8DLinux%E5%BC%95%E5%AF%BC)、[语雀](https://www.yuque.com/pzm9012/ct5ume/ihc99w)
-> （教程仅供参考，请以实际情况为准。）
+:::tip
+本文的其他发布平台：[deepin Wiki](https://wiki.deepin.org/zh/05_HOW-TO/01_%E4%BF%AE%E5%A4%8D%E7%B3%BB%E7%BB%9F%E7%9B%B8%E5%85%B3/%E6%B5%85%E6%8E%A2deepin-Live%E5%92%8C%E4%BF%AE%E5%A4%8DLinux%E5%BC%95%E5%AF%BC)、[语雀](https://www.yuque.com/pzm9012/ct5ume/ihc99w)。教程仅供参考，请以实际情况为准。
+:::
 本文是我综合网络上的几篇教程和自己不久前用 LiveCD 修复 UOS 引导的经历写成的，前半部分是对 deepin Live 的说明，后半部分是修复 Linux 引导的可能方法。
+
 ## 准备
 
 你需要有一个存储空间足够大的、能被制作成启动盘的 U 盘或其他移动存储设备（推荐8 GB或更大，USB 3.0 或以上）。建议使用能多系统启动的 Ventoy ：在官网[下载 Ventoy](https://ventoy.net/cn/download.html)，解压后运行，安装 Ventoy 到 U 盘中（ U 盘**会被清空**，请提前迁移好其中的文件），再复制镜像进去（或者直接引导启动本地硬盘上的镜像文件）（详细介绍请阅读[文档](https://ventoy.net/cn/doc_news.html)）。制作后 U 盘存储文件的功能基本不受影响。如果是制作常规的（单系统）启动盘，可以使用[Rufus](http://rufus.ie/zh/)（仅 Windows 版）、[Etcher](https://www.balena.io/etcher/)等软件（下载不了？我转存了一份：[https://pan.hechuanyun.xyz/s/KzghL](https://pan.hechuanyun.xyz/s/KzghL) 或者 [https://cloud.189.cn/web/share?code=EbU3auiem2ue](https://cloud.189.cn/web/share?code=EbU3auiem2ue)（访问码：h4sf））。

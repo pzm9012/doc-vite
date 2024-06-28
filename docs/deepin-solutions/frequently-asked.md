@@ -5,7 +5,7 @@
 :::
 ### 论坛发帖提问须知
 
-[前往阅读](/deepin-solutions/论坛发帖提问须知)。
+[前往阅读](/deepin-solutions/how-to-question)。
 
 ## 使用系统的问题
 ### 终端提示输入密码，输入时没有反应

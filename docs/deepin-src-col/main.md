@@ -1,17 +1,18 @@
 # deepin 常用资源整理
 
 ::: tip
-本文创建于2021-05-15，当前版本发布于2024-06-04。
+本文创建于2021-05-15，当前版本发布于2024-06-04，版本号v4.1.5-1
+
 此资源整理非官方文档，由 [pzm9012](https://bbs.deepin.org/user/217969) 发起，当前维护者还有 [hanzn-zzx](https://bbs.deepin.org/zh/user/284017)，[阿尼樱奈奈](https://bbs.deepin.org/user/296995)。
-[访问此文档的 deepin Wiki 页面（未更新）](https://wiki.deepin.org/zh/04_%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98FAQ/deepin%E5%B8%B8%E7%94%A8%E8%B5%84%E6%BA%90%E6%95%B4%E7%90%86)   
+[访问此文档的 deepin Wiki 页面（未更新）](https://wiki.deepin.org/zh/04_%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98FAQ/deepin%E5%B8%B8%E7%94%A8%E8%B5%84%E6%BA%90%E6%95%B4%E7%90%86)
 ::: 
 
-![sec-0-banner.png](./img/sec-0-banner.png)
+![banner.png](./img/col-banner.png)
 在这里我整理了一些有帮助的资源，帮助大家更快捷地找到需要的内容。
 感谢所有提供了资源的网友。若你知道更多对他人有用的资源，或觉得本文需要改进，欢迎在评论中补充或是参与协作。
 
-> 部分资料来源于互联网，仅供学习交流使用，版权归原作者所有，若涉及侵权请联系我删除；
-> 解决方案仅供参考，**有效性详询发布者或可自行验证，请以实际操作为准**。
+部分资料来源于互联网，仅供学习交流使用，版权归原作者所有，若涉及侵权请联系我删除；
+解决方案仅供参考，**有效性详询发布者或可自行验证，请以实际操作为准**。
 
 ## 💡提示
 
@@ -174,6 +175,7 @@
 :::tip
 第三方应用相关问题见“[4.1 软件分享和使用技巧](/deepin-src-col/main.html#_4-1-%E8%BD%AF%E4%BB%B6%E5%88%86%E4%BA%AB%E5%92%8C%E4%BD%BF%E7%94%A8%E6%8A%80%E5%B7%A7)”
 部分常见问题解决方案见[deepin常见问题解决方案整理](/deepin-solutions/frequently-asked)
+:::
 
 1. deepin的bilibili个人空间（前往查看更多官方教程）：[https://space.bilibili.com/137324885](https://space.bilibili.com/137324885)
 2. Deepin 自用优化：[https://bbs.deepin.org/zh/post/245085](https://bbs.deepin.org/zh/post/245085)
@@ -449,6 +451,7 @@
 26. 安装chfs软件内网共享文件：[https://bbs.deepin.org/zh/post/256574](https://bbs.deepin.org/zh/post/256574)
 27. deepin与win互访局域网共享文件夹，与手机互传文件：[https://bbs.deepin.org/post/260710](https://bbs.deepin.org/post/260710)
 28. Beta3恢复旧版Beta2电脑协同：[https://bbs.deepin.org.cn/post/267886](https://bbs.deepin.org.cn/post/267886)
+29. 双系统蓝牙无缝连接：[https://bbs.deepin.org.cn/post/274422](https://bbs.deepin.org.cn/post/274422)
 
 #### 2.4.9 备份还原
 
@@ -635,7 +638,7 @@
 
 ### 2.6 Live 系统/环境
 
-1. 浅探 deepin Live 和修复 Linux 引导：[https://www.yuque.com/pzm9012/ct5ume/ihc99w](https://www.yuque.com/pzm9012/ct5ume/ihc99w)
+1. 浅探 deepin Live 和修复 Linux 引导：[点击阅读](/deepin-live)
 2. Deepin Community Live CD 2.0.0：[https://bbs.deepin.org/post/260096](https://bbs.deepin.org/post/260096)
 3. Deepin Community Live CD Install 1.7.0：[https://bbs.deepin.org/post/247643](https://bbs.deepin.org/post/247643)
 4. 用ventoy运行deepin不用安装到硬盘的方法：[https://bbs.deepin.org/zh/post/223203](https://bbs.deepin.org/zh/post/223203)
@@ -839,7 +842,7 @@
 
 25. 任务栏网速插件：回归：[https://bbs.deepin.org/post/272649](https://bbs.deepin.org/post/272649)
     
-    ##### 4.1.1.2 跨端协同及远程控制
+##### 4.1.1.2 跨端协同及远程控制
 
 26. 统信UOS助手移植分享：[https://bbs.deepin.org/zh/post/230801](https://bbs.deepin.org/zh/post/230801)
 
@@ -864,16 +867,13 @@
 36. LocalSend——或许是迄今最好用的跨端文件传输工具之一：[https://bbs.deepin.org/post/265838](https://bbs.deepin.org/post/265838)
 
 37. gwakeonlan中文版下载：[https://bbs.deepin.org/post/265157](https://bbs.deepin.org/post/265157)
-
 38. DeepinV23 beta2编译KDE connect：[https://bbs.deepin.org/post/262929](https://bbs.deepin.org/post/262929)
-    
-    > 在V23版本上安装kdeconnect的deb包：[https://bbs.deepin.org/post/263111](https://bbs.deepin.org/post/263111)
-
+> 在V23版本上安装kdeconnect的deb包：[https://bbs.deepin.org/post/263111](https://bbs.deepin.org/post/263111)
 39. 20.9可用的Moonlight：[https://bbs.deepin.org/post/264309](https://bbs.deepin.org/post/264309)
-
 40. 临时解决remmina无法连接服务器--更改安全协商、降版本都无效：[https://bbs.deepin.org/zh/post/255861](https://bbs.deepin.org/zh/post/255861)
+41. 安卓手机投屏视频到deepin电脑上播放Macast：[https://bbs.deepin.org.cn/post/274452](https://bbs.deepin.org.cn/post/274452)
     
-    ##### 4.1.1.3 软件包管理及应用商店
+##### 4.1.1.3 软件包管理及应用商店
 
 41. 自制的玲珑商店客户端：[https://bbs.deepin.org/post/273074](https://bbs.deepin.org/post/273074)
 
@@ -889,7 +889,7 @@
 
 47. 星火应用商店 龙芯新世界版 安装指南：[https://bbs.deepin.org/post/269769](https://bbs.deepin.org/post/269769)
     
-    ##### 4.1.1.4 系统管理及安全软件
+##### 4.1.1.4 系统管理及安全软件
 
 48. Bleachbit 免费开源跨平台无广告，功能强悍Linux系统清理优化工具：[https://bbs.deepin.org.cn/post/267235](https://bbs.deepin.org.cn/post/267235)
 
@@ -909,7 +909,7 @@
 
 56. secret-diary (安全日记本)加密日记本，加密强度非常强：[https://bbs.deepin.org/post/268153](https://bbs.deepin.org/post/268153)
     
-    ##### 4.1.1.5 文件及磁盘管理
+##### 4.1.1.5 文件及磁盘管理
 
 57. 隐藏多余磁盘分区的工具：[https://bbs.deepin.org/post/266416](https://bbs.deepin.org/post/266416)
 
@@ -931,7 +931,7 @@
 
 66. dust和duf查看磁盘空间的工具：[https://bbs.deepin.org/post/268243](https://bbs.deepin.org/post/268243)
     
-    ##### 4.1.1.6 终端及命令脚本
+##### 4.1.1.6 终端及命令脚本
 
 67. bash 编写的 wifi 无线网卡芯片型号检测工具 wifi-card-report：[https://bbs.deepin.org/post/264069](https://bbs.deepin.org/post/264069)
 
@@ -945,7 +945,7 @@
 
 72. 国产终端工具推荐--闪令：[https://bbs.deepin.org/post/241112](https://bbs.deepin.org/post/241112)
     
-    ##### 4.1.1.7 其他
+##### 4.1.1.7 其他
 
 73. 一个好用又好看的UEFI启动管理器rEFInd：[https://bbs.deepin.org/zh/post/221068](https://bbs.deepin.org/zh/post/221068)
 
@@ -1230,6 +1230,7 @@
 25. Blender物体调整及调整显示效果笔记：[https://bbs.deepin.org/post/268347](https://bbs.deepin.org/post/268347)
 26. Blender部分删除物体、如何处理穿模、圆润边角：[https://bbs.deepin.org.cn/post/268386](https://bbs.deepin.org.cn/post/268386)
 27. 使用deepin V23 RC2 在本地搭建Stable Diffusion：[https://bbs.deepin.org.cn/post/274352](https://bbs.deepin.org.cn/post/274352)
+28. linux原生美图秀秀，简单修改就可以用了：[https://bbs.deepin.org.cn/post/274431](https://bbs.deepin.org.cn/post/274431)
 
 #### 4.1.10 解压刻录
 

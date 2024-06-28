@@ -2,6 +2,7 @@
 :::tip 说明
 本文收集 deepin 论坛的一小部分帖子里的问题解决方案。本文提供的解决方案有些是对应问题的一种处理方案，并非唯一，仅供参考。
 :::
+
 ## Linux 和 Windows 时间不同步
 :::tip 出处
 见 [https://bbs.deepin.org/post/253670?postId=1438866](https://bbs.deepin.org/post/253670?postId=1438866) 3楼。
@@ -18,40 +19,28 @@ Linux和苹果操作系统以当前主板CMOS内时间做为格林威治标准�
 
 解决的办法有两个
 
-让Windows使用Ubuntu的时间管理方式，就是启用UTC（世界协调时）
-让Ubuntu按照Windows的方式管理时间，就是让Ubuntu禁用UTC（世界协调时）
+让Windows使用Linux的时间管理方式，就是启用UTC（世界协调时）
+让Linux按照Windows的方式管理时间，就是让Ubuntu禁用UTC（世界协调时）
 
 个人建议第二种，因为通常Windows是主系统，不推荐对Windows进行这种修改，不过我还是都介绍一下：
-1.在Windows下启用UTC
-打开运行窗口（快捷键Win+R），然后输入regedit启动注册表编辑器，并找到一下目录位置：
-```
-HKEY_LOCAL_MACHINE/SYSTEM/CurrentControlSet/Control/TimeZoneInformation/
-```
-添加一项类型为`REG_DWORD`的键值，命名为`RealTimeIsUniversal`，值为 `1` 然后重启后时间即回复正常
 
-2.在Linux下关闭UTC
+1. 在Windows下启用UTC
+
+打开运行窗口（快捷键Win+R），然后输入regedit启动注册表编辑器，并找到`HKEY_LOCAL_MACHINE/SYSTEM/CurrentControlSet/Control/TimeZoneInformation/`位置（可以直接粘贴进注册表编辑器地址栏），然后添加一项类型为`REG_DWORD`的键值，命名为`RealTimeIsUniversal`，值为 `1` 。重启后时间即回复正常
+
+2. 在Linux下关闭UTC
+
 这个用这个方法是我比较推荐的：按Ctrl+Alt+T调出终端，输入：
-```
+```sh
 sudo vim /etc/default/rcS
 ```
-找到
-```
-UTC=yes
-```
-这一行，改成
-```
-UTC=no
-```
-保存即可，时间修改立即生效。这样就可以解决Windows与Ubuntu双系统时间同步问题了
+找到`UTC=yes`这一行，改成`UTC=no`保存即可，时间修改立即生效。这样就可以解决Windows与Ubuntu双系统时间同步问题了
 
-3.(推荐)
+3. (推荐)
 
-在Linux下打开终端，输入命令：
-```
+在Linux下打开终端，依次输入以下命令：
+```sh
 timedatectl set-local-rtc 1
-```
-然后再输入
-```
 timedatectl
 ```
 
@@ -60,12 +49,12 @@ timedatectl
 见 [https://bbs.deepin.org/post/253636?postId=1438575](https://bbs.deepin.org/post/253636?postId=1438575) 2楼。
 :::
 查询当前系统的全部内核
-```
-sudo dpkg -l|egrep "linux-header|linux-image"
+```sh
+sudo dpkg -l | grep "linux-header|linux-image"
 ``` 
 
 清理不需要的内核
-```
+```sh
 sudo apt purge xxxxx
 ```
 
@@ -90,7 +79,7 @@ Super + 0，关闭放大镜。
 见 [https://bbs.deepin.org/zh/post/254022?postId=1442273](https://bbs.deepin.org/zh/post/254022?postId=1442273) 7楼。
 :::
 执行 
-```
+```sh
 sudo rm /var/lib/apt/lists/*
 sudo apt update
 ```
@@ -106,7 +95,7 @@ sudo apt update
 ![202304270812118054_image.png](./img/202304270812118054_image.png)
 
 文件内容很简单：
-```
+```txt
 verticalWidth 540 //竖屏宽
 verticalHeighe 960 //竖屏高
 horizontaltWidth 1280 //横屏宽，备选为1280
@@ -160,11 +149,11 @@ service --status-all
 :::
 1. 前往 [https://github.com/thesofproject/sof-bin/releases](https://github.com/thesofproject/sof-bin/releases) 下载 sof-bin-vx.x.x.tar.gz 文件。
 2. 准备一个存放备份的文件夹，终端执行以下命令：（自行替换备份路径）
-```
+```sh
 sudo mv /lib/firmware/intel/sof* /path/to/backup/folder/
 ```
 3. 解压下载的文件，在解压后文件所在的目录里打开终端，执行：（自行替换版本号）
-```
+```sh
 sudo ./install.sh
 ```
 
@@ -174,8 +163,10 @@ sudo ./install.sh
 
 ## 将 Scroll Lock 键映射为键盘灯开关
 :::tip 出处
-见 [https://bbs.deepin.org/zh/post/262357?postId=1516951](https://bbs.deepin.org/zh/post/262357?postId=1516951)。:::
-```
+见 [https://bbs.deepin.org/zh/post/262357?postId=1516951](https://bbs.deepin.org/zh/post/262357?postId=1516951)。
+:::
+将以下文件保存为`a.sh`，然后在同目录下在右键中端中打开，执行`sudo chmod +x a.sh && sudo ./a.sh`
+```sh
 #!/bin/bash
 status=/tmp/keyboard_led_status  
 if [[ ${1} == "on" ]] || [[ ! -e ${status} ]]; then  
@@ -185,7 +176,7 @@ else
 fi
 ```
 
-​## 间接使用手写输入法
+## 间接使手写输入法
 :::tip 出处
 见 [https://bbs.deepin.org/post/241747?postId=1366668](https://bbs.deepin.org/post/241747?postId=1366668) 7楼。
 :::

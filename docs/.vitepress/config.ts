@@ -25,7 +25,6 @@ export default defineConfig({
                   text: 'deepin 常用资源整理',
                   items: [
                     { text: '整理主体', link: '/deepin-src-col/main' },
-                    { text: '致谢', link: '/deepin-src-col/thanks' },
                     { text: '归档', link:'deepin-src-col/achieve'},
                     { text: '项目相关', link: '/deepin-src-col/about' }
                   ]
