@@ -20,7 +20,8 @@ Linux和苹果操作系统以当前主板CMOS内时间做为格林威治标准�
 解决的办法有两个
 
 让Windows使用Linux的时间管理方式，就是启用UTC（世界协调时）
-让Linux按照Windows的方式管理时间，就是让Ubuntu禁用UTC（世界协调时）
+
+让Linux按照Windows的方式管理时间，就是让Linux禁用UTC（世界协调时）
 
 个人建议第二种，因为通常Windows是主系统，不推荐对Windows进行这种修改，不过我还是都介绍一下：
 
@@ -28,13 +29,13 @@ Linux和苹果操作系统以当前主板CMOS内时间做为格林威治标准�
 
 打开运行窗口（快捷键Win+R），然后输入regedit启动注册表编辑器，并找到`HKEY_LOCAL_MACHINE/SYSTEM/CurrentControlSet/Control/TimeZoneInformation/`位置（可以直接粘贴进注册表编辑器地址栏），然后添加一项类型为`REG_DWORD`的键值，命名为`RealTimeIsUniversal`，值为 `1` 。重启后时间即回复正常
 
-2. 在Linux下关闭UTC
+2. 在deepin下关闭UTC
 
 这个用这个方法是我比较推荐的：按Ctrl+Alt+T调出终端，输入：
 ```sh
-sudo vim /etc/default/rcS
+sudo deepin-editor /etc/default/rcS
 ```
-找到`UTC=yes`这一行，改成`UTC=no`保存即可，时间修改立即生效。这样就可以解决Windows与Ubuntu双系统时间同步问题了
+找到`UTC=yes`这一行，改成`UTC=no`然后Ctrl+S保存即可，时间修改立即生效。这样就可以解决Windows与Linux双系统时间同步问题了。
 
 3. (推荐)
 
@@ -152,10 +153,11 @@ service --status-all
 ```sh
 sudo mv /lib/firmware/intel/sof* /path/to/backup/folder/
 ```
-3. 解压下载的文件，在解压后文件所在的目录里打开终端，执行：（自行替换版本号）
+3. 解压下载的文件，在解压后文件所在的目录里打开终端，执行：
 ```sh
 sudo ./install.sh
 ```
+4. 重启系统后即可生效。
 
 此章节的参考资料：
 - [https://bbs.deepin.org/post/245513?offset=0&postId=1399406](https://bbs.deepin.org/post/245513?offset=0&postId=1399406)

@@ -563,6 +563,7 @@
 23. 星穹铁道壁纸分享：贝洛伯格的极光：[https://bbs.deepin.org/post/262749](https://bbs.deepin.org/post/262749)
 24. XXTXTOP 的壁纸：[https://bbs.deepin.org/post/263394](https://bbs.deepin.org/post/263394)
 25. 给打工人们来点专属发疯壁纸(不是：[https://bbs.deepin.org/post/267661](https://bbs.deepin.org/post/267661)
+26. 忘记从哪位群友分享的壁纸，喜欢的拿：[https://bbs.deepin.org.cn/post/274567](https://bbs.deepin.org.cn/post/274567)
 
 #### 2.5.2 程序窗口
 
@@ -1230,7 +1231,8 @@
 25. Blender物体调整及调整显示效果笔记：[https://bbs.deepin.org/post/268347](https://bbs.deepin.org/post/268347)
 26. Blender部分删除物体、如何处理穿模、圆润边角：[https://bbs.deepin.org.cn/post/268386](https://bbs.deepin.org.cn/post/268386)
 27. 使用deepin V23 RC2 在本地搭建Stable Diffusion：[https://bbs.deepin.org.cn/post/274352](https://bbs.deepin.org.cn/post/274352)
-28. linux原生美图秀秀，简单修改就可以用了：[https://bbs.deepin.org.cn/post/274431](https://bbs.deepin.org.cn/post/274431)
+28. 给Stable Diffusion webui界面进行汉化：[https://bbs.deepin.org.cn/post/274625](https://bbs.deepin.org.cn/post/274625)
+29. linux原生美图秀秀，简单修改就可以用了：[https://bbs.deepin.org.cn/post/274431](https://bbs.deepin.org.cn/post/274431)
 
 #### 4.1.10 解压刻录
 
