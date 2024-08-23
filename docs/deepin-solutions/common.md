@@ -22,7 +22,7 @@ sudo systemctl disable ddm.service
 sudo systemctl enable lightdm.service
 ```
 ### 方案2
-TreeLand 环境下，按 Super + L 可以进入锁屏界面，右下角有个菜单按钮，点击后可以选择返回默认模式，会自动重启并恢复 LightDM
+TreeLand 环境下，按`Super + L`可以进入锁屏界面，右下角有个菜单按钮，点击后可以选择返回默认模式，会自动重启并恢复 LightDM
 
 ## 终端执行`su`显示`su: 鉴定故障`
 改用`sudo su`命令。
@@ -35,12 +35,12 @@ TreeLand 环境下，按 Super + L 可以进入锁屏界面，右下角有个菜
 
 ## deepin23软件包名汇总
 :::tip 说明
-出处https://bbs.deepin.org.cn/post/275654，感谢阿尼樱奈奈整理
+出处[https://bbs.deepin.org.cn/post/275654](https://bbs.deepin.org.cn/post/275654)，感谢阿尼樱奈奈整理
 如有错误，敬请指正
 :::
 
 ### 包名
-1.玲珑包：
+#### 玲珑包
 
 玲珑包名|对应deb包名|应用名称
 -------|-------|-------
@@ -48,7 +48,7 @@ org.dde.calendar|dde-calendar|日历
 org.deepin.browser|org.deepin.browser|浏览器
 org.deepin.mail|deepin-mail|邮箱
 
-2.deb包：
+#### deb包：
 
 deb包名 |	应用名称
 -------|-------
@@ -96,14 +96,12 @@ deepin-unioncode|Deepin Union Code
 fcitx5|Fcitx 5 输入法
 
 ### 操作
-1. 安装：
-
-deb：应用商店安装，或者终端执行：sudo apt install 包名 （如：sudo apt install deepin-music
+#### 安装
+deb：应用商店安装，或者终端执行：sudo apt install 包名 （如：`sudo apt install deepin-music`）
 
 玲珑：应用商店（目前可能失败）或Jokul自制的玲珑商店安装，或者终端执行：ll-cli install 玲珑包名
 
-2. 卸载：
-
+#### 卸载
 deb：应用商店卸载，启动器右键应用图标卸载，或者终端执行：sudo apt remove 包名 或 sudo apt purge 包名 （如：sudo apt purge deepin-music）
 
 玲珑：应用商店或Jokul自制的玲珑商店卸载，启动器右键应用图标卸载，或者终端执行： ll-cli uninstall 珑包名
