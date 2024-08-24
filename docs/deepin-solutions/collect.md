@@ -142,11 +142,14 @@ service --status-all
 `git clone https://<gitee_用户名>:<私人令牌>@gitee.com/<gitee_用户名>/notepad.git`
 
 ## 安装 Sound Open Firmware
-:::warning 系统要求
-建议使用 deepin V23，加入内测且更新至最新版。
-:::
-:::tip 提示
+:::warning 提示
+建议使用deepin23及以上系统版本
+
 有些已在 SOF 中支持的声卡可手动安装最新的固件来尝试使声卡可用。由于硬件多样，声卡可能无法完全正常工作（如麦克风无法使用、仅  3.5mm 耳机接口可用等）。
+:::
+:::tip 参考资料
+- [https://bbs.deepin.org/post/245513?offset=0&postId=1399406](https://bbs.deepin.org/post/245513?offset=0&postId=1399406)
+- [https://bbs.deepin.org/post/238558?offset=0&postId=1399543](https://bbs.deepin.org/post/238558?offset=0&postId=1399543)
 :::
 1. 前往 [https://github.com/thesofproject/sof-bin/releases](https://github.com/thesofproject/sof-bin/releases) 下载 sof-bin-vx.x.x.tar.gz 文件。
 2. 准备一个存放备份的文件夹，终端执行以下命令：（自行替换备份路径）
@@ -158,10 +161,6 @@ sudo mv /lib/firmware/intel/sof* /path/to/backup/folder/
 sudo ./install.sh
 ```
 4. 重启系统后即可生效。
-
-此章节的参考资料：
-- [https://bbs.deepin.org/post/245513?offset=0&postId=1399406](https://bbs.deepin.org/post/245513?offset=0&postId=1399406)
-- [https://bbs.deepin.org/post/238558?offset=0&postId=1399543](https://bbs.deepin.org/post/238558?offset=0&postId=1399543)
 
 ## 将 Scroll Lock 键映射为键盘灯开关
 :::tip 出处
@@ -183,3 +182,29 @@ fi
 见 [https://bbs.deepin.org/post/241747?postId=1366668](https://bbs.deepin.org/post/241747?postId=1366668) 7楼。
 :::
 用这个在线版的手写识别系统：[https://teshuzi.com/zh/handwriting/](https://teshuzi.com/zh/handwriting/)    一个一个的手动复制手写识别的字（点击就可以复制），再粘贴到相应的需要输入的地方
+
+## deepin23缺少openssl-1.1.so
+:::tip 出处
+[https://bbs.deepin.org.cn/post/277536](https://bbs.deepin.org.cn/post/277536)，感谢[greenery](https://bbs.deepin.org.cn/user/296759)提供教程
+:::
+终端执行以下命令
+```sh
+wget https://github.com/openssl/openssl/releases/download/OpenSSL_1_1_1w/openssl-1.1.1w.tar.gz
+
+tar -xvf openssl-1.1.1w.tar.gz
+cd openssl-1.1.1w
+sudo mkdir /usr/local/lib/openssl-1.1
+./config --prefix=/usr/local/lib/openssl-1.1 --openssldir=/usr/local/lib/openssl-1.1 shared zlib
+sudo apt-get install zlib1g-dev
+make
+
+sudo cp libcrypto.so.1.1 libssl.so.1.1 /usr/local/lib/openssl-1.1
+sudo link /usr/local/lib/openssl-1.1/libcrypto.so.1.1 /usr/lib/x86_64-linux-gnu/libcrypto.so.1.1
+sudo link /usr/local/lib/openssl-1.1/libssl.so.1.1 /usr/lib/x86_64-linux-gnu/libssl.so.1.1
+```
+注意一定不要使用make install安装
+
+当然也可以从星火商店源安装，安装星火商店后终端执行如下命令
+```sh
+sudo aptss isntall libssl1.1
+```

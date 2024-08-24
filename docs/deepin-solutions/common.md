@@ -34,9 +34,8 @@ TreeLand 环境下，按`Super + L`可以进入锁屏界面，右下角有个菜
 打开 `/usr/share/applications`，右击窗口内空白处，选择“以管理员身份打开”。右击要修改的应用的 .desktop 文件，选择“打开方式”>“文本编辑器”，修改`Categories=`后面的内容。
 
 ## deepin23软件包名汇总
-:::tip 说明
-出处[https://bbs.deepin.org.cn/post/275654](https://bbs.deepin.org.cn/post/275654)，感谢阿尼樱奈奈整理
-如有错误，敬请指正
+:::tip 出处
+[https://bbs.deepin.org.cn/post/275654](https://bbs.deepin.org.cn/post/275654)，感谢[阿尼樱奈奈](https://bbs.deepin.org.cn/user/296995)整理
 :::
 
 ### 包名
@@ -48,7 +47,7 @@ org.dde.calendar|dde-calendar|日历
 org.deepin.browser|org.deepin.browser|浏览器
 org.deepin.mail|deepin-mail|邮箱
 
-#### deb包：
+#### deb包
 
 deb包名 |	应用名称
 -------|-------
@@ -97,13 +96,13 @@ fcitx5|Fcitx 5 输入法
 
 ### 操作
 #### 安装
-deb：应用商店安装，或者终端执行：sudo apt install 包名 （如：`sudo apt install deepin-music`）
+deb：应用商店安装，或者终端执行：`sudo apt install <包名>`（如：sudo apt install deepin-music）
 
-玲珑：应用商店（目前可能失败）或Jokul自制的玲珑商店安装，或者终端执行：ll-cli install 玲珑包名
+玲珑：应用商店（目前可能失败）或Jokul自制的玲珑商店安装，或者终端执行：`ll-cli install <玲珑包名>`
 
 #### 卸载
-deb：应用商店卸载，启动器右键应用图标卸载，或者终端执行：sudo apt remove 包名 或 sudo apt purge 包名 （如：sudo apt purge deepin-music）
+deb：应用商店卸载，启动器右键应用图标卸载，或者终端执行`sudo apt remove <包名>`或 `sudo apt purge <包名>`（如：sudo apt purge deepin-music）
 
-玲珑：应用商店或Jokul自制的玲珑商店卸载，启动器右键应用图标卸载，或者终端执行： ll-cli uninstall 珑包名
+玲珑：应用商店或Jokul自制的玲珑商店卸载，启动器右键应用图标卸载，或者终端执行`ll-cli uninstall <玲珑包名>`
 
 注意：卸载自带应用时需谨慎，部分自带应用涉及到系统，卸载后可能会导致系统异常；还有在输入命令时，注意install/remove/purge/uninstall和包名之间的空格
