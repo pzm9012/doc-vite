@@ -38,4 +38,53 @@ timedatectl set-local-rtc 1
 timedatectl
 ```
 
-## 
+## Delete the needless kernels
+:::tip Provenance
+[https://bbs.deepin.org/post/253636?postId=1438575 Comment2](https://bbs.deepin.org/post/253636?postId=1438575)
+:::
+Show all the kernels in the system
+```sh
+sudo dpkg -l | grep "linux-header|linux-image"
+```
+
+Delete the needless kernels
+```sh
+sudo apt purge xxxxx
+```
+
+## Customize Screen scaling
+:::tip Provenance
+[https://bbs.chinauos.com/zh/post/9328 Comment2](https://bbs.chinauos.com/zh/post/9328)
+:::
+Run the following commands to install `dconf editor`
+```sh
+sudo apt install dconf-editor
+```
+Then find `window-scale` and change the value of it.
+
+## Magnifier
+:::tip Provenance
+[https://bbs.deepin.org/post/253561?postId=1438805](https://bbs.deepin.org/post/253561?postId=1438805)
+:::
+`Super + +` to enable and magnify
+
+`Super + -` to shrink
+
+`Super + 0 `to disable
+
+## Some appliccations goes wrong after join in deepin beta
+:::tip Provenance
+[https://bbs.deepin.org/zh/post/254022?postId=1442273 Comment7](https://bbs.deepin.org/zh/post/254022?postId=1442273)
+:::
+Run the following commands to update local warehouse index information
+```sh
+sudo rm -rf /var/lib/apt/lists
+sudo apt update
+```
+and then try to reinstall.
+
+## Clear the address bar history of deepin file manager
+:::tip Provenance
+[https://bbs.deepin.org/post/254424?postId=1445509 Comment3](https://bbs.deepin.org/post/254424?postId=1445509)
+:::
+Open `~/.config/deepin/dde-file-manager/dde-file-manager.obtusely.json`, and then delete the value of `SearchHistory`.

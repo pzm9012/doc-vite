@@ -68,7 +68,7 @@ Windows 把电脑的硬件时间（RTC）看成是本地时间（本地时间 = 
 V23 预装 Fcitx5，与搜狗输入法（Fcitx4）暂不兼容。安装搜狗输入法前需先卸载 Fcitx5 输入法组件。
 
 终端执行以下命令：
-```
+```sh
 sudo apt purge fcitx*
 sudo apt install "fcitx" fcitx-pinyin
 ```
@@ -78,7 +78,7 @@ sudo apt install "fcitx" fcitx-pinyin
 
 ### 解决 UEngine 禁止安装来源不明的应用
 终端执行以下命令：
-```
+```sh
 /usr/bin/uengine launch.sh --package=org.anbox.appmgr --component=org.anbox.appmgr.AppViewActivity
 ```
 或者安装并打开 UEngine 运行器，点击“打开 UEngine 应用列表”。
