@@ -1,10 +1,9 @@
 # 在deepin上玩游戏
+大多数Windows游戏并不能直接运行在deepin上，需要借助wine或是Proton这类兼容工具。本节主要收集部分Windows游戏在deepin上运行的教程，当然，其他Linux系统亦可参考。
 
-## 原神
-
-### 方案1
+## 运行原神
 :::tip 出处
-https://bbs.deepin.org/post/261576
+[https://bbs.deepin.org.cn/post/268240](https://bbs.deepin.org/zh/post/268240)，感谢[Amber](https://bbs.deepin.org.cn/user/285179)提供教程。
 :::
 
 1. 安装游戏本体。理论可以通过An anime game lancher下载 **（未经测试！）**，然后将它放在NTFS分区。
@@ -22,10 +21,26 @@ https://bbs.deepin.org/post/261576
 然后选择“YuanShen.exe”所在路径，点继续，等它操作完成就可以啦
 ![1-3-2.png](https://storage.deepin.org/thread/202308301723191087_202301121641514647_%E6%88%AA%E5%9B%BE_lutris_20230112164141.png)
 
-### 方案2
+## 通过steam运行Windows游戏
+:::tip 出处
+[https://bbs.deepin.org.cn/post/277794](https://bbs.deepin.org.cn/post/277794)，感谢[Mr.Tree](https://bbs.deepin.org.cn/user/310436)提供教程
 
-使用[网页版云原神](https://ys.mihoyo.com/cloud/#/)，支持的浏览器有Firefox,Chrome等。不支持手柄
+本教程以极品飞车17：最高通缉为例
+:::
+1. 在windows下安装好游戏。
+2. 找到游戏所在路径，将游戏拷贝至deepin分区下面，建议放在`~/.deepinwine`下，此处作者放在桌面上。
+![step2](https://storage.deepin.org/thread/202408270221574059_image.png)
 
-### 方案3
+3. 首先通过应用商店下载steam，安装完成后登录steam，进入“库”页面
+![step3](https://storage.deepin.org/thread/202408270224442081_image.png)
 
-使用麟卓卓懿模拟器运行安卓原神，建议使用AMD/intel显卡，运行环境选择安卓9，这样既有图形模式又有性能模式。**（未经测试，请慎用）**
+4. 点击下方的 “添加游戏——添加非steam游戏”。
+![step4](https://storage.deepin.org/thread/20240827022708319_image.png)
+
+5. 点击浏览——选择游戏所在路径——找到游戏目录下的.exe文件——打开——添加所选程序。
+![step5](https://storage.deepin.org/thread/202408270229081318_image.png)
+
+6. 在库里找到刚添加的NFS13.exe——右键属性——兼容性——勾选强制使用特定Steam Play兼容性工具——选择Proton 9.0-2——然后关闭页面。
+![step6](https://storage.deepin.org/thread/202408270233071883_image.png)
+
+然后就可以通过Steam点击开始游戏，愉快的开始玩耍啦~
