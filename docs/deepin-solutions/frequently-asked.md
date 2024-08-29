@@ -17,11 +17,19 @@
 Windows 把电脑的硬件时间（RTC）看成是本地时间（本地时间 = RTC），Linux 则是把电脑的硬件时间看成 UTC 时间（本地时间 = RTC+8 = UTC+8）。
 解决方法有让 Windows 使用 UTC 或让 deepin 按照 Windows 的方式管理时间。具体见[这里](/deepin-solutions/collect.html#linux-%E5%92%8C-windows-%E6%97%B6%E9%97%B4%E4%B8%8D%E5%90%8C%E6%AD%A5)。
 
+如出现快16个小时的情况，可能还需要调整时区为上海时区并调整时间偏移值。可以参考ArchWiki的[这篇文章](https://wiki.archlinuxcn.org/wiki/%E7%B3%BB%E7%BB%9F%E6%97%B6%E9%97%B4)
+
 ### 开启无密码登录和自动登录后，进入桌面提示“您的登录密钥环未被解锁”
-在终端执行`sudo rm -f ~/.local/share/keyrings/login.keyring`。
+终端执行：
+```sh
+sudo rm -f ~/.local/share/keyrings/login.keyring
+```
 
 ### 控制中心更新失败自查原因
-打开终端，执行`sudo apt update && sudo apt full-upgrade`。
+终端执行
+```sh
+sudo apt update && sudo apt full-upgrade
+```
 
 ### 编辑右键菜单“新建文档”中的内容
 修改 `~/.Templates/` 和 `/usr/share/templates/` 中的文件。
@@ -38,11 +46,17 @@ Windows 把电脑的硬件时间（RTC）看成是本地时间（本地时间 = 
 ### deepin arm64或loong64版本无应用商店
 由于arm和loongarch生态建设现在还较为欠缺，可供上架应用较少，所以暂时未提供应用商店
 
-可以使用[星火应用商店](https://gitee.com/spark-store-project/spark-store/releases/)替代，龙芯用户可以在安装liblol后安装[龙芯应用合作社](http://app.loongapps.cn)提供的应用。
+可以使用[星火应用商店](https://gitee.com/spark-store-project/spark-store/releases/)替代，龙芯用户还可以在安装liblol后安装[龙芯应用合作社](http://app.loongapps.cn/detail/222)。
 
 ## 第三方软件使用
 ### WPS Office 字体显示异常
 安装[星火商店](https://www.spark-app.store)后从中获取“Win字体”软件包。或参见： [WPS页面显示问题](https://wiki.deepin.org/zh/WPS页面显示问题)。
+
+### WPS office 无法打开 PDF 文件
+终端执行：
+```sh
+sudo ln -s /usr/lib/x86_64-linux-gnu/libtiff.so.6 /usr/lib/x86_64-linux-gnu/libtiff.so.5
+```
 
 ### Firefox 显示过大 UI
 打开`about:config`页面，选择我知道风险，把`browser.display.os-zoom-behavior`修改为 0。
