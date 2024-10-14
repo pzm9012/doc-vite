@@ -2,7 +2,6 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: "/doc-vite/",
   locales: {
     root: {
       label: '简体中文',
@@ -12,7 +11,7 @@ export default defineConfig({
       themeConfig: {
         nav: [
           { text: '我的语雀主页', link: 'https://yuque.com/pzm9012/ct5ume/' },
-          { text: '博客', link: 'https://pzm9012.github.io' },
+          { text: '博客', link: 'https://blog.fmyron.com' },
           { text: '我的 deepin 论坛主页', link: 'https://bbs.deepin.org/user/217969' }
         ],
         sidebar: {
