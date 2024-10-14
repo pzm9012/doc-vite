@@ -88,6 +88,9 @@ export default defineConfig({
     ],
     search: {
       provider: 'local'
+    },
+    footer: {
+      message: '<a href="https://beian.miit.gov.cn/">鄂ICP备2024075622号-1</a>'
     }
   }
 })
