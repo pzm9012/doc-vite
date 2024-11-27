@@ -1,10 +1,9 @@
 # deepin 常用资源整理
 
 ::: tip
-本文创建于2021-05-15，当前版本发布于2024-06-04，版本号v4.1.5-1
+本文创建于2021-05-15
 
-此资源整理非官方文档，由 [pzm9012](https://bbs.deepin.org/user/217969) 发起，当前维护者还有 [hanzn-zzx](https://bbs.deepin.org/zh/user/284017)，[阿尼樱奈奈](https://bbs.deepin.org/user/296995)。
-
+此资源整理非官方文档，由 [pzm9012](https://bbs.deepin.org/user/217969) 发起.
 [访问此文档的语雀页面（主要更新平台）](https://www.yuque.com/pzm9012/ct5ume/nte586)，[访问此文档的 deepin Wiki 页面（未更新）](https://wiki.deepin.org/zh/04_%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98FAQ/deepin%E5%B8%B8%E7%94%A8%E8%B5%84%E6%BA%90%E6%95%B4%E7%90%86)
 ::: 
 
@@ -46,26 +45,23 @@
 7. linux使用的常见问题和经验总结：[https://bbs.deepin.org/post/246703](https://bbs.deepin.org/post/246703)
 8. 统信软件-知识分享平台：[https://faq.uniontech.com/](https://faq.uniontech.com/)
 9. 在GitHub上反馈问题，5步搞定！：[https://bbs.deepin.org/post/257775](https://bbs.deepin.org/post/257775)
-10. 学习编程区资源整理（第一期·持续更新中）：[https://bbs.deepin.org/zh/post/255506](https://bbs.deepin.org/zh/post/255506)
-11. Linux知识分享：[https://bbs.deepin.org/post/266002](https://bbs.deepin.org/post/266002)
-12. deepin 及常用软件的高频问题和解决方法：[https://bbs.deepin.org/post/272867](https://bbs.deepin.org/post/272867)
+10. Linux知识分享：[https://bbs.deepin.org/post/266002](https://bbs.deepin.org/post/266002)
+11. deepin 及常用软件的高频问题和解决方法：[https://bbs.deepin.org/post/272867](https://bbs.deepin.org/post/272867)
 
 ### 1.3 博客等
 
 1. DOSU Community：[https://www.deepinos.org/](https://www.deepinos.org/)
-2. 青菜芋子的博客：[https://loafing.cn/tags/Deepin/](https://loafing.cn/tags/Deepin/)
-3. shenmo的世界：[https://blog.shenmo.tech/](https://blog.shenmo.tech/)
-4. ManateeLazyCat（老王）的博客：[https://manateelazycat.github.io](https://manateelazycat.github.io)
-5. pzm9012 的小站：[https://pzm9012.github.io/](https://pzm9012.github.io/)
-6. 青稚的空间： [https://linux-qitong.gitee.io/](https://linux-qitong.gitee.io/)
-7. hanzn-zzx的博客：[https://hanzn-zzx.gitlab.io/](https://hanzn-zzx.gitlab.io)
-8. 阿尼樱奈奈的博客：[https://aninana.github.io/](https://aninana.github.io/)
+2. 青菜芋子：[https://loafing.cn/tags/Deepin/](https://loafing.cn/tags/Deepin/)
+3. shenmo：[https://blog.shenmo.tech/](https://blog.shenmo.tech/)
+4. ManateeLazyCat（老王）：[https://manateelazycat.github.io](https://manateelazycat.github.io)
+5. pzm9012：[https://blog.fmyron.com/](https://blog.fmyron.com/)
+6. 青稚： [https://blog.linux-qitong.top/](https://blog.linux-qitong.top/)
+7. hanzn-zzx：[https://hanzn-blog.pages.dev/](https://hanzn-blog.pages.dev/)
+8. 阿尼樱奈奈：[https://aninana.github.io/](https://aninana.github.io/)
 
 ## 二、系统
 
 ### 2.1 系统安装
-
-> 安装 [deepin 20.4](https://bbs.deepin.org/post/230585) 之后的版本，安装器能自动识别已有 EFI 分区，无需再另外手动创建。
 
 1. **安装教程（官方）**：[https://www.deepin.org/zh/installation/](https://www.deepin.org/zh/installation/)（建议使用ventoy制作启动盘）
 2. win10下的Deepin双系统安装小白教程：[https://bbs.deepin.org/zh/post/197659](https://bbs.deepin.org/zh/post/197659)  [金山文档转存链接](https://kdocs.cn/l/svDZBaMvvQtQ)
